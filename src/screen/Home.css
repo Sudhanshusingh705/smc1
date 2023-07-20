@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+
+/*Hero section*/ 
+
+.hero-section{
+  margin-top: -20px;
+  z-index: -1;
+}
+.hero-section img{
+    max-height: 500px;
+    z-index: -1;
+    
+}
+
+
+
+
+/*Navbar section*/
+#sub-nav
+{
+  margin-right:0px;
+  background-color: transparent;
+}
+.Navigation
+{
+  background-color: transparent;}
+
+#navbarSupportedContent
+{
+  justify-content: space-between;
+}
+
+/*Search button*/
+.btn{
+  align-items: end;
+}
+
+
+
+.carousel-item 
+{
+ background-color: transparent;
+}
+
+#image-carousel
+{
+  margin-top: -60px;
+}
