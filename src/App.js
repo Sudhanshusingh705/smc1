@@ -2,8 +2,6 @@ import './App.css';
 import Navbar from './component/Navbar';
 import Footer from './component/Footer';
 import Home from './screen/Home';
-import About from './screen/About';
-import Contact from './screen/Contact';
 import Login from './screen/Login';
 import Addmission from './pages/Addmission';
 import Appdownload from './pages/Appdownload';
@@ -23,8 +21,6 @@ function App() {
         <Navbar></Navbar>
         <Routes>
           <Route excat path="/" element={<Home />} > </Route>
-          <Route exact path="/about" element={<About />} > </Route>
-          <Route exact path="/contact" element={<Contact />} > </Route>
           <Route exact path="/login" element={<Login />} > </Route>
           {/*Pages folder route*/}
           <Route exact path="/addmission" element={<Addmission />} > </Route>
