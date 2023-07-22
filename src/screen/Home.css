@@ -38,6 +38,21 @@ body{
   align-items: end;
 }
 
+.search-bar
+{
+  margin-top: -40px;
+  z-index:1000;
+  padding-left: 15%;
+  padding-right: 15%;
+  width:95%;
+  translate: 3% 300%;
+}
+
+.form-input
+{
+  padding-top: 1.2%;
+  padding-bottom: 1.2%;
+}
 
 
 .carousel-item 
@@ -115,6 +130,14 @@ div{
   box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
   scroll-snap-align: start;
   transition: all 0.2s;
+  height: 330px;
+  border: 1px solid #adb5b5;
+  border-radius: 25px;
+  padding: 25px;
+  /* width: 200px; */
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 .card:hover {
@@ -192,10 +215,11 @@ div{
 
 /*  */
 .circular-image {
-  width: 80px; /* Adjust the width and height to your preferred size */
-  height: 80px;
+  width: 90px; /* Adjust the width and height to your preferred size */
+  height: 90px;
   border-radius: 50%;
   overflow: hidden;
+  margin-right: 5px;
 }
 
 .circular-image img {
@@ -211,12 +235,12 @@ div{
 }
 
 .card-icon {
-  font-size: 24px; 
+  font-size: 20px; 
   vertical-align: middle; 
   margin-left: 10px; 
 }
 .card-title {
-  font-size: 30px; 
+  font-size: 20px; 
 }
 
 
@@ -237,3 +261,193 @@ div{
 
 /*  CARD GRID   */
 /* CardGrid.css */
+body{
+  background: #F4F5FA;
+}
+/* .flex-box{ */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* flex-wrap: wrap; */
+/* } */
+
+/* .cards{ */
+  /* background: #FFF; */
+  /* width: 250px; */
+  /* margin: 20px; */
+  /* box-shadow: 0px 0px 20px rgba(0,0,0,0.05); */
+  /* box-sizing: border-box; */
+  /* padding: 20px; */
+  /* border-radius: 5px; */
+/* } */
+
+.img{
+  height: 200px;
+  width: 100px;
+  /* background:   ; */
+  border-radius: 5px;
+  background-size: cover;
+}
+
+ /* a */
+ /* {  */
+   /* padding: 10px;  */
+   /* width: 100px;  */
+   /* display: block;  */
+   /* text-align: center;  */
+   /* background: #333EFF20;  */
+   /* box-sizing: border-box;  */
+   /* border-radius: 4px;  */
+   /* color: #333eFF;  */
+   /* text-decoration: none;  */
+   /* font-size: 15px;  */
+ /* }  */
+
+
+
+
+ /* 5 Cards in each row */
+ .card-top-collection {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.card-top {
+  flex: 0 0 calc(20% - 20px);
+  background-color: #f0f0f0;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card-top img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.card-top h2 {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.card-top p {
+  font-size: 14px;
+  color: #0d0101bb;
+}
+
+/* Media Queries for responsiveness */
+@media screen and (max-width: 1200px) {
+  .card-top {
+    flex: 0 0 calc(25% - 20px);
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .card-top {
+    flex: 0 0 calc(33.33% - 20px);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card-top {
+    flex: 0 0 calc(50% - 20px);
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .card-top {
+    flex: 0 0 calc(100% - 20px);
+  }
+}
+
+
+.nowrap
+{
+  display: flex;
+}
+
+.colomn
+{
+  flex:1;
+}
+
+.padding-card
+{
+  padding-top: 10px;
+}
+
+/*small cards styles */
+
+.small-card 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px; /* Set your desired width */
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+}
+
+.small-card .circular-image {
+  width: 90px; /* Set your desired width */
+  height: 30px; /* Set your desired height */
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 10px;
+}
+
+.small-card .circular-image img {
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+}
+
+.small-card .card-title {
+  font-size: 12px; /* Set your desired font size */
+  margin: 5px 0;
+}
+
+.small-card p {
+  font-size: 14px; /* Set your desired font size */
+  margin: 5px 0;
+}
+
+.small-card .card-link-wrapper {
+  margin-top: 15px;
+}
+
+.small-card .card-link {
+  color: #007bff;
+  text-decoration: none;
+  font-size: 14px; /* Set your desired font size */
+}
+
+
+.select-box {
+  height: 330px;
+  border: 1px solid #adb5bd;
+  border-radius: 25px;
+  padding: 20px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+
+
+/*  slider cards  */
+
+
+
+
+
+

@@ -11,6 +11,7 @@ import More from './pages/More';
 import Studyabroad from './pages/Studyabroad';
 import Topcollege from './pages/Topcollege';
 import Topcourse from './pages/Topcourse';
+
 import  {BrowserRouter as Router, Routes, Route}  from 'react-router-dom'
 
 
@@ -18,7 +19,7 @@ function App() {
   return (
     <Router>
       <div>
-        <Navbar></Navbar>
+      <Navbar></Navbar>
         <Routes>
           <Route excat path="/" element={<Home />} > </Route>
           <Route exact path="/login" element={<Login />} > </Route>

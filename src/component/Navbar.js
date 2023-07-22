@@ -5,7 +5,7 @@ import logo from "../assets/logo/logo.png";
 function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
         <div className="container-fluid">
           <button
             className="navbar-toggler"

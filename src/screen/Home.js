@@ -1,45 +1,58 @@
 import React from 'react';
 import { BsSearch } from 'react-icons/bs';
 import {FiArrowRightCircle} from 'react-icons/fi'
-import Engg from "../assets/icons/Engg.jpeg";
-import arts from "../assets/icons/arts.jpeg";
-import hotel from "../assets/icons/hotel.jpeg";
-import law from "../assets/icons/law.jpeg";
-import mass from "../assets/icons/mass.jpeg";
-import medical from "../assets/icons/medical.jpeg";
-import mgt from "../assets/icons/mgt.jpeg";
-import paramedical from "../assets/icons/paramedical.jpeg";
-import pharmcy from "../assets/icons/pharmcy.jpeg";
-import science from "../assets/icons/science.jpeg";
-import vetenary from "../assets/icons/vetenarySci.jpeg";
-import vocation from "../assets/icons/vocation.jpeg";
-import commars from "../assets/icons/commars.jpeg"
+/*study goal*/
+import engineer from "../assets/icons/engineer.png";
+import management from "../assets/icons/management.png";
+import commerce from "../assets/icons/commerce.png";
+import arts from "../assets/icons/art.png";
+import medical from "../assets/icons/medical.png";
+import design from "../assets/icons/design.png";
+/*top collections*/
+import cd1 from "../assets/topcollection/cd1.webp";
+import cd2 from "../assets/topcollection/cd2.webp";
+import cd3 from "../assets/topcollection/cd3.webp";
+import cd4 from "../assets/topcollection/cd4.webp";
+import cd5 from  "../assets/topcollection/cd5.webp";
+import cd6 from "../assets/topcollection/cd6.webp";
+import cd7 from "../assets/topcollection/cd7.webp";
+import cd8 from "../assets/topcollection/cd8.webp";
+import cd9 from "../assets/topcollection/cd9.webp";
+import cd10 from "../assets/topcollection/cd10.webp";
+import cd11 from "../assets/topcollection/cd11.webp";
+import cd12 from "../assets/topcollection/cd12.webp";
+import cd13 from "../assets/topcollection/cd13.webp";
+import cd14 from "../assets/topcollection/cd14.webp";
+import cd15 from "../assets/topcollection/cd15.webp";
+
+
 import './Home.css'
 
 function Home() {
   return (
     <div>
-         {/* Search Bar */}
-         <div className="search-bar">
-         <div className="d-flex justify-content-center">
-           <div className="input-group mb-3">
-             <input
-               type="text"
-               className="form-control"
-               placeholder="Search..."
-               aria-label="Search"
-               aria-describedby="search-button"
-             />
-             <button
-               className="btn btn-outline-secondary"
-               type="button"
-               id="search-button"
-             >
-               <BsSearch />
-             </button>
-           </div>
+
+       {/* Search Bar */}
+       <div className="search-bar">
+       <div className="d-flex justify-content-center">
+         <div className="input-group mb-3">
+           <input
+             type="text"
+             className="form-control form-input"
+             placeholder="Search..."
+             aria-label="Search"
+             aria-describedby="search-button"
+           />
+           <button
+             className="btn btn-outline-secondary"
+             type="button"
+             id="search-button"
+           >
+             <BsSearch />
+           </button>
          </div>
        </div>
+  </div> 
 
 
          {/*  Carousal */}
@@ -473,6 +486,8 @@ function Home() {
 
         </ul>
       </div>
+
+      
      </section>
           <img src="https://images.collegedunia.com/public/asset/img/homepage/banner/New1663389009.webp?mode=stretch" className="d-block w-100" alt="..." id="image-carousel"/>
         </div>
@@ -1337,17 +1352,23 @@ function Home() {
       {/* Select Your Study Goal  Scrollup cards */}
       <div className="container">
       <h2 className='text'>Select Your Study Goal</h2>
+      <div class="card-top-collection container">
       <ul className="cards">
+
         <li className="card">
           <div>
-          <div className="circular-image">
-          <img
-            src={Engg} height={50}
-            alt=""
-          />
-        </div>
+         <div className='nowrap'>
+            <div className="circular-image colomn">
+            <img
+              src={engineer} height={50}
+              alt=""
+            />
+          </div>
+          <div className='colomn padding-card'>
             <h3 className="card-title">Engineering</h3>
             <p>6105 Colleges</p>
+          </div>
+         </div>
             <div className="card-content">
               <p>BE/B'Tech</p>
             </div>
@@ -1358,23 +1379,149 @@ function Home() {
               <p>Diploma in Engineering</p>
             </div>
           </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>
         </li>
 
         <li className="card">
-          <div>
-          <div className="circular-image">
+        <div>
+       <div className='nowrap'>
+          <div className="circular-image colomn">
           <img
-            src={mgt} height={50}
+            src={management} height={50}
             alt=""
           />
         </div>
+        <div className='colomn padding-card'>
+          <h3 className="card-title">Management</h3>
+          <p>6105 Colleges</p>
+        </div>
+       </div>
+          <div className="card-content">
+            <p>BE/B'Tech</p>
+          </div>
+          <div className="card-content">
+            <p>ME/M.Tech</p>
+          </div>
+          <div className="card-content">
+            <p>Diploma in Engineering</p>
+          </div>
+        </div>
+      </li>
+
+      <li className="card">
+        <div>
+       <div className='nowrap'>
+          <div className="circular-image colomn">
+          <img
+            src={commerce} height={50}
+            alt=""
+          />
+        </div>
+        <div className='colomn padding-card'>
+          <h3 className="card-title">Commerce</h3>
+          <p>6105 Colleges</p>
+        </div>
+       </div>
+          <div className="card-content">
+            <p>BE/B'Tech</p>
+          </div>
+          <div className="card-content">
+            <p>ME/M.Tech</p>
+          </div>
+          <div className="card-content">
+            <p>Diploma in Engineering</p>
+          </div>
+        </div>
+      </li>
+
+      <li className="card">
+        <div>
+       <div className='nowrap'>
+          <div className="circular-image colomn">
+          <img
+            src={arts} height={50}
+            alt=""
+          />
+        </div>
+        <div className='colomn padding-card'>
+          <h3 className="card-title">Arts</h3>
+          <p>6105 Colleges</p>
+        </div>
+       </div>
+          <div className="card-content">
+            <p>BE/B'Tech</p>
+          </div>
+          <div className="card-content">
+            <p>ME/M.Tech</p>
+          </div>
+          <div className="card-content">
+            <p>Diploma in Engineering</p>
+          </div>
+        </div>
+      </li>
+
+      <li className="card">
+        <div>
+       <div className='nowrap'>
+          <div className="circular-image colomn">
+          <img
+            src={medical} height={50}
+            alt=""
+          />
+        </div>
+        <div className='colomn padding-card'>
+          <h3 className="card-title">Medical</h3>
+          <p>6105 Colleges</p>
+        </div>
+       </div>
+          <div className="card-content">
+            <p>BE/B'Tech</p>
+          </div>
+          <div className="card-content">
+            <p>ME/M.Tech</p>
+          </div>
+          <div className="card-content">
+            <p>Diploma in Engineering</p>
+          </div>
+        </div>
+      </li>
+
+      <li className="card">
+        <div>
+       <div className='nowrap'>
+          <div className="circular-image colomn">
+          <img
+            src={design} height={50}
+            alt=""
+          />
+        </div>
+        <div className='colomn padding-card'>
+          <h3 className="card-title">Design</h3>
+          <p>6105 Colleges</p>
+        </div>
+       </div>
+          <div className="card-content">
+            <p>BE/B'Tech</p>
+          </div>
+          <div className="card-content">
+            <p>ME/M.Tech</p>
+          </div>
+          <div className="card-content">
+            <p>Diploma in Engineering</p>
+          </div>
+        </div>
+      </li>
+        {/*<li className="nowrap" id='2'>
+          <div>
+          <div className="circular-image column">
+          <img
+            src={commars} height={50}
+            alt=""
+          />
+        </div>
+        <div className='colomn padding-card'></div>
             <h3 className="card-title">Management</h3>
             <p>7295 Colleges</p>
+            </div>
             <div className="card-content">
               <p>MBA/PGDM</p>
             </div>
@@ -1382,17 +1529,11 @@ function Home() {
               <p>BBA/BBM</p>
             </div>
             <div className="card-content">
-              <p>Executive/MMBA</p>
+              <p>Executive-MBA</p>
             </div>
-          </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>
-        </li>
+  </li>*/}
 
-        <li className="card">
+        {/*<li className="card">
           <div>
           <div className="circular-image">
           <img
@@ -1409,14 +1550,9 @@ function Home() {
               <p>M.Com</p>
             </div>
           </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>
-        </li>
+        </li>*/}
 
-        <li className="card">
+        {/*<li className="card">
           <div>
           <div className="circular-image">
           <img
@@ -1439,14 +1575,9 @@ function Home() {
               <p>BSW</p>
             </div>
           </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>
-        </li>
+        </li>*/}
 
-        <li className="card">
+        {/*<li className="card">
           <div>
           <div className="circular-image">
           <img
@@ -1463,14 +1594,9 @@ function Home() {
               <p>PG.Medical</p>
             </div>
           </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>
-        </li>
+        </li>*/}
         
-        <li className="card">
+        {/*<li className="card">
           <div>
           <div className="circular-image">
           <img
@@ -1486,32 +1612,122 @@ function Home() {
             <div className="card-content">
               <p>M.Des</p>
             </div>
-          </div>
-          <div className="card-link-wrapper">
-            <a href="" className="card-link">
-              Learn More
-            </a>
-          </div>  
-        </li>
+          </div> 
+        </li>*/}
 
         <li className="card">
             <h3 className="card-title text-center" style={{ textAlign: 'center' }}>See All <FiArrowRightCircle  size={40} /></h3>
           </li>
       </ul>
+      </div>
     </div>
     
          {/* Top Collections  */}
          <div className="container">
-      <h2 className='text'>Top Collections</h2>
-      
-      
-
-
-
-
-
-
-    </div>
+          <h2 className='text'>Top Collections </h2>
+         <div class="card-top-collection container">
+         <div class="card-top">
+           <img src={cd1} alt="Card Image 1"/>
+           <h2>Card 1</h2>
+           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+         </div>
+         <div class="card-top">
+           <img src={cd2} alt="Card Image 2"/>
+           <h2>Card 2</h2>
+           <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+         </div>
+         <div class="card-top">
+           <img src={cd3} alt="Card Image 3"/>
+           <h2>Card 3</h2>
+           <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+         </div>
+         <div class="card-top">
+           <img src={cd4} alt="Card Image 4"/>
+           <h2>Card 4</h2>
+           <p>Excepteur sint occaecat cupidatat non proident.</p>
+         </div>
+         <div class="card-top">
+           <img src={cd5} alt="Card Image 5"/>
+           <h2>Card 5</h2>
+           <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         </div>
+         <div class="card-top">
+         <img src={cd6} alt="Card Image 1"/>
+         <h2>Card 1</h2>
+         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+       </div>
+       <div class="card-top">
+         <img src={cd7} alt="Card Image 2"/>
+         <h2>Card 2</h2>
+         <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+       </div>
+       <div class="card-top">
+         <img src={cd8} alt="Card Image 3"/>
+         <h2>Card 3</h2>
+         <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+       </div>
+       <div class="card-top">
+         <img src={cd9} alt="Card Image 4"/>
+         <h2>Card 4</h2>
+         <p>Excepteur sint occaecat cupidatat non proident.</p>
+       </div>
+       <div class="card-top">
+         <img src={cd10} alt="Card Image 5"/>
+         <h2>Card 5</h2>
+         <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+       </div>
+       <div class="card-top">
+       <img src={cd11} alt="Card Image 1"/>
+       <h2>Card 1</h2>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+     </div>
+     <div class="card-top">
+       <img src={cd12} alt="Card Image 2"/>
+       <h2>Card 2</h2>
+       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+     </div>
+     <div class="card-top">
+       <img src={cd13} alt="Card Image 3"/>
+       <h2>Card 3</h2>
+       <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+     </div>
+     <div class="card-top">
+       <img src={cd14} alt="Card Image 4"/>
+       <h2>Card 4</h2>
+       <p>Excepteur sint occaecat cupidatat non proident.</p>
+     </div>
+     <div class="card-top">
+       <img src={cd15} alt="Card Image 5"/>
+       <h2>Card 5</h2>
+       <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     </div>
+     <div class="card-top">
+     <img src="image1.jpg" alt="Card Image 1"/>
+     <h2>Card 1</h2>
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+   </div>
+   <div class="card-top">
+     <img src="image2.jpg" alt="Card Image 2"/>
+     <h2>Card 2</h2>
+     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+   </div>
+   <div class="card-top">
+     <img src="image3.jpg" alt="Card Image 3"/>
+     <h2>Card 3</h2>
+     <p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+   </div>
+   <div class="card-top">
+     <img src="image4.jpg" alt="Card Image 4"/>
+     <h2>Card 4</h2>
+     <p>Excepteur sint occaecat cupidatat non proident.</p>
+   </div>
+   <div class="card-top">
+     <img src="image5.jpg" alt="Card Image 5"/>
+     <h2>Card 5</h2>
+     <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+   </div>
+       </div>
+       </div>
 
     
 
@@ -1583,30 +1799,6 @@ function Home() {
           </div>
         </div>
          </div>
-         <div className='col-lg-4 col-md-4 col-sm-12 '>
-         <div className='card'>
-         <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
-         <div className="card-body">
-           <h5 className="card-title">Company Storage</h5>
-           <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-           <div className='d-grid'>
-             <a href="#" className="btn btn-warning">Read More</a>
-             </div>
-         </div>
-       </div>
-        </div>
-         <div className='col-lg-4 col-md-4 col-sm-12 '>
-         <div className='card'>
-         <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
-         <div className="card-body">
-           <h5 className="card-title">Company Storage</h5>
-           <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-           <div className='d-grid'>
-             <a href="#" className="btn btn-warning">Read More</a>
-             </div>
-         </div>
-       </div>
-        </div>
          <div className='col-lg-4 col-md-4 col-sm-12 '>
          <div className='card'>
          <img src="https://media.istockphoto.com/id/977409376/photo/coffee-cup-and-digital-table-dock-smart-keyboard-vase-flower-herbs-stylus-pen-on-wooden-table.jpg?s=612x612&w=0&k=20&c=o3qQRinO_8Y4hO5rJbQeJ9aBCcmcpPMJmTT8pX4ahIw=" className="card-img-top" alt="..."/>
