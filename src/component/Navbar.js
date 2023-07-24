@@ -2,10 +2,12 @@ import React from "react";
 import { NavLink } from "react-router-dom";
 import logo from "../assets/logo/logo.png";
 
+
+
 function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
+      <nav className="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top">
         <div className="container-fluid">
           <button
             className="navbar-toggler"
@@ -133,6 +135,7 @@ function Navbar() {
         </div>
       </nav>
     </div>
+
   );
 }
 

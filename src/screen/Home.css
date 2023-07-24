@@ -19,6 +19,10 @@ body{
 
 
 /*Navbar section*/
+.navbar {
+  color: #432d2d;
+}
+
 #sub-nav
 {
   margin-right:0px;
@@ -33,6 +37,11 @@ body{
   justify-content: space-between;
 }
 
+.justify-content-end
+{
+  margin-top: 67px;
+  background-color: transparent;
+}
 /*Search button*/
 .btn{
   align-items: end;
@@ -58,6 +67,8 @@ body{
 .carousel-item 
 {
  background-color: transparent;
+ margin-top: -35px;
+ z-index: -1;
 }
 
 #image-carousel
@@ -103,7 +114,7 @@ h2 {
 
 .cards {
   /* height: 250px; */
-  border: 1px solid #e9e9e9;
+  /* border: 1px solid #e9e9e9; */
   /* padding: 8px; */
   box-sizing: border-box;
 
@@ -140,10 +151,6 @@ div{
   background-size: cover;
 }
 
-.card:hover {
-  /* color: var(--white); */
-  /* background: var(--orange); */
-}
 
 .card .card-title {
   font-size: 20px;
@@ -168,9 +175,6 @@ div{
   /* transition: background 0.2s; */
 }
 
-.card:hover .card-link {
-  /* background: var(--darkorange); */
-}
 
 .cards::-webkit-scrollbar {
   height: 12px;
@@ -181,9 +185,6 @@ div{
   border-radius: 92px;
 }
 
-.cards::-webkit-scrollbar-thumb {
-  /* background: var(--darkorange); */
-}
 
 .cards::-webkit-scrollbar-track {
   background: var(--thumb);
@@ -192,7 +193,7 @@ div{
 @media (min-width: 500px) {
   .cards {
       grid-auto-columns: calc(50% - 10px);
-      grid-column-gap: 20px;
+      grid-column-gap: 10px;
   }
 }
 
@@ -447,7 +448,190 @@ body{
 /*  slider cards  */
 
 
+.carousel-caption{
+  position: initial !important;
+}
 
 
+button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled) {
+  cursor: pointer;
+}
+
+.big-orange-btn.jsx-1138136204 {
+  display: block;
+  height: 36px;
+  border: 1px solid #ff7900;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  padding: 0 10px;
+  width: 197px;
+  background: #ff7900;
+  border-radius: 4px;
+  outline: none;
+}
 
 
+body {
+  margin: 0;
+  font-size: var(--mdb-body-font-size);
+  font-weight: var(--mdb-body-font-weight);
+  line-height: var(--mdb-body-line-height);
+  color: var(--mdb-body-color);
+  text-align: var(--mdb-body-text-align);
+  background-color: #bfbebe75;
+}
+
+.animate__animated.animate__jackInTheBox {
+  --animate-duration: 2s;
+}
+
+
+/*LATEST NOTIFICATION*/
+
+:root {
+  --orange: #fd9940;
+  --darkorange: #dd7d25;
+  --platinum: #e5e5e5;
+  --black: #2b2d42;
+  --white: #fff;
+  --thumb: #edf2f4;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 16px / 24px "Rubik", sans-serif;
+  color: var(--black);
+  background: var(--platinum);
+  margin: 50px 0;
+}
+
+.container {
+  max-width: 1400px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 1em;
+}
+
+.cards1 {
+  display: grid;
+  grid-auto-columns: 100%;
+  grid-column-gap: 10px;
+  grid-auto-flow: column;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  scroll-snap-type: x mandatory;
+}
+
+.card1 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
+  scroll-snap-align: start;
+  transition: all 0.2s;
+}
+
+.card1:hover {
+  color: var(--white);
+  background: var(--orange);
+}
+
+.card1 .card1-title {
+  font-size: 20px;
+  align-Items: center;
+}
+
+.card1 .card1-content {
+  margin: 20px 0;
+  max-width: 85%;
+}
+
+.card1 .card1-link-wrapper {
+  margin-top: auto;
+}
+
+.card1 .card1-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background: var(--orange);
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+.card1:hover .card1-link {
+  background: var(--darkorange);
+}
+
+.cards1::-webkit-scrollbar {
+  height: 12px;
+}
+
+.cards1::-webkit-scrollbar-thumb,
+.cards1::-webkit-scrollbar-track {
+  border-radius: 92px;
+}
+
+.cards1::-webkit-scrollbar-thumb {
+  background: var(--darkorange);
+}
+
+.cards1::-webkit-scrollbar-track {
+  background: var(--thumb);
+}
+
+@media (min-width: 500px) {
+  .cards1 {
+    grid-auto-columns: calc(50% - 10px);
+    grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 700px) {
+  .cards1 {
+    grid-auto-columns: calc(calc(100% / 3) - 20px);
+    grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .cards1 {
+    grid-auto-columns: calc(25% - 30px);
+    grid-column-gap: 30px;
+  }
+}
+
+
+/* FOOTER STYLES
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.page-footer {
+  position: fixed;
+  right: 0;
+  bottom: 50px;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  z-index: 1;
+}
+
+.page-footer a {
+  display: flex;
+  margin-left: 4px;
+}
+
+
+/*Card 2nd css explore program*/
