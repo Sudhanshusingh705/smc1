@@ -64,6 +64,7 @@ function Navbar() {
                   role="button"
                   data-bs-toggle="dropdown"
                   aria-expanded="false"
+                  color="link"
                 >
                   More
                 </a>

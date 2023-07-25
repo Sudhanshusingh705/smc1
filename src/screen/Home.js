@@ -24,7 +24,8 @@ import cd12 from "../assets/topcollection/cd12.jpg";
 import cd13 from "../assets/topcollection/cd13.jpg";
 import cd14 from "../assets/topcollection/cd14.jpg";
 import cd15 from "../assets/topcollection/cd15.jpg";
-
+/*Explore Program*/
+import ranking from "../assets/exploreprogram/ranking.jpeg";
 import "./Home.css";
 
 import {
@@ -35,9 +36,9 @@ import {
   MDBIcon,
   MDBNavbar,
 } from "mdb-react-ui-kit";
-
-import {MDBRow} from 'mdb-react-ui-kit';
-
+import { MDBPaginationItem, MDBPaginationLink } from "mdb-react-ui-kit";
+import { MDBRow } from "mdb-react-ui-kit";
+import MDBAvatar from "mdb-react-ui-kit";
 
 import {
   MDBCard,
@@ -46,8 +47,8 @@ import {
   MDBCardText,
   MDBCardHeader,
   MDBCardFooter,
-  MDBBtn
-} from 'mdb-react-ui-kit';
+  MDBBtn,
+} from "mdb-react-ui-kit";
 
 import "animate.css";
 
@@ -851,83 +852,219 @@ function Home() {
       {/* Explore Programs  */}
       {/*  same card as top university Explore Programs  */}
       <div className="container">
-      <h2>Explore Programs</h2>
-      <MDBContainer>
-      <MDBRow>
-      <MDBCol order='first'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Ranking</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-      <MDBCol order='secound'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Find Colleges</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-      <MDBCol order='third'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Compare Colleges</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-    </MDBRow>
-    </MDBContainer>
-    <br />
-    <MDBContainer>
-      <MDBRow>
-      <MDBCol order='first'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Exams</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-      <MDBCol order='secound'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Colleges Predictor</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-      <MDBCol order='third'>
-      <MDBCard>
-      <MDBCardBody>
-        <MDBCardTitle>Course Finder</MDBCardTitle>
-        <MDBCardText>
-          Some quick example text to build on the card title and make up the bulk of the card's content.
-        </MDBCardText>
-        <MDBBtn>Button</MDBBtn>
-      </MDBCardBody>
-    </MDBCard>
-      </MDBCol>
-    </MDBRow>
-    </MDBContainer>
-    </div>
+        <h2>Explore Programs</h2>
+        <br />
+        <div className="p-4">
+          <div className="hstack gap-3">
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  Previous
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  All
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  BE/B.Tech
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  MBA/PGDM
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  MBBS
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  ME/M.Tech
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  B.Sc
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  B.A
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  BCA
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  BBA/BBM
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn outline rounded className="mx-2" color="Secoundary">
+                  BSC/Nursing
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+
+            <MDBPaginationItem>
+              <MDBPaginationLink href="#">
+                <MDBBtn rounded className="mx-2" color="light">
+                  Next
+                </MDBBtn>
+              </MDBPaginationLink>
+            </MDBPaginationItem>
+          </div>
+        </div>
+
+        <MDBContainer>
+          <MDBRow>
+            <MDBCol order="first">
+              <MDBCard>
+                <div class="card0-container">
+                  <MDBCardBody>
+                    <MDBCardTitle>Ranking</MDBCardTitle>
+                    <MDBCardText>
+                      Some quick example text to build on the card title and
+                      make up the bulk of the card's content.
+                    </MDBCardText>
+                    <MDBContainer>
+                      <MDBRow>
+                        <MDBCol size="6" sm="3">
+                          <MDBBtn rounded className="mx-2" color="secondary">
+                            Indiatoday-1545
+                          </MDBBtn>
+                        </MDBCol>
+                        <MDBCol size="6" sm="3">
+                          <MDBBtn rounded className="mx-2" color="secondary">
+                            Outlook-1189
+                          </MDBBtn>
+                        </MDBCol>
+                        <div className="w-100 d-none d-md-block"></div>
+                        <MDBCol size="6" sm="3">
+                          <MDBBtn rounded className="mx-2" color="secondary">
+                            NIRF-1174
+                          </MDBBtn>
+                        </MDBCol>
+                        <MDBCol size="6" sm="3">
+                          <MDBBtn rounded className="mx-2" color="secondary">
+                            IIRF-855
+                          </MDBBtn>
+                        </MDBCol>
+                      </MDBRow>
+                    </MDBContainer>
+                    <MDBBtn>Top Ranked Colleges in India</MDBBtn>
+                  </MDBCardBody>
+                </div>
+              </MDBCard>
+            </MDBCol>
+
+            <MDBCol order="secound">
+              <MDBCard>
+                <MDBCardBody>
+                  <MDBCardTitle>Find Colleges</MDBCardTitle>
+                  <MDBCardText>
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </MDBCardText>
+                  <MDBBtn>Discover To Colleges in India</MDBBtn>
+                </MDBCardBody>
+              </MDBCard>
+            </MDBCol>
+            <MDBCol order="third">
+              <MDBCard>
+                <MDBCardBody>
+                  <MDBCardTitle>Compare Colleges</MDBCardTitle>
+                  <MDBCardText>
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </MDBCardText>
+                  <MDBBtn>Compare Colleges</MDBBtn>
+                </MDBCardBody>
+              </MDBCard>
+            </MDBCol>
+          </MDBRow>
+        </MDBContainer>
+        <br />
+        <MDBContainer>
+          <MDBRow>
+            <MDBCol order="four">
+              <MDBCard>
+                <MDBCardBody>
+                  <MDBCardTitle>Exams</MDBCardTitle>
+                  <MDBCardText>
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </MDBCardText>
+                  <MDBBtn>Check all Entrance exams in India</MDBBtn>
+                </MDBCardBody>
+              </MDBCard>
+            </MDBCol>
+            <MDBCol order="five">
+              <MDBCard>
+                <MDBCardBody>
+                  <MDBCardTitle>Colleges Predictor</MDBCardTitle>
+                  <MDBCardText>
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </MDBCardText>
+                  <MDBBtn>find where you may get addmission</MDBBtn>
+                </MDBCardBody>
+              </MDBCard>
+            </MDBCol>
+            <MDBCol order="six">
+              <MDBCard>
+                <MDBCardBody>
+                  <MDBCardTitle>Course Finder</MDBCardTitle>
+                  <MDBCardText>
+                    Some quick example text to build on the card title and make
+                    up the bulk of the card's content.
+                  </MDBCardText>
+                  <MDBBtn>Get Top courses in india collegs</MDBBtn>
+                </MDBCardBody>
+              </MDBCard>
+            </MDBCol>
+          </MDBRow>
+        </MDBContainer>
+      </div>
+      <br />
 
       {/* Latest Notification */}
       <div className="container">
@@ -1001,8 +1138,870 @@ function Home() {
         </section>
         <br />
       </div>
-    
+
       {/* Top 10 Colleges */}
+      <div className="container">
+        <h2 className="text">Top 10 Colleges </h2>
+        <br />
+        <div>
+          <table
+            className="table align-middle mb-0 bg-white"
+            style={{ border: "1px solid black" }}
+          >
+            <thead className="bg-light">
+              <tr>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>Rank</th>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>
+                  College
+                </th>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>
+                  Ranking
+                </th>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>Cutoff</th>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>
+                  Application
+                </th>
+                <th style={{ fontSize: "16px", fontWeight: "bold" }}>Dates</th>
+              </tr>
+            </thead>
+            <tbody>
+              {/*1*/}
+
+              <tr>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "16px", fontWeight: "bold" }}
+                  >
+                    #1
+                  </p>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/logos/col30730.png?h=30&amp;w=30&amp;mode=stretch"
+                      alt=""
+                      style={{ width: 45, height: 45 }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-bold mb-1"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        IIM Bangalore - Indian Institute of Management
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px" }}
+                      >
+                        Bangalore,Karnataka | ⭐10/10
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                      alt=""
+                      style={{
+                        width: "39.2px",
+                        height: "20px",
+                        maxHeight: "20px",
+                        maxWidth: "39.2px",
+                        overflow: "hidden",
+                        borderradius: "50%",
+                      }}
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-normal mb-1"
+                        style={{ fontSize: "16px" }}
+                      >
+                        #1 out of 50 in india
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        2019
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                    CAT 2022 cut off 99
+                  </p>
+                </td>
+                <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "17px", fontWeight: "bold" }}
+                  >
+                    ₹ 2,09,550
+                  </p>
+                  <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                    1st year fees
+                  </p>
+                </td>
+              </tr>
+
+              {/*2*/}
+              <tr>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "16px", fontWeight: "bold" }}
+                  >
+                    #2
+                  </p>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/logos/1434977143jpjpjpjpj.jpg?h=30&amp;w=30&amp;mode=stretch"
+                      alt=""
+                      style={{ width: 45, height: 45 }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-bold mb-1"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        IIT Madras - Indian Institute of Technology - [IITM]
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px" }}
+                      >
+                        Chennai,Tamil Nadu | ⭐10/10
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                      alt=""
+                      style={{
+                        width: "39.2px",
+                        height: "20px",
+                        maxHeight: "20px",
+                        maxWidth: "39.2px",
+                        overflow: "hidden",
+                        borderradius: "50%",
+                      }}
+                      // className="rounded-square"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-normal mb-1"
+                        style={{ fontSize: "16px" }}
+                      >
+                        #15 out of 50 in India
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        2019
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                    JEE-Advanced 2023 Cut off 144
+                  </p>
+                </td>
+                <td style={{ fontSize: "16px" }}>14 Jan - 30 Jul 2023</td>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "17px", fontWeight: "bold" }}
+                  >
+                    ₹ 1,09,550
+                  </p>
+                  <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                    1st year fees
+                  </p>
+                </td>
+              </tr>
+
+              {/*3*/}
+              <tr>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "16px", fontWeight: "bold" }}
+                  >
+                    #3
+                  </p>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/logos/col30730.png?h=30&amp;w=30&amp;mode=stretch"
+                      alt=""
+                      style={{ width: 45, height: 45 }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-bold mb-1"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        IIT Kharagpur - Indian Institute of Technology -
+                        [IITKGP]
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px" }}
+                      >
+                        Kharagpur,West Bengal | ⭐10/10
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                      alt=""
+                      style={{
+                        width: "39.2px",
+                        height: "20px",
+                        maxHeight: "20px",
+                        maxWidth: "39.2px",
+                        overflow: "hidden",
+                        borderradius: "50%",
+                      }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-normal mb-1"
+                        style={{ fontSize: "16px" }}
+                      >
+                        #6 out of 50 in india 2019
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        2019
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                    JEE-Advanced 2023 Cut off 261
+                  </p>
+                </td>
+                <td style={{ fontSize: "16px" }}>19 May - 30 Jul 2023</td>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "17px", fontWeight: "bold" }}
+                  >
+                    ₹2,23,600
+                  </p>
+                  <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                    1st year fees
+                  </p>
+                </td>
+              </tr>
+
+              {/*4*/}
+              <tr>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "16px", fontWeight: "bold" }}
+                  >
+                    #4
+                  </p>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/logos/col27802.gif?h=30&amp;w=30&amp;mode=stretch"
+                      alt=""
+                      style={{ width: 45, height: 45 }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-bold mb-1"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        IIT Delhi - Indian Institute of Technology [IITD]
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px" }}
+                      >
+                        New Delhi,Delhi NCR | ⭐9.9/10
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                      alt=""
+                      style={{
+                        width: "39.2px",
+                        height: "20px",
+                        maxHeight: "20px",
+                        maxWidth: "39.2px",
+                        overflow: "hidden",
+                        borderradius: "50%",
+                      }}
+                      className="rounded-circle"
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-normal mb-1"
+                        style={{ fontSize: "16px" }}
+                      >
+                        #9 out of 50 in India
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        2019
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                    JEE-Advanced 2023 Cut off 115
+                  </p>
+                </td>
+                <td style={{ fontSize: "16px" }}>3 Feb - 11 Feb 2023</td>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "17px", fontWeight: "bold" }}
+                  >
+                    ₹2,55,150
+                  </p>
+                  <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                    1st year fees
+                  </p>
+                </td>
+              </tr>
+
+              {/*5*/}
+              <tr>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "16px", fontWeight: "bold" }}
+                  >
+                  #5
+                  </p>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/logos/1431953162ccgsygdygw.jpg?h=30&amp;w=30&amp;mode=stretch"
+                      alt=""
+                      style={{ width: 45, height: 45 }}
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-bold mb-1"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                      IIT Bombay - Indian Institute of Technology - [IITB]
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px" }}
+                      >
+                      Mumbai,Maharashtra | ⭐9.9/10
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <div className="d-flex align-items-center">
+                    <img
+                      src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                      alt=""
+                      style={{
+                        width: "39.2px",
+                        height: "20px",
+                        maxHeight: "20px",
+                        maxWidth: "39.2px",
+                        overflow: "hidden",
+                        borderradius: "50%",
+                      }}
+                    />
+                    <div className="ms-3">
+                      <p
+                        className="fw-normal mb-1"
+                        style={{ fontSize: "16px" }}
+                      >
+                      #10 out of 50 in India
+                      </p>
+                      <p
+                        className="text-muted mb-0"
+                        style={{ fontSize: "16px", fontWeight: "bold" }}
+                      >
+                        2019
+                      </p>
+                    </div>
+                  </div>
+                </td>
+                <td>
+                  <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                  JEE-Advanced 2023 Cut off 66
+                  </p>
+                </td>
+                <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+                <td>
+                  <p
+                    className="fw-normal mb-1"
+                    style={{ fontSize: "17px", fontWeight: "bold" }}
+                  >
+                  ₹2,29,200
+                  </p>
+                  <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                    1st year fees
+                  </p>
+                </td>
+              </tr>
+
+              {/*6*/}
+              <tr>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "16px", fontWeight: "bold" }}
+                >
+                  #6
+                </p>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/logos/1408554560logo.png?h=30&amp;w=30&amp;mode=stretch"
+                    alt=""
+                    style={{ width: 45, height: 45 }}
+                    className="rounded-circle"
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-bold mb-1"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    IIT Kanpur - Indian Institute of Technology
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px" }}
+                    >
+                    Kanpur,Uttar Pradesh | ⭐9.9/10
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                    alt=""
+                    style={{
+                      width: "39.2px",
+                      height: "20px",
+                      maxHeight: "20px",
+                      maxWidth: "39.2px",
+                      overflow: "hidden",
+                      borderradius: "50%",
+                    }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-normal mb-1"
+                      style={{ fontSize: "16px" }}
+                    >
+                    #22 out of 50 in india
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                      2019
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                JEE-Advanced 2023 Cut off 215
+                </p>
+              </td>
+              <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "17px", fontWeight: "bold" }}
+                >
+                ₹ 2,29,200
+                </p>
+                <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                  1st year fees
+                </p>
+              </td>
+            </tr>
+
+              {/*7*/}
+              <tr>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "16px", fontWeight: "bold" }}
+                >
+                  #7
+                </p>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/logos/1431775682rajiv.jpg?h=30&amp;w=30&amp;mode=stretch"
+                    alt=""
+                    style={{ width: 45, height: 45 }}
+                    className="rounded-circle"
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-bold mb-1"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    IIT Roorkee - Indian Institute of Technology - [IITR]
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px" }}
+                    >
+                    Roorkee,Uttarakhand | ⭐9.9/10
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/agencyLogo/resize_1600160678372292574financialexpresslogo1600160698.png?h=20&amp;w=39.2&amp;mode=stretch"
+                    alt=""
+                    style={{
+                      width: "39.2px",
+                      height: "20px",
+                      maxHeight: "20px",
+                      maxWidth: "39.2px",
+                      overflow: "hidden",
+                      borderradius: "50%",
+                    }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-normal mb-1"
+                      style={{ fontSize: "16px" }}
+                    >
+                    #11 out of 50 in India
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                      2019
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                JEE-Advanced 2023 Cut off 396
+                </p>
+              </td>
+              <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "17px", fontWeight: "bold" }}
+                >
+                ₹2,84,500
+                </p>
+                <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                  1st year fees
+                </p>
+              </td>
+            </tr>
+
+              {/*8*/}
+              <tr>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "16px", fontWeight: "bold" }}
+                >
+                  #8
+                </p>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/logos/1589790676112018648848892482726766654702028085722509n.jpg?h=30&amp;w=30&amp;mode=stretch"
+                    alt=""
+                    style={{ width: 45, height: 45 }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-bold mb-1"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    BITS Pilani (Pilani Campus)
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px" }}
+                    >
+                    Pilani,Rajasthan | ⭐9.9/10
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/agencyLogo/the_week1569844170.png?h=20&amp;w=39.2&amp;mode=stretch"
+                    alt=""
+                    style={{
+                      width: "39.2px",
+                      height: "20px",
+                      maxHeight: "20px",
+                      maxWidth: "39.2px",
+                      overflow: "hidden",
+                      borderradius: "50%",
+                    }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-normal mb-1"
+                      style={{ fontSize: "16px" }}
+                    >
+                    #5 out of 34 in india 
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    2021
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                BITSAT 2022 Cut off 125
+                </p>
+              </td>
+              <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "17px", fontWeight: "bold" }}
+                >
+                ₹ 6,39,150
+                </p>
+                <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                  1st year fees
+                </p>
+              </td>
+            </tr>
+
+              {/*9*/}
+              <tr>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "16px", fontWeight: "bold" }}
+                >
+                  #9
+                </p>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/logos/1394864902Indian Institute of Technology - IIT Guwahati.png?h=30&amp;w=30&amp;mode=stretch"
+                    alt=""
+                    style={{ width: 45, height: 45 }}
+                    className="rounded-circle"
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-bold mb-1"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    IIT Guwahati - Indian Institute of Technology - [IITG]
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px" }}
+                    >
+                    Guwahati,Assam | ⭐9.9/10
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/agencyLogo/the_week1569844170.png?h=20&amp;w=39.2&amp;mode=stretch"
+                    alt=""
+                    style={{
+                      width: "39.2px",
+                      height: "20px",
+                      maxHeight: "20px",
+                      maxWidth: "39.2px",
+                      overflow: "hidden",
+                      borderradius: "50%",
+                    }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-normal mb-1"
+                      style={{ fontSize: "16px" }}
+                    >
+                    #7 out of 34 in India
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                      2021
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                JEE-Advanced 2023 Cut off 601
+                </p>
+              </td>
+              <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "17px", fontWeight: "bold" }}
+                >
+                ₹ 2,57,250
+                </p>
+                <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                  1st year fees
+                </p>
+              </td>
+            </tr>
+
+              {/*10*/}
+              <tr>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "16px", fontWeight: "bold" }}
+                >
+                  #10
+                </p>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/logos/149154157555.jpg?h=30&amp;w=30&amp;mode=stretch"
+                    alt=""
+                    style={{ width: 45, height: 45 }}
+                    className="rounded-circle"
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-bold mb-1"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                    All India Institute of Medical Sciences - [AIIMS]
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px" }}
+                    >
+                    New Delhi,Delhi NCR | ⭐9.8/10
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <div className="d-flex align-items-center">
+                  <img
+                    src="https://images.collegedunia.com/public/college_data/images/agencyLogo/nirf1569843987.png?h=20&amp;w=39.2&amp;mode=stretch"
+                    alt=""
+                    style={{
+                      width: "39.2px",
+                      height: "20px",
+                      maxHeight: "20px",
+                      maxWidth: "39.2px",
+                      overflow: "hidden",
+                      borderradius: "50%",
+                    }}
+                  />
+                  <div className="ms-3">
+                    <p
+                      className="fw-normal mb-1"
+                      style={{ fontSize: "16px" }}
+                    >
+                    #6 out of 200 in India
+                    </p>
+                    <p
+                      className="text-muted mb-0"
+                      style={{ fontSize: "16px", fontWeight: "bold" }}
+                    >
+                      2023
+                    </p>
+                  </div>
+                </div>
+              </td>
+              <td>
+                <p className="fe-normal mb-1" style={{ fontSize: "16px" }}>
+                NEET 2022 Cut off 55
+                </p>
+              </td>
+              <td style={{ fontSize: "16px" }}>31Feb - 25Feb 2023</td>
+              <td>
+                <p
+                  className="fw-normal mb-1"
+                  style={{ fontSize: "17px", fontWeight: "bold" }}
+                >
+                ₹ 1,145
+                </p>
+                <p className="text-muted mb-0" style={{ fontSize: "16px" }}>
+                  1st year fees
+                </p>
+              </td>
+            </tr>
+
+            </tbody>
+          </table>
+        </div>
+      </div>
 
       {/* Top Universities/Colleges */}
 
