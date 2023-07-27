@@ -153,12 +153,12 @@ div{
 
 
 .card .card-title {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .card .card-content {
-  margin: 20px 0;
-  max-width: 85%;
+  margin: 25px 0;
+  max-width: 75%;
 }
 
 .card .card-link-wrapper {
@@ -521,3 +521,672 @@ body {
   left: 0;
 }
 
+
+/*Latest Notifications */
+.card-avatar {
+  position: absolute;
+  top: 34px;
+  left: -6px;
+  width: 41px; 
+  height: 73px; 
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.card {
+  position: relative;
+}
+
+
+/*Top Universities and colleges*/
+
+:root {
+  --orange: #fd9940;
+  --darkorange: #dd7d25;
+  --platinum: #e5e5e5;
+  --black: #2b2d42;
+  --white: #fff;
+  --thumb: #edf2f4;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 16px / 24px "Rubik", sans-serif;
+  color: var(--black);
+  background: var(--platinum);
+  margin: 50px 0;
+}
+
+.container {
+  max-width: 1400px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 1em;
+}
+
+.cards2 {
+  display: grid;
+  grid-auto-columns: 100%;
+  grid-column-gap: 10px;
+  grid-auto-flow: column;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+}
+
+.card2 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
+  scroll-snap-align: start;
+  transition: all 0.2s;
+}
+
+.card2:hover {
+  color: var(--white);
+  background: var(--orange);
+}
+
+.card2 .card2-title {
+  font-size: 20px;
+}
+
+.card2 .card2-content {
+  margin: 20px 0;
+  max-width: 85%;
+}
+
+.card2 .card2-link-wrapper {
+  margin-top: auto;
+}
+
+.card2 .card2-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background: var(--orange);
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+.card2:hover .card2-link {
+  background: var(--darkorange);
+}
+
+.cards2::-webkit-scrollbar {
+  height: 12px;
+}
+
+.cards2::-webkit-scrollbar-thumb,
+.cards2::-webkit-scrollbar-track {
+  border-radius: 92px;
+}
+
+.cards2::-webkit-scrollbar-thumb {
+  background: var(--darkorange);
+}
+
+.cards2::-webkit-scrollbar-track {
+  background: var(--thumb);
+}
+
+@media (min-width: 500px) {
+  .cards2 {
+      grid-auto-columns: calc(50% - 10px);
+      grid-column-gap: 20px;
+  }
+}
+
+@media (min-width: 700px) {
+  .cards2 {
+      grid-auto-columns: calc(calc(100% / 3) - 20px);
+      grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .cards2 {
+      grid-auto-columns: calc(25% - 30px);
+      grid-column-gap: 40px;
+  }
+}
+
+
+/****/
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.card2-container {
+  display: flex;
+  overflow-x: auto;
+  padding: 10px;
+  gap: 10px;
+  /* Optional: Hide scrollbar */
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.card2-container::-webkit-scrollbar {
+  display: none;
+}
+
+.card2 {
+  min-width: 418px;
+  height: 360px;
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/*top colleges */
+.card .card-title {
+    font-size: 17px;
+}
+
+
+/*       */
+
+.fluid-height-carousel .slick-track .slick-slide {
+display: flex;
+height: auto;
+}
+.carousel-control .slick-slide {
+padding: 0 8px;
+}
+.slick-slide {
+float: left;
+min-height: 1px;
+}
+.slick-slider {
+position: relative;
+display: block;
+box-sizing: border-box;
+user-select: none;
+touch-action: pan-y;
+-webkit-tap-highlight-color: transparent;
+}
+
+@media (min-width: 992px)
+
+
+{}
+
+
+
+
+
+/*  dummmy  */
+.section-control-inner.jsx-249750319 {
+    background: #fce9d2;
+    border-bottom: 1 solid #f8f8f8;
+    border-radius: 90px;
+}
+.align-items-center {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.d-flex {
+    display: flex;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #333;
+    text-align: left;
+    background-color: #fff;
+    min-width: 1300px;
+    overflow-x: auto !important;
+}
+
+html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+
+/* Add these styles to increase the size of the box */
+.section-control-inner.jsx-249750319 {
+  height: 118px; /* Increase the height as desired */
+  padding: 52px;
+  margin: 240px;
+  margin-top: auto;
+  margin-bottom: auto; /* Add some padding to create space inside the box */
+}
+
+/* Center the button horizontally */
+.cta {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Adjust the font size and other styles to make the text and button fit better */
+.heading {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+/* Optional: You can add additional styling to the button if needed */
+.cta {
+  padding: 15px 62px;
+  border-radius: 4px;
+  background-color: #ff7900;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.cta:hover {
+  background-color: #ffcd80;
+}
+
+
+/*Top Study Places*/
+
+:root {
+  --orange: #fd9940;
+  --darkorange: #dd7d25;
+  --platinum: #e5e5e5;
+  --black: #2b2d42;
+  --white: #fff;
+  --thumb: #edf2f4;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 16px / 24px "Rubik", sans-serif;
+  color: var(--black);
+  background: var(--platinum);
+  margin: 50px 0;
+}
+
+.container {
+  max-width: 1400px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.card4size{
+  margin: 50px;
+}
+
+.cards4 {
+  display: grid;
+  grid-auto-columns: 80%;
+  grid-column-gap: 10px;
+  grid-auto-flow: column;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+}
+
+.card4 {
+  display: flex;
+  flex-direction: column;
+  padding: -18px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
+  scroll-snap-align: start;
+  transition: all 0.2s;
+}
+
+.card4:hover {
+  color: var(--white);
+  background: var(--orange);
+}
+
+.card4 .card4-title {
+  font-size: 20px;
+}
+
+.card4 .card4-content {
+  margin: 20px 0;
+  max-width: 85%;
+}
+
+.card4 .card4-link-wrapper {
+  margin-top: auto;
+}
+
+.card4 .card4-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  /* background: var(--orange); */
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.cards4::-webkit-scrollbar {
+  height: 12px;
+}
+
+.cards4::-webkit-scrollbar-thumb,
+.cards4::-webkit-scrollbar-track {
+  border-radius: 92px;
+}
+
+.cards4::-webkit-scrollbar-track {
+  background: var(--thumb);
+}
+
+@media (min-width: 500px) {
+  .cards4 {
+      grid-auto-columns: calc(50% - 10px);
+      grid-column-gap: 20px;
+  }
+}
+
+@media (min-width: 700px) {
+  .cards4 {
+      grid-auto-columns: calc(calc(100% / 3) - 20px);
+      grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .cards4 {
+      grid-auto-columns: calc(29% - 97px);
+      grid-column-gap: 0px;
+  }
+}
+
+
+
+/* */
+
+/* Add this CSS to center the image and remove text styles */
+.card4 {
+  position: relative;
+  list-style: none;
+}
+
+.card4-image-wrapper {
+  text-align: center;
+}
+
+.card4-image {
+  max-width: 70%;
+  height: auto;
+}
+
+.card4-title,
+.card4-content {
+  display: none; /* Hide the text area */
+}
+
+/* Rest of your existing CSS styles for the card */
+
+
+
+
+/*Explore Program*/
+:root {
+  --orange: #fd9940;
+  --darkorange: #dd7d25;
+  --platinum: #e5e5e5;
+  --black: #2b2d42;
+  --white: #fff;
+  --thumb: #edf2f4;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font: 16px / 24px "Rubik", sans-serif;
+  color: var(--black);
+  background: var(--platinum);
+  margin: 50px 0;
+}
+
+.container {
+  max-width: 1400px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+h2 {
+  font-size: 32px;
+  margin-bottom: 1em;
+}
+
+.cards5 {
+  display: grid;
+  grid-auto-columns: 100%;
+  grid-column-gap: 10px;
+  grid-auto-flow: column;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+}
+
+.card5 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
+  scroll-snap-align: start;
+  transition: all 0.2s;
+}
+
+.card5:hover {
+  color: var(--white);
+  background: var(--orange);
+}
+
+.card5 .card5-title {
+  font-size: 20px;
+}
+
+.card5 .card5-content {
+  margin: 20px 0;
+  max-width: 85%;
+}
+
+.card5 .card5-link-wrapper {
+  margin-top: auto;
+}
+
+.card5 .card5-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  /* background: var(--orange); */
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+@media (min-width: 500px) {
+  .cards5 {
+      grid-auto-columns: calc(50% - 10px);
+      grid-column-gap: 20px;
+  }
+}
+
+@media (min-width: 700px) {
+  .cards5 {
+      grid-auto-columns: calc(calc(100% / 3) - 20px);
+      grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .cards5 {
+      grid-auto-columns: calc(25% - 30px);
+      grid-column-gap: 40px;
+  }
+}
+
+/*Explore in secound section*/
+
+.fluid-height-carousel .slick-track .slick-slide>div, .fluid-height-carousel .slick-track .slick-slide>div > div {
+  width: 100%;
+  height: 100%;
+}
+.pl-1, .px-1 {
+  padding-left: 0.25rem;
+}
+.pr-1, .px-1 {
+  padding-right: 0.25rem;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  margin: 0;
+  font-family: "Roboto",sans-serif;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  overflow-x: hidden;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+
+
+
+/* */
+
+.mb-0.jsx-4093795240 {
+  margin-bottom: 0 !important;
+}
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+
+
+/*------------------- */
+/* Apply styles to the container to fix the row layout */
+
+
+/* Style the individual cards (select-box) */
+.selected-box {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  width: 280px; 
+  margin-bottom: 20px;
+}
+
+
+.heading1{
+  font-size: 32px;
+}
+
+/*---------------------*/
+.button1-row {
+  display: flex;
+}
+
+.button1 {
+  margin-right: 20px;
+  background-color: primary; /* Replace 'primary' with your desired primary color value */
+  color: #3312d7; /* Set the font color to white to improve visibility on the colored background */
+  padding: 10px 25px; /* Add padding to give the buttons some space */
+  border: none;
+  border-radius: 25px; /*button rounded */
+  cursor: pointer;
+}
+
+
+/*-------------*/
+.button2-row {
+  display: flex;
+}
+
+.button2 {
+margin-right: 20px;
+background-color: primary;
+color: #3312d7;
+padding: 5px 25px;
+border: none;
+border-radius: 25px;
+cursor: pointer;
+}
