@@ -112,6 +112,11 @@ h2 {
 }
 
 
+.card{
+  border: 2px solid #444654;
+}
+
+
 .cards {
   /* height: 250px; */
   /* border: 1px solid #e9e9e9; */
@@ -127,6 +132,7 @@ h2 {
   overflow-x: scroll;
   -ms-scroll-snap-type: x mandatory;
   scroll-snap-type: x mandatory;
+  
 }
 
 div{
@@ -149,6 +155,7 @@ div{
   background-repeat: no-repeat;
   background-position: 50% 50%;
   background-size: cover;
+  
 }
 
 
@@ -233,6 +240,7 @@ div{
   display: flex;
   align-items: center;
   justify-content: center;
+  
 }
 
 .card-icon {
@@ -395,6 +403,7 @@ body{
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   margin: 10px;
+  
 }
 
 .small-card .circular-image {
@@ -523,6 +532,13 @@ body {
 
 
 /*Latest Notifications */
+
+.card02{
+  /* border: 1px solid #444654; */
+  /* border-radius: 4px; */
+}
+
+
 .card-avatar {
   position: absolute;
   top: 34px;
@@ -539,6 +555,11 @@ body {
 
 
 /*Top Universities and colleges*/
+
+.card01 {
+  border: 1px solid #444654;
+  border-radius: 5px;
+}
 
 :root {
   --orange: #fd9940;
@@ -583,6 +604,7 @@ h2 {
   overflow-x: scroll;
   -ms-scroll-snap-type: x mandatory;
   scroll-snap-type: x mandatory;
+  
 }
 
 .card2 {
@@ -698,6 +720,7 @@ body {
   font-size: 24px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
 }
 
 
@@ -854,6 +877,7 @@ body {
   overflow-x: scroll;
   -ms-scroll-snap-type: x mandatory;
   scroll-snap-type: x mandatory;
+ 
 }
 
 .card4 {
@@ -865,6 +889,7 @@ body {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
   scroll-snap-align: start;
   transition: all 0.2s;
+ 
 }
 
 .card4:hover {
@@ -936,6 +961,7 @@ body {
 .card4 {
   position: relative;
   list-style: none;
+  border: 2px solid #444654;
 }
 
 .card4-image-wrapper {
@@ -1153,6 +1179,7 @@ html {
   padding: 20px;
   width: 280px; 
   margin-bottom: 20px;
+  border: 2px solid #444654;
 }
 
 
@@ -1189,4 +1216,450 @@ padding: 5px 25px;
 border: none;
 border-radius: 25px;
 cursor: pointer;
+}
+
+
+/* ----------TOP EXAMS----------- */
+
+.container1 {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 46px;
+    margin-right: auto;
+    margin-left: auto;
+}
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+div {
+    display: block;
+}
+
+body {
+    margin: 0;
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.3;
+    color: #333;
+    text-align: left;
+    background-color: #fff;
+    min-width: 1300px;
+    overflow-x: auto !important;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+
+.slick-slider {
+    position: relative;
+    display: block;
+    box-sizing: border-box;
+    user-select: none;
+    touch-action: pan-y;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.selected1-box {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 5px;
+  width: 291px; 
+  border: 2px solid #444654;
+}
+
+
+
+/*notification*/
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+
+body {
+  margin: 0; 
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
+
+/*explore new section*/
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+div {
+  display: block;
+}
+
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+html {
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+.carousel-control {
+  margin-left: -8px;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+.slick-slider .slick-track, .slick-slider .slick-list {
+  transform: translate3d(0,0,0);
+}
+.slick-list {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.slick-track {
+  position: relative;
+  left: 0;
+  top: 0;
+  display: block;
+}
+
+element.style {
+  width: 1110px;
+  opacity: 1;
+  transform: translate3d(0px, 0px, 0px);
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.slick-slider .slick-track, .slick-slider .slick-list {
+  -webkit-transform: translate3d(0,0,0);
+  -moz-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+  -o-transform: translate3d(0,0,0);
+  -webkit-transform: translate3d(0,0,0);
+  -ms-transform: translate3d(0,0,0);
+  transform: translate3d(0,0,0);
+}
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+.slick-track {
+  position: relative;
+  left: 0;
+  top: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+user agent stylesheet
+div {
+  display: block;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+.slick-track:before, .slick-track:after {
+  content: "";
+  display: table;
+}
+.slick-track:after {
+  clear: both;
+}
+.slick-track:before, .slick-track:after {
+  content: "";
+  display: table;
+}
+.carousel-control .slick-slide {
+  padding: 0 8px;
+}
+.slick-initialized .slick-slide {
+  display: block;
+}
+.slick-slide {
+  float: left;
+  height: 100%;
+  min-height: 1px;
+}
+
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+.carousel-control .slick-slide {
+  padding: 0 8px;
+}
+.slick-initialized .slick-slide {
+  display: block;
+}
+.slick-slide {
+  float: left;
+  height: 100%;
+  min-height: 1px;
+}
+.slick-slider {
+  position: relative;
+  display: block;
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -ms-touch-action: pan-y;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+}
+body {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.3;
+  color: #333;
+  text-align: left;
+  background-color: #fff;
+  min-width: 1300px;
+  overflow-x: auto !important;
+}
+.carousel-control .slick-slide {
+  padding: 0 8px;
+}
+.slick-initialized .slick-slide {
+  display: block;
+}
+.slick-slide {
+  float: left;
+  height: 100%;
+  min-height: 1px;
+}
+
+.carousel-control .slick-track {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+/*-----------------------------*/
+
+/* Add a border to the program cards */
+.jsx-3826371916.program-card {
+  border: 2px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+/* Remove default list styles for the inner-pills */
+.jsx-3826371916.inner-pills {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Style for each inner-pill link */
+.jsx-3826371916.inner-pill {
+  display: inline-block;
+  background-color: #f0f0f0;
+  padding: 8px 12px;
+  margin: 5px;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #333;
+}
+
+/* Hover effect for inner-pill links */
+.jsx-3826371916.inner-pill:hover {
+  background-color: #ccc;
+}
+
+/* .jsx-3826371916 { */
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+/* } */
+.inner-pill {
+  flex: 1 0 25%; /* Adjust the width (25% in this case) to your preference */
+  /* Add other styles like padding, margin, etc. as needed */
+}
+
+
+
+
+.program-heading{
+  font-size: 20px;
+}
+.program-subheading{
+  font-size: 14px;
+}
+.bottom-section{
+  font-size: 14px;
+}
+.program-subheading{
+  font-size: 16px;
 }
