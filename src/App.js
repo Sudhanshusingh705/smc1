@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './component/Navbar';
+import NavBarWithImage from "./component/Navbar";
 import Footer from './component/Footer';
 import Home from './screen/Home';
 import Login from './screen/Login';
@@ -19,7 +20,7 @@ function App() {
   return (
     <Router>
       <div>
-      <Navbar></Navbar>
+      <NavBarWithImage></NavBarWithImage>
         <Routes>
           <Route excat path="/" element={<Home />} > </Route>
           <Route exact path="/login" element={<Login />} > </Route>

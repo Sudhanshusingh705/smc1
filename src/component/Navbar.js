@@ -1,143 +1,199 @@
-import React from "react";
-import { NavLink } from "react-router-dom";
-import logo from "../assets/logo/logo.png";
+import React, { useState } from "react";
+import hero4 from "../assets/hero/hero4.png"; // Import the CSS file for styling
+import logo05 from "../assets/logo/logo05.png";
 
 
+import "../screen/Home.css";
+  const NavBarWithImage = () => {
+    const [dropdownOpen, setDropdownOpen] = useState();
+  
+    const handleDropdownClick = () => {
+      setDropdownOpen(!dropdownOpen);
+    };
 
-function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-secondary fixed-top">
-        <div className="container-fluid">
-          <button
-            className="navbar-toggler"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            
-            <ul className="navbar-nav">
-              <a href="" className="navbar-brand mt-2 mt-lg-0">
-                <img src={logo} height={40} alt="" loading="lazy" />
-              </a>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="topcollege">
-                  Top-College{" "}
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="topcourse">
-                  Top-Course{" "}
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="studyabroad">
-                  Study-Abroad{" "}
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="addmission">
-                  Addmissions
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="exams">
-                  Exams
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link text-white" to="news">
-                  News
-                </NavLink>
-              </li>
+     <div className="image-container" style={{ position: "relative" }}>
+        <img src={hero4} alt="Background Image" />
+        <div className="centered-content text-white">
+        <h2>Find Over 25000+ Colleges in India</h2>
 
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle text-white"
-                  to="more"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                  color="link"
-                >
-                  More
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </ul>
-            <br />
-            <br />
-            <form className="d-flex">
-              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                <li className="nav-item ">
-                  <NavLink className="nav-link text-white" to="login">
-                    👤Login{" "}
-                  </NavLink>
-                </li>
-                <br />
-                <li className="nav-item">
-                  <NavLink
-                    className="nav-link navbar-dark text-white"
-                    to="appdownload"
-                  >
-                    📱Downloads{" "}
-                  </NavLink>
-                </li>
-              </ul>
-            </form>
+        <form className="example">
+          <input type="text" placeholder="Search.." name="search" />
+          <button type="submit"><i className="fa fa-search"></i></button>
+        </form>
+
+        <div className="buttons-container">
+        {/* <p className="col">Your recent visite.</p>
+        <button className="neet-button" style={{margin: '10px', height: '40px', top: '5px',width: '150px'}}>Neet</button>
+        <button className="neet-button" style={{margin: '10px', height: '40px', width: '150px'}}>IIM Bangalore</button>
+            <button className="button" style={{margin: '10px', height: '40px', width: '150px'}}>IIT Guwahati</button>*/}
+            <button className="ciit-counseling-button">Need Counselling</button>
           </div>
+      </div>
+      </div>
+      <div className="subnavbar justify-content-end" style={{ backgroundColor: "transparent" }}>
+  <ul>
+   
+  
+  <div className="dropdown">
+  <button className="dropbtn">B.Tech
+    <i className="fa fa-caret-down"></i>
+  </button>
+  <div className="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+  
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+          MBA
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
         </div>
-      </nav>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+          MBBS
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+      Design
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+         Law
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+        Science
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+    Study Abroad
+         <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    <li>
+      <div className="dropdown">
+        <button onClick={dropdownOpen} className="dropbtn">
+       All Courses
+          <i className="fa fa-caret-down"></i>
+        </button>
+        <div id="myDropdown" className="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div>
+    </li>
+    {/* Add more subnav items as needed */}
+  </ul>
+      </div>
+
+      <div className="navbar">
+        <ul>
+        {/*Logo*/}
+        <li>
+        <div className="logo-container">
+          <img src={logo05} alt="Logo" className="logo-image" />
+        </div>
+        </li>
+        {/*List Items*/}
+          <li>
+            <a href="#">Top Colleges</a>
+          </li>
+          <li>
+            <a href="#">Top Courses</a>
+          </li>
+          <li>
+            <a href="#">Exams</a>
+          </li>
+          <li>
+            <a href="#">Study Abroad</a>
+          </li>
+          <li>
+            <a href="#">News</a>
+          </li>
+          <li>
+            <a href="#">Addmission</a>
+          </li>
+          <div class="dropdown">
+            <button class="dropbtn">
+              More
+              <i class="fa fa-caret-down"></i>
+            </button>
+            <div className="dropdown-content">
+              <a href="#">Link 1</a>
+              <a href="#">Link 2</a>
+              <a href="#">Link 3</a>
+            </div>
+          </div>
+          <li>
+            <a href="#">👤Login</a>
+          </li>
+          <li>
+            <a href="#">📱Downloads</a>
+          </li>
+        </ul>
+
+       {/* <ul className="nav justify-content-end"> 
+  </ul> */}
+      </div>
     </div>
-
+    
   );
-}
+};
 
-export default Navbar;
+export default NavBarWithImage;

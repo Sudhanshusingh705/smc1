@@ -38,6 +38,14 @@ import mhtlogo from "../assets/latestnotificaton/mhtlogo.jpg";
 /*Top Universities*/
 import tp1 from "../assets/topuniversities/tp1.jpg";
 import "./Home.css";
+/* Hero */
+import hero2 from "../assets/hero/hero2.png";
+import hero3 from "../assets/hero/hero3.png";
+import hero4 from "../assets/hero/hero4.png";
+import hero5 from "../assets/hero/hero5.png";
+import hero6 from "../assets/hero/hero6.png";
+import hero7 from "../assets/hero/hero7.png";
+import hero8 from "../assets/hero/hero8.png";
 /*spacer */
 import avatar from "../assets/avatar.png";
 import { MDBCardImage, MDBCardLink } from "mdb-react-ui-kit";
@@ -69,522 +77,24 @@ function Home() {
   return (
     <div>
     {/*CAROUSEL*/}
-      <MDBCarousel showControls touch={false}>
-        <MDBNavbar expand="lg" class="justify-content-end navbar-transparent">
-          <MDBContainer fluid>
-            <ul class="nav justify-content-end">
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  B'Tech
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <h5 class="dropdown-header">Top Colleges By Course</h5>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      B'Tech Colleges
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      M'Tech Colleges
-                    </a>
-                  </li>
-                  <li>
-                    <h5 class="dropdown-header">Top Colleges By State</h5>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  M.B.A
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  MBBS
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Design
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Law
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Science
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Study Abroad
-                </a>
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <div className="dropdown">
-                <a
-                  className="btn btn-transparent dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  All Courses
-                </a>
-
-                <ul className="dropdown-menu">
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Education Loan
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Institute
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Q&A
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      College Predictor
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Test Series
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Practice Question
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Course Finder
-                    </a>
-                  </li>
-                  <li>
-                    <a className="dropdown-item" href="#">
-                      Scholership
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </ul>
-          </MDBContainer>
-        </MDBNavbar>
-        <MDBCarouselItem
-          className="w-100 d-block"
-          itemId={1}
-          src="https://mdbootstrap.com/img/new/slides/041.jpg"
-          alt="..."
-          style={{ height: "50vh", position: "relative" }}
-        >
-          {/* Search Bar */}
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row",
-              alignItems: "center",
-              justifyContent: "center",
-              position: "absolute",
-              top: "25%",
-              left: "50%",
-              transform: "translate(-50%, -25%)",
-              zIndex: "1",
-              maxWidth: "80%",
-              width: "70%",
-            }}
-          >
-            {/* Replace the input and button elements with your actual search bar */}
-            <h1 className="animate__animated animate__jackInTheBox">
-              Find Over 25000+ College in India
-            </h1>
-          </div>
-
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row", // Display elements side by side
-              alignItems: "center",
-              justifyContent: "center", // Center the elements horizontally
-              position: "absolute",
-              top: "50%", // Center vertically
-              left: "50%", // Center horizontally
-              transform: "translate(-50%, -50%)", // Center both horizontally and vertically
-              zIndex: "1", // Make sure the search bar appears above the image
-              maxWidth: "80%", // Limit the width to avoid stretching
-              width: "70%",
-            }}
-          >
-            {/* Replace the input and button elements with your actual search bar */}
-            <input
-              type="text"
-              placeholder="Search..."
-              style={{ flex: 1, padding: "8px" }} // Use flex: 1 to make the input take available space
-            />
-            <button
-              type="button"
-              style={{
-                padding: "10px 50px",
-                backgroundColor: "#ff7900",
-                color: "white",
-                border: "none",
-              }}
-            >
-              Search
-            </button>
-          </div>
-
-          <div
-            style={{
-              display: "flex",
-              flexDirection: "row", // Display elements side by side
-              position: "absolute",
-              justifyContent: "end",
-              top: "70%", // Center vertically
-              left: "75%", // Center horizontally
-              transform: "translate(-80%, -80%)", // Center both horizontally and vertically
-              zIndex: "1", // Make sure the search bar appears above the image
-              maxWidth: "80%", // Limit the width to avoid stretching
-              width: "50%",
-            }}
-          >
-            <button
-              type="button"
-              class="jsx-1138136204 big-orange-btn d-flex align-items-center"
-            >
-              Need Counselling
-            </button>
-
-            {/* Replace the input and button elements with your actual search bar */}
-          </div>
-
-          {/* Caption Text */}
-        </MDBCarouselItem>
-      </MDBCarousel>
+      
 
       {/* Select Your Study Goal  Scrollup cards */}
       <div className="container">
         <h2 className="text">Select Your Study Goal</h2>
         <div class="card-top-collection container">
+        <a href="#" className="previous round">
+        ‹
+      </a>
+      <a href="#" className="next round">
+        ›
+      </a>
           <ul className="cards">
             <li className="card">
               <div>
                 <div className="nowrap">
                   <div className="circular-image colomn">
-                    <img src={engineer} height={50} alt="" />
+                    <img src={engineer} height={40} alt="" />
                   </div>
                   <div className="colomn padding-card">
                     <h3 className="card-title">Engineering</h3>
@@ -592,13 +102,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>BE/B'Tech</p>
+                  <p className="hoverable-paragraph">BE/B'Tech</p>
                 </div>
                 <div className="card-content">
-                  <p>ME/M.Tech</p>
+                  <p className="hoverable-paragraph">ME/M.Tech</p>
                 </div>
                 <div className="card-content">
-                  <p>Diploma in Engineering</p>
+                  <p className="hoverable-paragraph">Diploma in Engineering</p>
                 </div>
               </div>
             </li>
@@ -615,13 +125,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>MBA/PGDM</p>
+                  <p className="hoverable-paragraph">MBA/PGDM</p>
                 </div>
                 <div className="card-content">
-                  <p>BBA/BBM</p>
+                  <p className="hoverable-paragraph">BBA/BBM</p>
                 </div>
                 <div className="card-content">
-                  <p>Executive MBA</p>
+                  <p className="hoverable-paragraph">Executive MBA</p>
                 </div>
               </div>
             </li>
@@ -638,10 +148,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>B.COM</p>
+                  <p className="hoverable-paragraph">B.COM</p>
                 </div>
                 <div className="card-content">
-                  <p>M.COM</p>
+                  <p className="hoverable-paragraph">M.COM</p>
+                </div>
+                <div className="card-content">
+                  <p className="hoverable-paragraph">MBA</p>
                 </div>
               </div>
             </li>
@@ -658,16 +171,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>BA</p>
+                  <p className="hoverable-paragraph">BA</p>
                 </div>
                 <div className="card-content">
-                  <p>MA</p>
+                  <p className="hoverable-paragraph">MA</p>
                 </div>
                 <div className="card-content">
-                  <p>BFA</p>
-                </div>
-                <div className="card-content">
-                  <p>BSW</p>
+                  <p className="hoverable-paragraph">BFA</p>
                 </div>
               </div>
             </li>
@@ -684,10 +194,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>MBBS</p>
+                  <p className="hoverable-paragraph">MBBS</p>
                 </div>
                 <div className="card-content">
-                  <p>PG-Medical</p>
+                  <p className="hoverable-paragraph">B.Pharma</p>
+                </div>
+                <div className="card-content">
+                  <p className="hoverable-paragraph">B.Sc Nursing</p>
                 </div>
               </div>
             </li>
@@ -704,10 +217,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card-content">
-                  <p>B.Des</p>
+                  <p className="hoverable-paragraph">B.Des</p>
                 </div>
                 <div className="card-content">
-                  <p>M.Des</p>
+                  <p className="hoverable-paragraph">M.Des</p>
+                </div>
+                <div className="card-content">
+                  <p className="hoverable-paragraph">BFA</p>
                 </div>
               </div>
             </li>
@@ -717,7 +233,8 @@ function Home() {
                 className="card-title text-center"
                 style={{ textAlign: "center" }}
               >
-                See All <FiArrowRightCircle size={40} />
+                <p className="hoverable-paragraph" href='/'>See All</p> 
+                <FiArrowRightCircle size={40} />
               </h3>
             </li>
           </ul>
