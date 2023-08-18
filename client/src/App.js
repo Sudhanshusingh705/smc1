@@ -1,9 +1,9 @@
+import react,{useState, useEffect } from 'react';
 import './App.css';
-// import Navbar from './component/Navbar';
-import NavBarWithImage from "./component/Navbar";
-import Footer from './component/Footer';
+import NavBarWithImage from "./components/Navbar";
+import Footer from "./components/Footer";
 import Home from './screen/Home';
-import Login from './screen/Login';
+import LoginForm from './components/LoginForm';
 import Addmission from './pages/Addmission';
 import Appdownload from './pages/Appdownload';
 import Exams from './pages/Exams';
@@ -12,8 +12,33 @@ import More from './pages/More';
 import Studyabroad from './pages/Studyabroad';
 import Topcollege from './pages/Topcollege';
 import Topcourse from './pages/Topcourse';
+import Sidebar from './components/Sidebar/Sidebar';
+import  {BrowserRouter as Router, Routes, Route, useNavigate, Navigate}  from 'react-router-dom'
 
-import  {BrowserRouter as Router, Routes, Route}  from 'react-router-dom'
+{/*SIDEBAR MENU*/}
+import Agriculture from "./pages/sidebarmenu/Agriculture";
+import Animation from "./pages/sidebarmenu/Animation";
+import Architecture from "./pages/sidebarmenu/Architecture";
+import Arts from "./pages/sidebarmenu/Arts";
+import Aviation from "./pages/sidebarmenu/Aviation";
+import Commerce from "./pages/sidebarmenu/Commerce";
+import ComputerApplication from "./pages/sidebarmenu/ComputerApplication";
+import Dental from "./pages/sidebarmenu/Dental";
+import Design from "./pages/sidebarmenu/Design";
+import Education from "./pages/sidebarmenu/Education";
+import Engineering from "./pages/sidebarmenu/Engineering";
+import Hotelmanagement from "./pages/sidebarmenu/Hotelmanagement";
+import Law from "./pages/sidebarmenu/Law";
+import Management from "./pages/sidebarmenu/Management";
+import Masscommunication from "./pages/sidebarmenu/Masscommunication";
+import Medical from "./pages/sidebarmenu/Medical";
+import Paramedical from "./pages/sidebarmenu/Paramedical";
+import Phamasy from "./pages/sidebarmenu/Phamasy";
+import Science from "./pages/sidebarmenu/Science";
+import Veterinary from './pages/sidebarmenu/Veterinary';
+import Vocationalcourse from './pages/sidebarmenu/Vocationalcourse';
+
+
 
 
 function App() {
@@ -23,7 +48,8 @@ function App() {
       <NavBarWithImage></NavBarWithImage>
         <Routes>
           <Route excat path="/" element={<Home />} > </Route>
-          <Route exact path="/login" element={<Login />} > </Route>
+          <Route excat path="/loginForm" element={<LoginForm />} > </Route>
+
           {/*Pages folder route*/}
           <Route exact path="/addmission" element={<Addmission />} > </Route>
           <Route exact path="/appdownload" element={<Appdownload />} > </Route>
@@ -32,14 +58,41 @@ function App() {
           <Route exact path="/more" element={<More />} > </Route>
           <Route exact path="/studyabroad" element={<Studyabroad />} > </Route>
           <Route exact path="/topcollege" element={<Topcollege />} > </Route>
+          {/* */}
           <Route exact path="/topcourse" element={<Topcourse />} > </Route>
+          <Route exact path="/sidebar" element={<Sidebar />} > </Route>
+
+
+
+          {/*SIDEBAR MENUS */}
+          <Route path={"/agriculture"} element={ < Agriculture/>}></Route>
+          <Route path={"/animation"} element={ <Animation />}></Route>
+          <Route path={"/architecture"} element={ <Architecture />}></Route>
+          <Route path={"/arts"} element={ <Arts/>}></Route>
+          <Route path={"/aviation"} element={ <Aviation/>}></Route>
+          <Route path={"/commerce"} element={ <Commerce/>}></Route>
+          <Route path={"/computerapplication"} element={ <ComputerApplication/>}></Route>
+          <Route path={"/dental"} element={ <Dental/>}></Route>
+          <Route path={"/design"} element={ <Design/>}></Route>
+          <Route path={"/education"} element={ <Education/>}></Route>
+          <Route path={"/engineering"} element={ <Engineering />}></Route>
+          <Route path={"/hotelmanagement"} element={ <Hotelmanagement/>}></Route>
+          <Route path={"/law"} element={ <Law/>}></Route>
+          <Route path={"/management"} element={ <Management/>}></Route>
+          <Route path={"/masscommunication"} element={ <Masscommunication/>}></Route>
+          <Route path={"/medical"} element={ <Medical /> }></Route>
+          <Route path={"/paramedical"} element={ <Paramedical/>}></Route>
+          <Route path={"/phamasy"} element={ <Phamasy/>}></Route>
+          <Route path={"/science"} element={ <Science/>}></Route>
+          <Route path={"/veterinary"} element={ <Veterinary/>}></Route>
+          <Route path={"/vocationalcourse"} element={ <Vocationalcourse/>}></Route>
+
+
         </Routes>
         <Footer></Footer>
       </div>
-    </Router>
-    
-    
-  )
-}
+    </Router> 
+  );
+};
 
 export default App;

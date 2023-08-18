@@ -3,7 +3,7 @@ import React from 'react'
 const Topcollege = () => {
   return (
     <div>
-      <h1>Top Colleges are coming soon</h1>
+      <h1>TOP COLLEGES ARE COMING SOON</h1>
     </div>
   )
 }

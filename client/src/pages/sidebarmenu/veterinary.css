@@ -1,0 +1,6428 @@
+/* .container { */
+    /* max-width: 1236px; */
+/* } */
+/* .container { */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .clgListHeroSection { */
+    /* margin-bottom: 20px; */
+    /* margin-top: 10px; */
+/* } */
+/*  */
+/* .h1_tooltip { */
+    /* position: relative; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .clgListHeroSection h1 { */
+    /* font-size: 24px; */
+    /* line-height: 38px; */
+    /* font-weight: 400; */
+    /* padding-bottom: 10px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h1 { */
+    /* display: block; */
+    /* margin-block-start: 0.67em; */
+    /* margin-block-end: 0.67em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .h1_tooltip { */
+    /* position: relative; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .clgListHeroSection { */
+    /* margin-bottom: 20px; */
+    /* margin-top: 10px; */
+/* } */
+/* .horizontalRectangle { */
+    /* display: block; */
+    /* margin-bottom: 20px; */
+    /* padding-top: 1px; */
+/* } */
+/* .horizontalRectangle .appendAdDiv { */
+    /* width: 728px; */
+    /* height: 90px; */
+    /* margin: 0 auto; */
+    /* margin-top: 15px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .appendAdDiv:first-child::before { */
+    /* content: "-------- Advertisement --------"; */
+    /* position: absolute; */
+    /* top: -15px; */
+    /* left: 50%; */
+    /* transform: translate(-50%,0); */
+    /* font-size: 11px; */
+    /* text-align: center; */
+    /* line-height: 10px; */
+    /* color: #b7b7b7; */
+/* } */
+/* .horizontalRectangle .appendAdDiv { */
+    /* width: 728px; */
+    /* height: 90px; */
+    /* margin: 0 auto; */
+    /* margin-top: 15px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .horizontalRectangle { */
+    /* display: block; */
+    /* margin-bottom: 20px; */
+    /* padding-top: 1px; */
+/* } */
+/*  */
+/*  */
+/*  */
+/* /~  rows ~/ */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+/* } */
+/* .lg-pr-0 { */
+    /* padding-right: 0; */
+/* } */
+/*  */
+/* .col-md-3 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 25%; */
+    /* max-width: 25%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-left: 15px; */
+/* } */
+/* .filterSidebarSection { */
+    /* background: var(--color-white); */
+    /* border-radius: 4px; */
+    /* padding: 20px; */
+    /* margin-bottom: 20px; */
+    /* border: var(--border-line); */
+    /* padding-bottom: 0; */
+/* } */
+/* .filterSidebarSection .foundesults { */
+    /* justify-content: space-between; */
+    /* padding-bottom: 20px; */
+/* } */
+/*  */
+/* .filterSidebarSection .row { */
+    /* margin: 0; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* p { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterSidebarSection .clearAll { */
+    /* color: var(--color-red); */
+    /* cursor: pointer; */
+/* } */
+/* .filterSidebarSection { */
+    /* background: var(--color-white); */
+    /* border-radius: 4px; */
+    /* padding: 20px; */
+    /* margin-bottom: 20px; */
+    /* border: var(--border-line); */
+    /* padding-bottom: 0; */
+/* } */
+/* section { */
+    /* display: block; */
+/* } */
+/* .filterSidebarSection .foundesults { */
+    /* justify-content: space-between; */
+    /* padding-bottom: 20px; */
+/* } */
+/*  */
+/* .filterSidebarSection .row { */
+    /* margin: 0; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* form { */
+    /* display: block; */
+    /* margin-top: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* text-align: start; */
+  /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* text-align: start; */
+  /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* /~ .filterDiv ul li a { ~/ */
+/* /~ } ~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+  /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+      /* padding: initial; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/*  */
+/*  */
+/*  */
+/*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/*  */
+/*  */
+/*  */
+/* /~HELP BOX ~/ */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/*  */
+/*  */
+/* /~FILTER CATEGORY~/ */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/*  */
+/*  */
+/*  */
+/* /~FILTER DIV~/ */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/*  */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+      /* margin: 0em; */
+/* } */
+/*  */
+/*  */
+/*  */
+/* /~SEARCH CITY~/ */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/*  */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/*  */
+/* /~ element.style { ~/ */
+/* /~ } ~/ */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* -webkit-appearance: none; */
+    /* -moz-appearance: none; */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* * { */
+    /* letter-spacing: .3px; */
+    /* font-family: roboto; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* user agent stylesheet */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* user agent stylesheet */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* appearance: auto; */
+    /* box-sizing: border-box; */
+    /* margin: 3px 3px 3px 4px; */
+    /* padding: initial; */
+    /* border: initial; */
+/* } */
+/*  */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+  /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* /~FILTER CATEGORY~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* * { */
+    /* letter-spacing: .3px; */
+    /* font-family: roboto; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* user agent stylesheet */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* body { */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* margin: 0; */
+    /* padding: 0; */
+    /* font-family: roboto; */
+    /* background: #f3f2ef; */
+/* } */
+/* :root { */
+    /* --font-bold: 700; */
+    /* --font-semibold: 600; */
+    /* --font-500: 500; */
+    /* --fontsize-14: 14px; */
+    /* --fontsize-15: 15px; */
+    /* --primary-font-color: #333333; */
+    /* --color-red: #ff4e53; */
+    /* --color-white: #ffffff; */
+    /* --anchor-textclr: #3d8ff2; */
+    /* --transition: 0.2s ease; */
+    /* --border-line: 1px solid #d8d8d8; */
+    /* --footer-bg: #273553; */
+    /* --topheader-bg: #0966c2; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+  /* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+      /* margin: 0em; */
+/* } */
+/*  */
+/*  */
+/*  */
+/* /~COLLEGE SEARCH STREAM~/ */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+    /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* /~FILTER CATEGORY NAME ~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+  /* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* /~FILTER SEARCH~/ */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* -webkit-rtl-ordering: logical; */
+/* } */
+  /*  */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/*  */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/*  */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/*  */
+/* input { */
+    /* text-rendering: auto; */
+    /* color: fieldtext; */
+    /* letter-spacing: normal; */
+    /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+ /* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+  /* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+ /* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+ /* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+ /* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* }   */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* }   */
+  /* input { */
+        /* text-rendering: auto; */
+    /* color: fieldtext; */
+        /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* text-align: start; */
+        /* -webkit-rtl-ordering: logical; */
+  /* } */
+  /* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+  /* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+  /* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* }   */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+  /* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+  /* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+  /* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+  /* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+  /* a { */
+    /* text-decoration: none; */
+/* } */
+  /* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+  /* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+  /* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* /~ .filterDiv ul li a { ~/ */
+/* /~ } ~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+  /* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+  /* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+  /*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/*  */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+      /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+      /* margin: 0em; */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+  /* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* /~OWNERSHIP~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/*  */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+  /* div { */
+    /* display: block; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+  /* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* /~ input:not([type="file" i], [type="image" i], [type="checkbox" i], [type="radio" i]) { ~/ */
+/* /~ } ~/ */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+        /* word-spacing: normal; */
+        /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+        /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+        /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+      /* margin: 0em; */
+/* } */
+/*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+  /* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+  /* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/*  */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/*  */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* text-align: start; */
+    /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/*  */
+/* /~ .filterDiv ul li a { ~/ */
+/* /~ } ~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/*  */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* text-decoration: none; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/*  */
+/* /~ .filterDiv ul li a { ~/ */
+/* /~ } ~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterSidebarSection a { */
+    /* color: #787878; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/*  */
+/* /~EXAM ACCEPTED~/ */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+  /* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="hidden" i] { */
+    /* appearance: none; */
+    /* background-color: initial; */
+    /* cursor: default; */
+    /* display: none !important; */
+    /* padding: initial; */
+    /* border: initial; */
+    /* border-color: initial; */
+    /* border-radius: initial; */
+/* } */
+/* input { */
+  /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+      /* margin: 0em; */
+/* } */
+/*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+  /* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext;    word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+        /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+/* } */
+/* .filterSidebarSection .filterDiv a { */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+  /* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .filterCategoryName:after { */
+    /* content: " "; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* width: 12px; */
+    /* height: 16px; */
+    /* position: absolute; */
+    /* right: 17px; */
+    /* top: 12px; */
+    /* background-position: 652px -94px; */
+    /* transition: .2s ease; */
+    /* transform: rotate(-90deg); */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* .filterCategoryName { */
+    /* margin: 0 -20px; */
+    /* padding: 8px 20px; */
+    /* font-weight: 500; */
+    /* background: #f5f5f5; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/*  */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/*  */
+/* .filterSearch input[type=text] { */
+    /* border: var(--border-line); */
+    /* padding: 7px 16px; */
+    /* margin-bottom: 16px; */
+    /* line-height: 24px; */
+    /* font-size: 14px; */
+    /* width: 100%; */
+    /* border-radius: 2px; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+/* input { */
+      /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+    /* appearance: auto; */
+    /* -webkit-rtl-ordering: logical; */
+    /* cursor: text; */
+    /* background-color: field; */
+    /* margin: 0em; */
+/* } */
+/*  */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+  /* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+  /* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv input[type=checkbox] { */
+    /* margin: 0; */
+    /* margin-top: 3px; */
+    /* vertical-align: middle; */
+    /* flex-basis: 16px; */
+/* } */
+/* input[type=checkbox] { */
+    /* appearance: none; */
+    /* border: 1px solid #dedfdf; */
+    /* width: 16px; */
+    /* height: 16px; */
+    /* display: inline-block; */
+    /* position: relative; */
+    /* cursor: pointer; */
+/* } */
+/* input:not([type="range"]):not([type="color"]) { */
+    /* writing-mode: horizontal-tb !important; */
+/* } */
+  /* input[type="checkbox" i] { */
+    /* background-color: initial; */
+    /* padding: initial; */
+/* } */
+/* input { */
+        /* text-rendering: auto; */
+    /* color: fieldtext; */
+  /* word-spacing: normal; */
+    /* line-height: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+/* } */
+/* .filterDiv label { */
+    /* color: #787878; */
+    /* padding-left: 10px; */
+    /* cursor: pointer; */
+    /* vertical-align: middle; */
+    /* flex-basis: calc(100% - 16px); */
+/* } */
+/* .filterDiv ul li { */
+    /* list-style-type: none; */
+    /* padding-bottom: 8px; */
+    /* display: flex; */
+/* } */
+/*  */
+/* .filterSidebarSection p, .filterSidebarSection li, .filterSidebarSection a, .filterSidebarSection button { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .filterDiv ul { */
+    /* padding: 0; */
+    /* margin: 0; */
+    /* max-height: 120px; */
+    /* overflow: auto; */
+/* } */
+/* ul { */
+    /* display: block; */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+  /* .filterDiv ul::-webkit-scrollbar { */
+    /* width: 5px; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-thumb { */
+    /* background: #ccc; */
+/* } */
+/* .filterDiv ul::-webkit-scrollbar-track { */
+    /* background: #f1f1f1; */
+/* } */
+/* .help-block { */
+    /* color: var(--color-red); */
+    /* font-size: 12px; */
+    /* padding-top: 5px; */
+/* } */
+/* .filterDiv { */
+    /* padding: 16px 0; */
+/* } */
+/* form { */
+    /* display: block; */
+    /* margin-top: 0em; */
+/* } */
+/* .filterSidebarSection { */
+    /* background: var(--color-white); */
+    /* border-radius: 4px; */
+    /* padding: 20px; */
+    /* margin-bottom: 20px; */
+    /* border: var(--border-line); */
+    /* padding-bottom: 0; */
+/* } */
+/* section { */
+    /* display: block; */
+/* } */
+/*  */
+/*  */
+/* /~STICKY ADS~/ */
+/* aside { */
+    /* display: block; */
+/* } */
+/* .collegeListpageBody .sidebarAds { */
+    /* padding: 0; */
+/* } */
+/* .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .sidebarAds .appendAdDiv { */
+    /* width: 300px; */
+    /* height: 250px; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/*  */
+/* element.style { */
+    /* background: #EAEAEA; */
+/* } */
+/* .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .collegeReviewPage .fixedQuickLinksDiv, .collegeReviewPage .sidebarAds .appendAdDiv, .courseAndFeePage .fixedQuickLinksDiv, .courseAndFeePage .sidebarAds .appendAdDiv, .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .sidebarAds .appendAdDiv { */
+    /* width: 300px; */
+    /* height: 250px; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .appendAdDiv { */
+    /* margin-top: 15px; */
+    /* position: relative; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* * { */
+    /* letter-spacing: .3px; */
+    /* font-family: roboto; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* user agent stylesheet */
+/* div { */
+    /* display: block; */
+/* } */
+/* body { */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* margin: 0; */
+    /* padding: 0; */
+    /* font-family: roboto; */
+    /* background: #f3f2ef; */
+/* } */
+/* :root { */
+    /* --font-bold: 700; */
+    /* --font-semibold: 600; */
+    /* --font-500: 500; */
+    /* --fontsize-14: 14px; */
+    /* --fontsize-15: 15px; */
+    /* --primary-font-color: #333333; */
+    /* --color-red: #ff4e53; */
+    /* --color-white: #ffffff; */
+    /* --anchor-textclr: #3d8ff2; */
+    /* --transition: 0.2s ease; */
+    /* --border-line: 1px solid #d8d8d8; */
+    /* --footer-bg: #273553; */
+    /* --topheader-bg: #0966c2; */
+/* } */
+/* .appendAdDiv:first-child::before { */
+    /* content: "-------- Advertisement --------"; */
+    /* position: absolute; */
+    /* top: -15px; */
+    /* left: 50%; */
+    /* transform: translate(-50%,0); */
+    /* font-size: 11px; */
+    /* text-align: center; */
+    /* line-height: 10px; */
+    /* color: #b7b7b7; */
+/* } */
+/* script { */
+    /* display: none; */
+/* } */
+/* .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .sidebarAds .appendAdDiv { */
+    /* width: 300px; */
+    /* height: 250px; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .sidebarAds .appendAdDiv { */
+    /* width: 300px; */
+    /* height: 250px; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .collegeListpageBody .fixedQuickLinksDiv, .collegeListpageBody .sidebarAds .appendAdDiv { */
+    /* max-width: 292px; */
+/* } */
+/* .sidebarAds .appendAdDiv { */
+    /* width: 300px; */
+    /* height: 250px; */
+    /* display: block; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .collegeListpageBody .sidebarAds { */
+    /* padding: 0; */
+/* } */
+/* aside { */
+    /* display: block; */
+/* } */
+/* .lg-pr-0 { */
+    /* padding-right: 0; */
+/* } */
+/* .col-md-3 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 25%; */
+    /* max-width: 25%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-left: 15px; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/*  */
+/*  */
+/* /~SORT BY SECTION ON CARDS~/ */
+/* .col-md-9 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 75%; */
+    /* max-width: 75%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .sortBySection.row { */
+    /* margin: 0; */
+    /* justify-content: flex-end; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .sortBySection .sortByList select { */
+    /* padding: 5px 12px; */
+    /* font-weight: 500; */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* background: var(--color-white); */
+    /* border: var(--border-line); */
+    /* color: #787878; */
+    /* border-radius: 3px; */
+    /* min-width: 162px; */
+    /* background-position: 92% 14px!important; */
+    /* cursor: pointer; */
+    /* outline: none; */
+/* } */
+/* select { */
+    /* appearance: none; */
+    /* box-sizing: border-box; */
+    /* width: 100%; */
+    /* background-image: url(/yas/images/select-angle.png?9962fd8…)!important; */
+    /* background-repeat: no-repeat!important; */
+    /* background-position: 95% 19px!important; */
+/* } */
+/* select:not(:-internal-list-box) { */
+    /* overflow: visible !important; */
+/* } */
+/* select { */
+  /* writing-mode: horizontal-tb !important; */
+  /* text-rendering: auto; */
+      /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: start; */
+      /* /~ white-space-collapse: preserve; ~/ */
+    /* /~ text-wrap: nowrap; ~/ */
+    /* -webkit-rtl-ordering: logical; */
+/* } */
+/* option { */
+    /* font-weight: normal; */
+    /* display: block; */
+    /* /~ white-space-collapse: collapse; ~/ */
+    /* /~ text-wrap: nowrap; ~/ */
+    /* min-height: 1.2em; */
+    /* padding: 0px 2px 1px; */
+/* } */
+/* .sortBySection .sortByList select { */
+    /* padding: 5px 12px; */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* background: var(--color-white); */
+    /* border: var(--border-line); */
+    /* color: #787878; */
+    /* border-radius: 3px; */
+    /* min-width: 162px; */
+    /* background-position: 92% 14px!important; */
+    /* cursor: pointer; */
+    /* outline: none; */
+/* } */
+/* select { */
+    /* appearance: none; */
+    /* box-sizing: border-box; */
+    /* width: 100%; */
+    /* background-image: url(/yas/images/select-angle.png?9962fd8…)!important; */
+    /* background-repeat: no-repeat!important; */
+    /* background-position: 95% 19px!important; */
+/* } */
+/* select { */
+      /* writing-mode: horizontal-tb !important; */
+      /* text-rendering: auto; */
+  /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* text-align: start; */
+      /* -webkit-rtl-ordering: logical; */
+/* } */
+/*  */
+/* .sortBySection .sortByList select { */
+    /* padding: 5px 12px; */
+    /* font-weight: 500; */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* background: var(--color-white); */
+    /* border: var(--border-line); */
+    /* color: #787878; */
+    /* border-radius: 3px; */
+    /* min-width: 162px; */
+    /* background-position: 92% 14px!important; */
+    /* cursor: pointer; */
+    /* outline: none; */
+/* } */
+/*  */
+/* select { */
+    /* appearance: none; */
+    /* box-sizing: border-box; */
+    /* width: 100%; */
+    /* background-image: url(/yas/images/select-angle.png?9962fd8…)!important; */
+    /* background-repeat: no-repeat!important; */
+    /* background-position: 95% 19px!important; */
+/* } */
+/* select:not(:-internal-list-box) { */
+    /* overflow: visible !important; */
+/* } */
+/* .sortBySection.row { */
+    /* margin: 0; */
+    /* justify-content: flex-end; */
+    /* margin-bottom: 20px; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/*  */
+/*  */
+/* /~SCHOOL COLLEGE LIST ~/ */
+/* div { */
+    /* display: block; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeSponsoredInfoCards { */
+    /* flex-basis: 31.8%; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* margin-bottom: 20px; */
+    /* margin-right: 13px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard:last-child { */
+    /* border-top: 0; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard:first-child { */
+    /* border-bottom: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard:last-child .sponsorContainer { */
+    /* border-top-left-radius: 0; */
+    /* border-top-right-radius: 0; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer { */
+    /* padding: 12.5px 10px; */
+    /* border-radius: 4px; */
+    /* border: solid 1px #d8d8d8; */
+    /* background-color: var(--color-white); */
+    /* border-bottom: none; */
+    /* position: relative; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .sponsorLabel { */
+    /* position: absolute; */
+    /* top: 0; */
+    /* right: 0; */
+    /* border-left: 14px solid transparent; */
+    /* border-top: 20px solid #ffc318; */
+    /* text-align: center; */
+    /* width: 85px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .sponsorLabel span { */
+    /* position: absolute; */
+    /* top: -16px; */
+    /* right: 8px; */
+    /* font-size: 12px; */
+    /* font-weight: 500; */
+    /* color: #fff; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .sponsorLabel { */
+    /* position: absolute; */
+    /* top: 0; */
+    /* right: 0; */
+    /* border-left: 14px solid transparent; */
+    /* border-top: 20px solid #ffc318; */
+    /* text-align: center; */
+    /* width: 85px; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/*  */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* img { */
+    /* max-width: 100%; */
+    /* height: auto; */
+/* } */
+/* img { */
+    /* overflow-clip-margin: content-box; */
+    /* overflow: clip; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner .collegeName { */
+    /* margin-top: 5px; */
+    /* color: #282828; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* font-weight: bold; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner .collegeName { */
+    /* margin-top: 5px; */
+    /* color: #282828; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* font-weight: bold; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner p { */
+    /* font-size: 12px; */
+    /* font-weight: 400; */
+    /* color: #282828; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner .locationIconBlue { */
+    /* transform: scale(.8); */
+    /* vertical-align: middle; */
+    /* margin: 0; */
+/* } */
+/* .collegeLocation .locationIconBlue { */
+    /* width: 16px; */
+    /* height: 20px; */
+    /* background-position: 342px -317px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner p { */
+    /* font-size: 12px; */
+    /* font-weight: 400; */
+    /* color: #282828; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner p { */
+    /* font-size: 12px; */
+    /* font-weight: 400; */
+    /* color: #282828; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row .sponsoredBanner { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/*  */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/*  */
+/* /~COLLEGE DETAILS~/ */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* margin-top: 5px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .empty-star { */
+    /* vertical-align: middle; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star { */
+    /* background-position: 129px -247px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .empty-star { */
+    /* vertical-align: middle; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star { */
+    /* background-position: 129px -247px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .empty-star { */
+    /* vertical-align: middle; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star { */
+    /* background-position: 129px -247px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .empty-star { */
+    /* vertical-align: middle; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star { */
+    /* background-position: 99px -247px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .full-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .half-star, .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .empty-star { */
+    /* vertical-align: middle; */
+/* } */
+/*  */
+/* .empty-star { */
+    /* background-position: 74px -246px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* i { */
+    /* font-style: italic; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+    /* border-top: 8px dashed!important; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: middle; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .tooltipIconText { */
+    /* top: 110px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .tooltipIconText:before { */
+    /* box-shadow: 0 0 0 rgba(0,0,0,.16); */
+/* } */
+  /* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText:before { */
+    /* content: ""; */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* transform: rotate(42.5deg); */
+    /* top: -7px; */
+    /* left: 5px; */
+    /* background: var(--color-white); */
+    /* position: absolute; */
+    /* box-shadow: 0 0 7px 0 rgba(0,0,0,.16); */
+    /* z-index: 1; */
+    /* display: block; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+  /* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+  /* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* display: -webkit-box; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* * { */
+    /* letter-spacing: .3px; */
+    /* font-family: roboto; */
+/* } */
+/* *, *::before, *::after { */
+    /* box-sizing: inherit; */
+/* } */
+/* user agent stylesheet */
+/* div { */
+    /* display: block; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+  /* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+  /* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+  /*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+    /* border-top: 8px dashed!important; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: middle; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeRating { */
+    /* font-size: 12px; */
+    /* margin-bottom: 8px; */
+    /* min-width: 150px; */
+    /* min-height: 17px; */
+/* } */
+/*  */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo { */
+    /* flex-basis: 100%; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo { */
+    /* flex-basis: 100%; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p:first-child { */
+    /* color: #989898; */
+    /* margin-bottom: 5px; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* * { */
+    /* letter-spacing: normal; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo div:nth-child(even) { */
+    /* flex-basis: 57%; */
+    /* padding: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p:first-child { */
+    /* color: #989898; */
+    /* margin-bottom: 5px; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p:first-child { */
+    /* color: #989898; */
+    /* margin-bottom: 5px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+    /* text-decoration: none; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo .keyInfo p { */
+    /* font-size: 12px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo div:nth-child(even) { */
+    /* flex-basis: 57%; */
+    /* padding: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails .collegeKeyInfo { */
+    /* flex-basis: 100%; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer .row { */
+    /* display: flex; */
+/* } */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .collegeDetails { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* margin-top: 5px; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard:last-child .sponsorContainer { */
+    /* border-top-left-radius: 0; */
+    /* border-top-right-radius: 0; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .sponsorContainer { */
+    /* padding: 12.5px 10px; */
+    /* border-radius: 4px; */
+    /* border: solid 1px #d8d8d8; */
+    /* background-color: var(--color-white); */
+    /* border-bottom: none; */
+    /* position: relative; */
+/* } */
+/*  */
+/* /~CARD FOOTER~/ */
+/* .collegeSponsoredInfoCards .sponsorCard:first-child .clgInfoCardfooter { */
+    /* border-bottom: 0; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .clgInfoCardfooter { */
+    /* width: 100%; */
+    /* border-radius: 3px; */
+    /* border: solid 1px #d8d8d8; */
+/* } */
+/* .clgInfoCardfooter { */
+    /* display: flex; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .clgInfoCardfooter .brochureRed { */
+    /* font-size: 14px; */
+    /* font-weight: var(--font-semibold); */
+    /* color: #ff4e53; */
+    /* flex-basis: 50%; */
+    /* background-color: #fff; */
+    /* border: none; */
+    /* border-right: none; */
+/* } */
+/* .textRed { */
+    /* cursor: pointer; */
+    /* flex-basis: 50%; */
+    /* padding: 8px; */
+    /* background: 0 0; */
+    /* line-height: 20px; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+  /* appearance: auto; */
+      /* text-rendering: auto; */
+      /* word-spacing: normal; */
+    /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: center; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .clgInfoCardfooter .primaryBtn { */
+    /* background-color: #ff4e53; */
+/* } */
+/*  */
+/* .clgInfoCardfooter .primaryBtn { */
+    /* border-radius: 0; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* font-weight: var(--font-semibold); */
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+      /* text-rendering: auto; */
+      /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* margin: 0em; */
+/* } */
+/* .redDownloadIcon { */
+    /* width: 19px; */
+    /* height: 18px; */
+    /* vertical-align: text-bottom; */
+    /* margin-right: 5px; */
+/* } */
+/* .whiteDownloadIcon, .redDownloadIcon { */
+    /* background-position: 233px -353px!important; */
+    /* margin-left: 4px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* padding: 8px 15px; */
+    /* font-weight: var(--font-semibold); */
+    /* border-radius: 3px; */
+    /* text-decoration: none; */
+    /* cursor: pointer; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+    /* outline: none; */
+/* } */
+/* button { */
+      /* text-rendering: auto; */
+      /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard .clgInfoCardfooter .primaryBtn { */
+    /* background-color: #ff4e53; */
+/* } */
+/* .clgInfoCardfooter .primaryBtn { */
+    /* border-radius: 0; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* font-weight: var(--font-semibold); */
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+      /* text-rendering: auto; */
+      /* word-spacing: normal; */
+      /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+  /* margin: 0em; */
+/* } */
+/* .collegeSponsoredInfoCards .sponsorCard:first-child .clgInfoCardfooter { */
+    /* border-bottom: 0; */
+/* } */
+/*  */
+/* .collegeSponsoredInfoCards .sponsorCard .clgInfoCardfooter { */
+    /* width: 100%; */
+    /* border-radius: 3px; */
+    /* border: solid 1px #d8d8d8; */
+/* } */
+/* .clgInfoCardfooter { */
+    /* display: flex; */
+/* } */
+  /* .collegeSponsoredInfoCards { */
+    /* flex-basis: 31.8%; */
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* margin-bottom: 20px; */
+    /* margin-right: 13px; */
+/* } */
+/*  */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* flex-wrap: wrap; */
+/* } */
+  /*  */
+/*  */
+/* /~COLLEGE LIST CARDS~/ */
+/* .searchedcollegeList .row { */
+    /* margin: 0; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .collegeInfoCard:nth-of-type(1n) { */
+    /* margin-right: 13px; */
+/* } */
+/* .collegeInfoCard { */
+    /* border-radius: 4px; */
+    /* border: var(--border-line); */
+    /* flex-basis: 31.8%; */
+    /* margin-bottom: 20px; */
+    /* background: var(--color-white); */
+    /* max-width: 31.8%; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* background: linear-gradient(to top,#000,rgba(0,0,0,0)),linear-gradient(to bottom,#c4c4c4,#c4c4c4); */
+    /* opacity: .5; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel { */
+    /* background: #ffc318; */
+    /* padding: 0 10px; */
+    /* padding-left: 0; */
+    /* color: var(--color-white); */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* position: absolute; */
+    /* right: 0; */
+    /* top: 0; */
+    /* z-index: 1; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel:before { */
+    /* content: ""; */
+    /* border-top: 20px solid #ffc318; */
+    /* border-left: 16px solid transparent; */
+    /* position: absolute; */
+    /* left: -16px; */
+    /* top: 0; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel { */
+    /* background: #ffc318; */
+    /* padding: 0 10px; */
+    /* padding-left: 0; */
+    /* color: var(--color-white); */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* position: absolute; */
+    /* right: 0; */
+    /* top: 0; */
+    /* z-index: 1; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel:before { */
+    /* content: ""; */
+    /* border-top: 20px solid #ffc318; */
+    /* border-left: 16px solid transparent; */
+    /* position: absolute; */
+    /* left: -16px; */
+    /* top: 0; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeLogo { */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* img { */
+    /* max-width: 100%; */
+    /* height: auto; */
+/* } */
+/* img { */
+    /* overflow-clip-margin: content-box; */
+    /* overflow: clip; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeLogo { */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* color: var(--color-white); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+/* .collegeInfoCard .collegeName { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .collegeName a { */
+    /* color: var(--color-white); */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* color: var(--color-white); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+/* .collegeInfoCard .collegeName { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* background: linear-gradient(to top,#000,rgba(0,0,0,0)),linear-gradient(to bottom,#c4c4c4,#c4c4c4); */
+    /* opacity: .5; */
+/* } */
+/* .aboutCollege { */
+    /* padding: 10px; */
+    /* padding-top: 17px; */
+    /* padding-bottom: 4px; */
+    /* position: relative; */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeLocation .locationIconBlue { */
+    /* width: 16px; */
+    /* height: 20px; */
+    /* vertical-align: middle; */
+    /* margin-right: 3px; */
+    /* background-position: 342px -317px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .aboutCollege .collegeRating { */
+    /* padding-bottom: 8px; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .full-star { */
+    /* background-position: 129px -246px; */
+/* } */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+    /* vertical-align: text-bottom; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .full-star { */
+    /* background-position: 129px -246px; */
+/* } */
+/*  */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+    /* vertical-align: text-bottom; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .tooltipIcon.tooltipAngle { */
+    /* border-top: 8px dashed; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: revert; */
+/* } */
+/* .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .tooltipIcon.tooltipAngle { */
+    /* border-top: 8px dashed; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: revert; */
+/* } */
+/* .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/*  */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeRating { */
+    /* padding-bottom: 8px; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeIntroText { */
+    /* min-height: 48px; */
+/* } */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .aboutCollege .collegeIntroText { */
+    /* min-height: 48px; */
+/* } */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .aboutCollege .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+/* .aboutCollege .keyInfo p:first-child { */
+    /* color: #989898; */
+/* } */
+/*  */
+/* .aboutCollege .keyInfo p { */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 1; */
+/* } */
+/* .aboutCollege .row p { */
+    /* font-size: 12px; */
+/* } */
+/* .aboutCollege p { */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .aboutCollege .keyInfo p { */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 1; */
+/* } */
+/* .aboutCollege .row p { */
+    /* font-size: 12px; */
+/* } */
+/* .aboutCollege p { */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .aboutCollege .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .aboutCollege { */
+    /* padding: 10px; */
+    /* padding-top: 17px; */
+    /* padding-bottom: 4px; */
+    /* position: relative; */
+/* } */
+/* .collegeCriteria { */
+    /* border-top: var(--border-line); */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/*  */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .collegeCriteria ul { */
+    /* text-align: center; */
+    /* padding: 5px 0; */
+/* } */
+/* ul { */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .collegeCriteria ul li { */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* padding: 0 10px; */
+    /* list-style-type: none; */
+    /* position: relative; */
+    /* display: inline-block; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeCriteria ul { */
+    /* margin: 0; */
+    /* padding: 5px 0; */
+    /* justify-content: center; */
+/* } */
+/* .collegeCriteria ul li:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* height: 100%; */
+    /* width: 1px; */
+    /* background: #d8d8d8; */
+    /* top: 0; */
+    /* right: 0; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .collegeCriteria ul li { */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* padding: 0 10px; */
+    /* list-style-type: none; */
+    /* position: relative; */
+    /* display: inline-block; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeCriteria ul { */
+    /* margin: 0; */
+    /* padding: 5px 0; */
+    /* justify-content: center; */
+/* } */
+/* .collegeCriteria ul li { */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* padding: 0 10px; */
+    /* list-style-type: none; */
+    /* position: relative; */
+    /* display: inline-block; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeCriteria ul { */
+    /* margin: 0; */
+    /* padding: 5px 0; */
+    /* justify-content: center; */
+/* } */
+/* .collegeCriteria ul li:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* height: 100%; */
+    /* width: 1px; */
+    /* background: #d8d8d8; */
+    /* top: 0; */
+    /* right: 0; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .collegeCriteria ul { */
+    /* text-align: center; */
+    /* padding: 5px 0; */
+/* } */
+/* ul { */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/* .collegeCriteria .row::-webkit-scrollbar { */
+    /* display: none; */
+/* } */
+  /* .collegeCriteria { */
+    /* border-top: var(--border-line); */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+/* .clgInfoCardfooter { */
+    /* display: flex; */
+    /* border-top: var(--border-line); */
+/* } */
+/* .textRed { */
+    /* color: var(--color-red); */
+    /* cursor: pointer; */
+    /* flex-basis: 50%; */
+    /* padding: 8px; */
+    /* background: 0 0; */
+    /* font-size: 14px; */
+    /* font-weight: var(--font-semibold); */
+    /* line-height: 20px; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+    /* appearance: auto; */
+  /* text-rendering: auto; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: center; */
+      /* margin: 0em; */
+/* } */
+/* .clgInfoCardfooter .primaryBtn { */
+    /* border-radius: 0; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* font-weight: var(--font-semibold); */
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+      /* appearance: auto; */
+  /* text-rendering: auto; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+      /* margin: 0em; */
+/* } */
+/* .redDownloadIcon { */
+    /* width: 19px; */
+    /* height: 18px; */
+    /* background-position: 537px -365px; */
+    /* vertical-align: text-bottom; */
+    /* margin-right: 5px; */
+/* } */
+/* .whiteDownloadIcon, .redDownloadIcon { */
+    /* background-position: 233px -353px!important; */
+    /* margin-left: 4px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* padding: 8px 15px; */
+    /* font-weight: var(--font-semibold); */
+    /* border-radius: 3px; */
+    /* text-decoration: none; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+    /* outline: none; */
+/* } */
+/* .clgInfoCardfooter .primaryBtn { */
+    /* border-radius: 0; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* font-weight: var(--font-semibold); */
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* .clgInfoCardfooter { */
+    /* display: flex; */
+    /* border-top: var(--border-line); */
+/* } */
+  /* .collegeInfoCard:nth-of-type(1n) { */
+    /* margin-right: 13px; */
+/* } */
+/* .collegeInfoCard { */
+    /* border-radius: 4px; */
+    /* border: var(--border-line); */
+    /* flex-basis: 31.8%; */
+    /* margin-bottom: 20px; */
+    /* background: var(--color-white); */
+    /* max-width: 31.8%; */
+/* } */
+/* .collegeInfoCard:nth-of-type(1n) { */
+    /* margin-right: 13px; */
+/* } */
+/* .collegeInfoCard { */
+    /* border-radius: 4px; */
+    /* border: var(--border-line); */
+    /* flex-basis: 31.8%; */
+    /* margin-bottom: 20px; */
+    /* background: var(--color-white); */
+    /* max-width: 31.8%; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+  /* .clgInfoCardHeader:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* background: linear-gradient(to top,#000,rgba(0,0,0,0)),linear-gradient(to bottom,#c4c4c4,#c4c4c4); */
+    /* opacity: .5; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel { */
+    /* background: #ffc318; */
+    /* padding: 0 10px; */
+    /* padding-left: 0; */
+    /* color: var(--color-white); */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* position: absolute; */
+    /* right: 0; */
+    /* top: 0; */
+    /* z-index: 1; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel:before { */
+    /* content: ""; */
+    /* border-top: 20px solid #ffc318; */
+    /* border-left: 16px solid transparent; */
+    /* position: absolute; */
+    /* left: -16px; */
+    /* top: 0; */
+/* } */
+/* .clgInfoCardHeader .rankingLabel { */
+    /* background: #ffc318; */
+    /* padding: 0 10px; */
+    /* padding-left: 0; */
+    /* color: var(--color-white); */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* position: absolute; */
+    /* right: 0; */
+    /* top: 0; */
+    /* z-index: 1; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeLogo { */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* img { */
+    /* max-width: 100%; */
+    /* height: auto; */
+/* } */
+/* img { */
+    /* overflow-clip-margin: content-box; */
+    /* overflow: clip; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* .collegeInfoCard .collegeLogo { */
+    /* flex-basis: 56px; */
+    /* width: 56px; */
+    /* height: 56px; */
+    /* margin-right: 5px; */
+    /* border-radius: 4px; */
+    /* box-shadow: 0 2px 4px 0 rgba(0,0,0,.15); */
+    /* margin-bottom: -10px; */
+    /* overflow: hidden; */
+    /* background: var(--color-white); */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeLogo { */
+    /* max-width: 72px; */
+    /* max-height: 72px; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* color: var(--color-white); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+  /* .collegeInfoCard .collegeName { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+  /* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* font-weight: bold; */
+/* } */
+/* .clgInfoCardHeader .collegeName a { */
+    /* color: var(--color-white); */
+/* } */
+/*  */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+/* } */
+/* .clgInfoCardHeader .collegeName { */
+    /* color: var(--color-white); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* font-weight: 500; */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 2; */
+    /* height: 40px; */
+/* } */
+/* .collegeInfoCard .collegeName { */
+    /* flex-basis: calc(100% - 61px); */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* h3 { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .clgInfoCardHeader { */
+    /* padding: 10px; */
+    /* padding-top: 58px; */
+    /* padding-bottom: 0; */
+    /* position: relative; */
+    /* background-size: 100% 100%; */
+    /* background-position: initial; */
+    /* background-repeat: no-repeat; */
+    /* cursor: pointer; */
+/* } */
+/* .clgInfoCardHeader:after { */
+    /* content: ""; */
+    /* position: absolute; */
+    /* top: 0; */
+    /* left: 0; */
+    /* width: 100%; */
+    /* height: 100%; */
+    /* background: linear-gradient(to top,#000,rgba(0,0,0,0)),linear-gradient(to bottom,#c4c4c4,#c4c4c4); */
+    /* opacity: .5; */
+/* } */
+/* .aboutCollege { */
+    /* padding: 10px; */
+    /* padding-top: 17px; */
+    /* padding-bottom: 4px; */
+    /* position: relative; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeLocation .locationIconBlue { */
+    /* width: 16px; */
+    /* height: 20px; */
+    /* vertical-align: middle; */
+    /* margin-right: 3px; */
+    /* background-position: 342px -317px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* i { */
+    /* font-style: italic; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+  /* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .aboutCollege .collegeRating { */
+    /* padding-bottom: 8px; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .full-star { */
+    /* background-position: 129px -246px; */
+/* } */
+/*  */
+/* .full-star, .half-star, .empty-star { */
+    /* width: 17px; */
+    /* height: 17px; */
+    /* vertical-align: text-bottom; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .tooltipIcon.tooltipAngle { */
+    /* border-top: 8px dashed; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: revert; */
+/* } */
+/* .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .tooltipIconText:before { */
+    /* box-shadow: 0 0 0 rgba(0,0,0,.16); */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/*  */
+/* .tooltipIconText:before { */
+    /* content: ""; */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* transform: rotate(42.5deg); */
+    /* top: -7px; */
+    /* left: 5px; */
+    /* background: var(--color-white); */
+    /* position: absolute; */
+    /* box-shadow: 0 0 7px 0 rgba(0,0,0,.16); */
+    /* z-index: 1; */
+    /* display: block; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/*  */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .col-md-6 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 50%; */
+    /* max-width: 50%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/*  */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .tooltipIconText, .tooltipIconText:before { */
+    /* position: absolute; */
+    /* background: var(--color-white); */
+    /* box-shadow: 0 3px 20px rgba(0,0,0,.16); */
+    /* text-transform: initial; */
+    /* display: none; */
+/* } */
+/*  */
+/* .tooltipIconText { */
+    /* width: 270px; */
+    /* padding: 10px; */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--primary-font-color); */
+    /* top: 28px; */
+    /* left: auto; */
+    /* z-index: 3; */
+    /* cursor: auto; */
+    /* font-weight: 400; */
+/* } */
+/* .tooltipIcon { */
+    /* width: 15px; */
+    /* height: 15px; */
+    /* background-position: 92px -323px; */
+/* } */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .aboutCollege .tooltipIcon.tooltipAngle { */
+    /* border-top: 8px dashed; */
+    /* border-right: 4px solid transparent; */
+    /* border-left: 4px solid transparent; */
+    /* vertical-align: revert; */
+/* } */
+/* .tooltipIcon.tooltipAngle { */
+    /* width: 0; */
+    /* height: 0; */
+/* } */
+/* .tooltipIcon { */
+    /* background-position: 92px -323px; */
+    /* cursor: pointer; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeRating { */
+    /* padding-bottom: 8px; */
+/* } */
+/*  */
+/* .aboutCollege .collegeRating, .aboutCollege .collegeLocation { */
+    /* position: relative; */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+/* } */
+/* .aboutCollege .collegeIntroText { */
+    /* min-height: 48px; */
+/* } */
+/*  */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* a:-webkit-any-link { */
+    /* cursor: pointer; */
+/* } */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* .aboutCollege .collegeIntroText { */
+    /* min-height: 48px; */
+/* } */
+/*  */
+/* .aboutCollege p { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+    /* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .aboutCollege .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+  /* .aboutCollege .keyInfo p:first-child { */
+    /* color: #989898; */
+/* } */
+/* .aboutCollege .keyInfo p { */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 1; */
+/* } */
+/* .aboutCollege .row p { */
+    /* font-size: 12px; */
+/* } */
+/* .aboutCollege p { */
+    /* line-height: 24px; */
+/* } */
+/*  */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* p { */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .aboutCollege .keyInfo p { */
+    /* display: -webkit-box; */
+    /* -webkit-box-orient: vertical; */
+    /* overflow: hidden; */
+    /* -webkit-line-clamp: 1; */
+/* } */
+/*  */
+/* .aboutCollege .row p { */
+    /* font-size: 12px; */
+/* } */
+/* .aboutCollege p { */
+    /* line-height: 24px; */
+/* } */
+/* p, h1, h2, h3, h4, h5, h6 { */
+    /* margin: 0; */
+/* } */
+/* .aboutCollege .keyInfo { */
+    /* flex-basis: 43%; */
+    /* padding-right: 10px; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+/* } */
+/* .aboutCollege { */
+    /* padding: 10px; */
+    /* padding-top: 17px; */
+    /* padding-bottom: 4px; */
+    /* position: relative; */
+/* } */
+/* .collegeCriteria { */
+    /* border-top: var(--border-line); */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .collegeCriteria ul { */
+    /* text-align: center; */
+    /* padding: 5px 0; */
+/* } */
+/* ul { */
+    /* list-style-type: disc; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+    /* padding-inline-start: 40px; */
+/* } */
+/*  */
+/* .collegeCriteria ul li { */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* padding: 0 10px; */
+    /* list-style-type: none; */
+    /* position: relative; */
+    /* display: inline-block; */
+/* } */
+/* .collegeInfoCard a { */
+    /* text-decoration: none; */
+/* } */
+/* a { */
+    /* color: #3d8ff2; */
+/* } */
+/* .collegeCriteria ul li { */
+    /* font-size: 12px; */
+    /* line-height: 20px; */
+    /* padding: 0 10px; */
+    /* list-style-type: none; */
+    /* position: relative; */
+    /* display: inline-block; */
+/* } */
+/* li { */
+    /* text-align: -webkit-match-parent; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/* .collegeCriteria ul { */
+    /* margin: 0; */
+    /* padding: 5px 0; */
+    /* justify-content: center; */
+/* } */
+/* .collegeCriteria .row { */
+    /* display: block; */
+    /* white-space: nowrap; */
+    /* overflow: auto; */
+/* } */
+/*  */
+/* .collegeInfoCard .row { */
+    /* margin: 0; */
+    /* position: relative; */
+    /* z-index: 1; */
+/* } */
+/* .collegeCriteria ul { */
+    /* text-align: center; */
+    /* padding: 5px 0; */
+/* } */
+/* .collegeCriteria { */
+    /* border-top: var(--border-line); */
+/* } */
+/* .clgInfoCardfooter { */
+    /* display: flex; */
+    /* border-top: var(--border-line); */
+/* } */
+/* .textRed { */
+    /* color: var(--color-red); */
+    /* cursor: pointer; */
+    /* flex-basis: 50%; */
+    /* padding: 8px; */
+    /* background: 0 0; */
+    /* font-size: 14px; */
+    /* font-weight: var(--font-semibold); */
+    /* line-height: 20px; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* button { */
+    /* appearance: auto; */
+  /* text-rendering: auto; */
+      /* word-spacing: normal; */
+  /* text-transform: none; */
+    /* text-indent: 0px; */
+    /* text-shadow: none; */
+    /* display: inline-block; */
+    /* text-align: center; */
+      /* margin: 0em; */
+/* } */
+/* .clgInfoCardfooter .primaryBtn { */
+    /* border-radius: 0; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .primaryBtn, a.primaryBtn, button.primaryBtn { */
+    /* display: inline-block; */
+    /* background: var(--color-red); */
+    /* font-size: 14px; */
+    /* line-height: 20px; */
+    /* color: var(--color-white); */
+    /* font-weight: var(--font-semibold); */
+    /* text-decoration: none; */
+    /* text-align: center; */
+    /* border: none; */
+    /* transition: .2s ease; */
+    /* outline: none; */
+/* } */
+/* .redDownloadIcon { */
+    /* width: 19px; */
+    /* height: 18px; */
+    /* vertical-align: text-bottom; */
+    /* margin-right: 5px; */
+/* } */
+  /* .whiteDownloadIcon, .redDownloadIcon { */
+    /* background-position: 233px -353px!important; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .clgInfoCardfooter .addToCompare, .clgInfoCardfooter .primaryBtn { */
+    /* flex-basis: 50%; */
+    /* cursor: pointer; */
+    /* padding: 8px; */
+/* } */
+/* .loadMoreColleges { */
+    /* margin-right: 13px; */
+/* } */
+/* div { */
+    /* display: block; */
+/* } */
+  /* .courseTypeList .loadMoreList, .collegeListpageBody .loadMoreList { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* padding: 5px; */
+    /* border-radius: 3px; */
+    /* border: 1px solid var(--color-red); */
+    /* background: var(--color-white); */
+    /* max-width: 460px; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+    /* color: var(--color-red); */
+    /* text-align: center; */
+    /* font-weight: 500; */
+    /* cursor: pointer; */
+/* } */
+/* .col-12 { */
+    /* -webkit-box-flex: 0; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .redCaret { */
+    /* width: 12px; */
+    /* height: 10px; */
+    /* background-position: 651px -154px; */
+    /* transform: rotate(180deg); */
+    /* margin-left: 5px; */
+/* } */
+/*  */
+/* .spriteIcon { */
+    /* display: inline-block!important; */
+    /* background: url(../../images/master_sprite.webp); */
+    /* text-align: left; */
+    /* overflow: hidden; */
+/* } */
+/* .courseTypeList .loadMoreList, .collegeListpageBody .loadMoreList { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* padding: 5px; */
+    /* border-radius: 3px; */
+    /* border: 1px solid var(--color-red); */
+    /* background: var(--color-white); */
+    /* max-width: 460px; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+    /* color: var(--color-red); */
+    /* font-weight: 500; */
+    /* cursor: pointer; */
+/* } */
+/* .courseTypeList .loadMoreList, .collegeListpageBody .loadMoreList { */
+    /* font-size: 14px; */
+    /* line-height: 24px; */
+    /* padding: 5px; */
+    /* border-radius: 3px; */
+    /* border: 1px solid var(--color-red); */
+    /* background: var(--color-white); */
+    /* max-width: 460px; */
+    /* margin: 0 auto; */
+    /* margin-bottom: 20px; */
+    /* color: var(--color-red); */
+    /* text-align: center; */
+    /* font-weight: 500; */
+    /* cursor: pointer; */
+/* } */
+/* .col-12 { */
+    /* -webkit-box-flex: 0; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+/* } */
+/* p { */
+    /* display: block; */
+    /* margin-block-start: 1em; */
+    /* margin-block-end: 1em; */
+    /* margin-inline-start: 0px; */
+    /* margin-inline-end: 0px; */
+/* } */
+/* .loadMoreColleges { */
+    /* margin-right: 13px; */
+/* } */
+/* .filter-faq { */
+    /* margin-right: 13px; */
+/* } */
+/* aside { */
+    /* display: block; */
+/* } */
+/* .horizontalRectangle { */
+    /* display: block; */
+    /* margin-bottom: 20px; */
+    /* padding-top: 1px; */
+/* } */
+/* .horizontalRectangle .appendAdDiv { */
+    /* width: 728px; */
+    /* height: 90px; */
+    /* margin: 0 auto; */
+    /* margin-top: 15px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .horizontalRectangle .appendAdDiv { */
+    /* width: 728px; */
+    /* height: 90px; */
+    /* margin: 0 auto; */
+    /* margin-top: 15px; */
+/* } */
+/* .appendAdDiv { */
+    /* position: relative; */
+/* } */
+/* .horizontalRectangle { */
+    /* display: block; */
+    /* margin-bottom: 20px; */
+    /* padding-top: 1px; */
+/* } */
+/* .removeFixedQuickLink { */
+    /* height: 10px; */
+/* } */
+/* .col-md-9 { */
+    /* -webkit-box-flex: 0; */
+    /* flex: 0 0 75%; */
+    /* max-width: 75%; */
+/* } */
+/* .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12, .col, .col-auto, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-sm-auto, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-md-auto, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-lg-auto, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl, .col-xl-auto { */
+    /* position: relative; */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+/* } */
+/* .row { */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* margin-right: -15px; */
+    /* margin-left: -15px; */
+/* } */
+/* .container { */
+    /* max-width: 1236px; */
+/* } */
+/*  */
+/* .container { */
+    /* width: 100%; */
+    /* padding-right: 15px; */
+    /* padding-left: 15px; */
+    /* margin-right: auto; */
+    /* margin-left: auto; */
+/* } */
+/*  */
+/*  */
+/* /~TOPSCROLL~/ */
+/* .scrollToTop { */
+    /* position: fixed; */
+    /* bottom: 155px; */
+    /* right: 30px; */
+    /* z-index: 5; */
+    /* cursor: pointer; */
+    /* width: 40px; */
+    /* height: 40px; */
+    /* border-radius: 50px; */
+    /* background-image: url(../../images/master_sprite.webp); */
+    /* background-position: 448px -395px; */
+    /* box-shadow: 0 4px 4px rgb(0 0 0/25%); */
+/* } */
+/*  */
+/*  */
