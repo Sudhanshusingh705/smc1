@@ -30067,6 +30067,12141 @@ const Medical = () => {
               </ul>
               <br />
 
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+             
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+            <ul className="cards7">
+            <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+              
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
+              <ul className="cards7">
+              <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="KIIT School of Management - [KSOM]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="KIIT School of Management - [KSOM]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                          alt="KIIT School of Management - [KSOM]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            KIIT School of Management - [KSOM]
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Bhubaneswar, Orissa | AICTE, NBA
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BBA/BBM"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BBA/BBM"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                          >
+                            BBA/BBM
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            2.80 Lacs
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          73 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
+                            TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
+                            1001 out of 1799 THE, Ranked 384 out of 1400 QS,
+                            Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
+                            US News, Ranked 937 out of 2000 CWUR
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                              alt="Indian Agricultural Research Institute - [IARI]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Indian Agricultural Research Institute - [IARI]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | ICAR, UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="M.Sc (Agriculture)"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="M.Sc (Agriculture)"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                              >
+                                M.Sc (Agriculture)
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                43.15 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.8/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              15 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
+                                TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
+                                171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                              alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                IIT Hyderabad - Indian Institute of Technology -
+                                [IITH]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                Hyderabad, Telangana | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BE/B.Tech"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BE/B.Tech"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                              >
+                                BE/B.Tech
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                2.23 Lacs
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.6/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              90 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
+                                Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
+                                of 15 Outlook, Ranked 875 out of 2000 US News,
+                                Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
+                                THE
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+
+              <li className="card7">
+                <div>
+                  <div className="jsx-485886256 ">
+                    <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                      <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                          alt=""
+                          height="145px"
+                          className="jsx-2283203247 snap-card-img lazyloaded"
+                        />
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                          className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                          href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                        >
+                          <div className="jsx-485886256 mb-auto snap-card-media">
+                            <img
+                              data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                              alt="Lady Shri Ram College for Women - [LSR]"
+                              height="40px"
+                              className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                            />
+                            <div className="jsx-485886256 snap-card-media-body">
+                              <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                                Lady Shri Ram College for Women - [LSR]
+                              </p>
+                              <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                                New Delhi, Delhi NCR | UGC
+                              </p>
+                            </div>
+                          </div>
+                        </a>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body">
+                        <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-1">
+                              <a
+                                data-csm-track="true"
+                                data-csm-title="BA"
+                                data-event-type="link_click"
+                                data-section_name="Top Universities/Colleges"
+                                data-csm-href="https://collegedunia.com/"
+                                data-ga-title="BA"
+                                data-ga-track="true"
+                                data-ga-module="homepage"
+                                data-ga-section="Top Universities/Colleges"
+                                data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                                className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                                href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                              >
+                                BA
+                              </a>
+                            </p>
+                            <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                              <span className="jsx-485886256 color-blue-light font-weight-bold">
+                                19.17 K
+                              </span>
+                              &nbsp;First Year Fees
+                            </p>
+                          </div>
+                          <div className="jsx-485886256">
+                            <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                              <svg
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="85.384"
+                                height="81.954"
+                                viewBox="6.92 9.412 85.384 81.954"
+                                xmlSpace="preserve"
+                                className="mr-1"
+                                style={{
+                                  width: 15,
+                                  height: 15,
+                                  fill: "rgb(248, 193, 0)",
+                                }}
+                              >
+                                <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                              </svg>{" "}
+                              8.5/10
+                            </p>
+                            <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                              107 reviews
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                        <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                          <li className="jsx-485886256 mb-1">
+                            <div className="jsx-485886256 snap-card-overflow">
+                              <span className="jsx-485886256 select-box-list-link text-nowrap">
+                                Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
+                                THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
+                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
+                                out of 2000 CWUR
+                              </span>
+                            </div>
+                          </li>
+                          <li className="jsx-485886256">
+                            <a
+                              data-csm-track="true"
+                              data-csm-title="View All Courses and Fees"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="View All Courses and fees"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                              className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                              href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                            >
+                              View All Courses and fees{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </a>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="Download Brochure"
+                              data-event-type="link_click"
+                              data-section_name="Top Universities/Colleges"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Download Brochure"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Download Brochure{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                          <li className="jsx-485886256">
+                            <button
+                              type="button"
+                              data-csm-track="true"
+                              data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                              data-event-type="cc_popup_open"
+                              data-csm-href="https://collegedunia.com/"
+                              data-ga-title="Compare"
+                              data-ga-track="true"
+                              data-ga-module="homepage"
+                              data-ga-section="Top Universities/Colleges"
+                              className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                            >
+                              Compare{" "}
+                              <svg
+                                fill="#666"
+                                xmlns="http://www.w3.org/2000/svg"
+                                width="451.846"
+                                height="451.847"
+                                viewBox="0 0 451.846 451.847"
+                                xmlSpace="preserve"
+                                style={{ width: 10, height: 10 }}
+                              >
+                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                              </svg>
+                            </button>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              </ul>
+              <br />
+
             </div>
           </div>
         </div>

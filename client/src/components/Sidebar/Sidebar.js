@@ -182,7 +182,7 @@ const Sidebar = () => {
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/phamacy"
+                            href="/phamasy"
                             style={{ color: "black", textDecoration: "none" }}
                           >
                             Pharmacy
@@ -198,7 +198,7 @@ const Sidebar = () => {
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/veterinaryscience"
+                            href="/veterinary"
                             style={{ color: "black", textDecoration: "none" }}
                           >
                             Veterinary Science
@@ -206,7 +206,7 @@ const Sidebar = () => {
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/vocationalcourses"
+                            href="/vocationalcourse"
                             style={{ color: "black", textDecoration: "none" }}
                           >
                             Vocational Courses

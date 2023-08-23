@@ -1,5 +1,6 @@
 .page-min-height {
     min-height: 94vh;
+    margin-top: -10px;
 }
 .bg-gray {
     background-color: #f4f4f4;
@@ -38,6 +39,80 @@ div {
     padding-right: 15px;
     padding-left: 15px;
 }
+/*top to bottm scroll*/
+.filter-list {
+    max-height: 500px; /* Adjust this value to control the maximum height of the filter list */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  .filter-scroll-state{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-city{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-stream{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-course{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-ownership{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-coursetype{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+  .filter-scroll-affilatedBy{
+    max-height: 150px; /* Adjust this value to control the maximum height of the filter options */
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .col-md, .col-md-auto, .col-md-12, .col-md-11, .col-md-10, .col-md-9, .col-md-8, .col-md-7, .col-md-6, .col-md-5, .col-md-4, .col-md-3, .col-md-2, .col-md-1, .col, .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
     position: relative;
     width: 100%;
@@ -462,7 +537,7 @@ a {
 }
 a {
     color: #ff7900;
-    -webkit-text-decoration: none;
+    /* -webkit-text-decoration: none; */
     background-color: transparent;
 }
 .headerslot>[class^=ads_] {
@@ -585,8 +660,6 @@ center {
     overflow-y: hidden;
 }
 
-element.style {
-}
 .d-block {
     display: block;
 }
@@ -1028,8 +1101,6 @@ ul {
     border-right: 1px solid #e8e8e8;
 }
 
-element.style {
-}
 .filter.jsx-1998011917 .all-filters.jsx-1998011917 {
     display: flex;
     -webkit-box-align: center;
@@ -1059,9 +1130,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
     font-weight: 500 !important;
     line-height: 18px !important;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 button, select {
     text-transform: none;
 }
@@ -1181,9 +1252,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
     font-weight: 500 !important;
     line-height: 18px !important;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 
 button, select {
     text-transform: none;
@@ -1224,9 +1295,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
     font-weight: 500 !important;
     line-height: 18px !important;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 
 button, select {
     text-transform: none;
@@ -1329,9 +1400,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
 .d-none {
     display: none !important;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 
 button, select {
     text-transform: none;
@@ -1391,9 +1462,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
     font-weight: 500 !important;
     line-height: 18px !important;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 
 button, select {
     text-transform: none;
@@ -2626,9 +2697,9 @@ button:not(:disabled), [type=button]:not(:disabled), [type=reset]:not(:disabled)
 .text-lg {
     font-size: 1rem;
 }
-button, [type=button], [type=reset], [type=submit] {
-    -webkit-appearance: button;
-}
+/* button, [type=button], [type=reset], [type=submit] { */
+    /* -webkit-appearance: button; */
+/* } */
 button, select {
     text-transform: none;
 }

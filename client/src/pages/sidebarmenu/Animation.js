@@ -1,445 +1,120 @@
-import React from 'react'
-import "./Sidebarmenu.css"
+import React, { useState } from "react";
+import "./Animation.css";
+import "./Sidebarmenu.css";
 
 const Animation = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
+
   return (
     <div>
-    <h2 style={{marginTop: '-110px', fontWeight: 'bold', textAlign: 'center'}}>Top Animation Colleges in India 2023 </h2>
-    <div className="container p-3 my-3 border border-dark" >
-      <div className="row">
-        <nav className="col-sm-3 col-4" id="myScrollspy">
-          <ul className="nav nav-pills flex-column">
-            <li className="nav-item">
-              <a className="nav-link active" href="#section1">
-                Section 1
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link active" href="#section2">
-                Section 2
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link active" href="#section3">
-                Section 3
-              </a>
-            </li>
-          </ul>
-        </nav>
-        {/*SECTION 1*/}
-        <div className="col-sm-9 col-8">
-        <div className="box mb-4" style={{ height: "385px", width: "100%" }}>
-        <div id="section1" className="bg-transparent h-100">
-          <h1>Section 1</h1>
-          <div className="row">
-            <div className="col-md-4">
-              <div className="card" style={{ height: "65%" }}>
-                <div className="card-body d-flex flex-column justify-content-between">
-                  <h5 className="card-title">Card 1</h5>
-                  <p className="card-text">Card content goes here.</p>
-                  <button className="btn btn-primary">Learn More</button>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-            <div className="card" style={{ height: "65%" }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 2</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%" }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 3</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 4</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 5</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-35px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 6</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 7</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 8</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-195px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 9</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
+      <h2 style={{ marginTop: "-110px", fontWeight: "bold", textAlign: "center" }}>
+        Top Animation Colleges in India 2023
+      </h2>
+      <div className="container p-3 my-3 border border-dark ">
         <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 10</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 11</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-355px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 12</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-
-        {/*SECTION 2*/}
-        <div className="box mb-4" style={{ height: "385px", width: "100%", marginTop: '-500px' }}>
-        <div id="section2" className="bg-transparent h-100">
-          <h1>Section 2</h1>
-          <div className="row">
-            <div className="col-md-4">
-              <div className="card" style={{ height: "65%" }}>
-                <div className="card-body d-flex flex-column justify-content-between">
-                  <h5 className="card-title">Card 1</h5>
-                  <p className="card-text">Card content goes here.</p>
-                  <button className="btn btn-primary">Learn More</button>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-            <div className="card" style={{ height: "65%" }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 2</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%" }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 3</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 4</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 5</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-35px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 6</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 7</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 8</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-195px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 9</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-        <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 10</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 11</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-355px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 12</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-
-
-          {/*SECTION 3*/}
-          <div className="box mb-4"  style={{
-          height: "385px",
-          width: "100%",
-          marginTop:  "-500px" // Toggle marginTop based on showSections
-        }}>
-        <div id="section3" className="bg-transparent h-100">
-          <h1>Section 3</h1>
-          {/* Show More Button */}
-          <div className="row">
-            <div className="col-md-4">
-              <div className="card" style={{ height: "65%" }}>
-                <div className="card-body d-flex flex-column justify-content-between">
-                  <h5 className="card-title">Card 1</h5>
-                  <p className="card-text">Card content goes here.</p>
-                  <button className="btn btn-primary">Learn More</button>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-4">
-            <div className="card" style={{ height: "65%" }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 2</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%" }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 3</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-          </div>
-        </div>
-      </div>
-      <br />
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 4</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-35px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 5</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-35px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 6</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-      <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 7</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-195px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 8</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-195px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 9</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-        <div className="row">
-          <div className="col-md-4">
-            <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-              <div className="card-body d-flex flex-column justify-content-between">
-                <h5 className="card-title">Card 10</h5>
-                <p className="card-text">Card content goes here.</p>
-                <button className="btn btn-primary">Learn More</button>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4">
-          <div className="card" style={{ height: "65%", marginTop: '-355px' }}>
-            <div className="card-body d-flex flex-column justify-content-between">
-              <h5 className="card-title">Card 11</h5>
-              <p className="card-text">Card content goes here.</p>
-              <button className="btn btn-primary">Learn More</button>
-            </div>
-          </div>
-        </div>
-        <div className="col-md-4">
-        <div className="card" style={{ height: "65%" , marginTop: '-355px'}}>
-          <div className="card-body d-flex flex-column justify-content-between">
-            <h5 className="card-title">Card 12</h5>
-            <p className="card-text">Card content goes here.</p>
-            <button className="btn btn-primary">Learn More</button>
-          </div>
-        </div>
-      </div>
-        </div>
-
-
-          <nav aria-label="Page navigation">
-            <ul className="pagination justify-content-end">
-              <li className="page-item">
-                <a className="page-link" href="#" aria-label="Previous">
-                  <span aria-hidden="true">&laquo;</span>
+          <nav className="col-sm-3 col-4" id="myScrollspy">
+            <ul className="nav nav-pills flex-column">
+              <li className="nav-item">
+                <a className="nav-link active" href="#section1">
+                  Section 1
                 </a>
               </li>
-              <li className="page-item">
-                <a className="page-link" href="#section1">
-                  1
+              <li className="nav-item">
+                <a className="nav-link active" href="#section2">
+                  Section 2
                 </a>
               </li>
-              <li className="page-item">
-                <a className="page-link" href="#section2">
-                  2
-                </a>
-              </li>
-              <li className="page-item">
-                <a className="page-link" href="#section3">
-                  3
-                </a>
-              </li>
-              <li className="page-item">
-                <a className="page-link" href="#" aria-label="Next">
-                  <span aria-hidden="true">&raquo;</span>
+              <li className="nav-item">
+                <a className="nav-link active" href="#section3">
+                  Section 3
                 </a>
               </li>
             </ul>
           </nav>
+          {/* SECTION 1 */}
+          <div className="col-md-9">
+            <div className="pageDescription" style={{ marginBottom: 0 }}>
+              {/* ... content ... */}
+              <h1>Animation Full Course </h1>
+              <h2>
+                Animation Full Course 2023 National, State &amp; University Level
+              </h2>
+              {showContent ? (
+                <>
+                  {/* ... full content ... */}
+                  {/* ... truncated for brevity ... */}
+                  <div className="readMoreDiv">
+                    <p className="readMoreButton" onClick={toggleContent} style={{ backgroundColor: 'blue', color: 'white', border: 'none', cursor: 'pointer' }}>Show Less</p>
+                  </div>
+
+                  <p>
+                    Students are increasingly choosing to major in animation to pursue
+                    higher education. The field of animation offers a variety of courses.
+                    There are animation courses available at the undergraduate, graduate,
+                    and doctoral levels for students to choose from. Students who want to
+                    enroll in animation courses must pass an animation full course at
+                    the national, university, or state level. Here, we're giving you all the
+                    information you need about animation Full Course 2023.
+                  </p>
+                 {" "}
+
+                </>
+              ) : (
+                <>
+                  {/* ... condensed content ... */}
+                  <div className="readMoreDiv">
+                    <p className="readMoreButton" onClick={toggleContent} style={{ backgroundColor: 'blue', color: 'white', border: 'none', cursor: 'pointer' }}>Show More</p>
+                  </div>
+                </>
+              )}
+            </div>
+            <aside className="horizontalRectangle">
+              <div className="appendAdDiv" >
+                <div className="lazy-ad" data-slot={0} id="div-gpt-ad-1614408539431-0" style={{ height: 90 }} />
+              </div>
+            </aside>
+          </div>
+          
+          <div className="card mb-3" style={{width: 'fit-content', display: 'flex' }}>
+          <div className="card-body">
+            <h5 className="card-title" style={{marginLeft: '-48px', fontSize: 'xx-large'}}>B.Sc Animation</h5>
+            <div className="applyClg desktopOnly">
+          <button
+          style={{marginLeft: '1070px', color: 'blue', border: 'groove'}}
+            type="button"
+            className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
+            data-platform="web"
+            data-entity="course_stream"
+            data-entityid="193"
+            data-ctalocation="courses_category_web_bsc-animation_card_cta1"
+            data-ctatext="Apply Now"
+            data-leadformtitle="REGISTER TO APPLY"
+            data-subheadingtext="B.Sc Animation"
+            data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
+          >
+            Apply Now
+          </button>
+        </div>
+            <p class="card-text">Government colleges have an average fee ranging from INR 10K, 
+            to INR 75K per annum while private colleges have fees in the range,
+            INR 50K to INR 5 Lakhs Per Annum.</p>
+            <p class="card-text"><small class="text-muted">💰Avarage fees: ---</small></p>
+            <p class="card-text"><small class="text-muted">⌛Duration: 3 Years</small></p>
+          </div>
+          <div className="courseLinks">
+          <a href="/bsc-animation-syllabus-subjects" title="Syllabus &amp; Subjects" style={{textDecoration: 'none'}}>Syllabus &amp; Subjects</a>
+          <a href="/bsc-animation-jobs-scope-salary" title="Job, Scope &amp; Salary" style={{textDecoration: 'none'}}>Job, Scope &amp; Salary</a>
+        </div>
+        </div>
+  
         </div>
       </div>
     </div>
-    </div>
-  )
-}
+  );
+};
 
-export default Animation
+export default Animation;

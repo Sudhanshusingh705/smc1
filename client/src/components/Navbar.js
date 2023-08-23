@@ -5,6 +5,12 @@ import logo05 from "../assets/logo/logo05.png";
 
 import "../screen/Home.css";
 import "./Navbar.css";
+
+const handleLogo05Click = () => {
+  window.location.reload(); // Refresh the page
+};
+
+
 const NavBarWithImage = () => {
   const [dropdownOpen, setDropdownOpen] = useState();
 
@@ -143,7 +149,9 @@ const NavBarWithImage = () => {
           {/*Logo*/}
           <li>
             <div className="logo-container">
+            <a href="#" onClick={handleLogo05Click}>
               <img src={logo05} alt="Logo" className="logo-image" />
+              </a>
             </div>
           </li>
           {/*List Items*/}
