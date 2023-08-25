@@ -99,13 +99,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">BE/B'Tech</p>
+                  <p className="hoverable-paragraph" href="/engineering">BE/B'Tech</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">ME/M.Tech</p>
+                  <p className="hoverable-paragraph" href="/engineering">ME/M.Tech</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">Diploma in Engineering</p>
+                  <p className="hoverable-paragraph" href="/engineering">Diploma in Engineering</p>
                 </div>
               </div>
             </li>
@@ -122,13 +122,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">MBA/PGDM</p>
+                  <p className="hoverable-paragraph" href="/management">MBA/PGDM</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">BBA/BBM</p>
+                  <p className="hoverable-paragraph" href="/management">BBA/BBM</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">Executive MBA</p>
+                  <p className="hoverable-paragraph" href="/management">Executive MBA</p>
                 </div>
               </div>
             </li>
@@ -145,13 +145,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">B.COM</p>
+                  <p className="hoverable-paragraph" href="/commerce">B.COM</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">M.COM</p>
+                  <p className="hoverable-paragraph" href="/commerce">M.COM</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">MBA</p>
+                  <p className="hoverable-paragraph" href="/commerce">MBA</p>
                 </div>
               </div>
             </li>
@@ -168,13 +168,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">BA</p>
+                  <p className="hoverable-paragraph" href="/arts">BA</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">MA</p>
+                  <p className="hoverable-paragraph" href="/arts">MA</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">BFA</p>
+                  <p className="hoverable-paragraph" href="/arts">BFA</p>
                 </div>
               </div>
             </li>
@@ -191,13 +191,13 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">MBBS</p>
+                  <p className="hoverable-paragraph" href="/medical">MBBS</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">B.Pharma</p>
+                  <p className="hoverable-paragraph" href="/medical">B.Pharma</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">B.Sc Nursing</p>
+                  <p className="hoverable-paragraph" href="/medical">B.Sc Nursing</p>
                 </div>
               </div>
             </li>
@@ -214,19 +214,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">B.Des</p>
+                  <p className="hoverable-paragraph" href="/design">B.Des</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">M.Des</p>
+                  <p className="hoverable-paragraph" href="/design">M.Des</p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph">BFA</p>
+                  <p className="hoverable-paragraph" href="/design">BFA</p>
                 </div>
               </div>
             </li>
 
             <li className="card00">
-            <h3 className="card00-title text-center" style={{ textAlign: "center" }}>
+            <h3 className="card00-title text-center" style={{ textAlign: "center", cursor: 'pointer' }}>
               <a className="hoverable-paragraph" href="/sidebar" style={{ color: 'black', textDecoration: 'none' }}>
                 See All
               </a>
@@ -675,7 +675,7 @@ function Home() {
                 <li className="card6">
                   <div className="card6-link-wrapper">
                     <a
-                      href=""
+                      href="/engineering"
                       className="card6-link"
                       style={{ justifyContent: "center" }}
                     >
@@ -686,7 +686,7 @@ function Home() {
                 <li className="card6">
                   <div className="card6-link-wrapper">
                     <a
-                      href=""
+                      href="/engineering"
                       className="card6-link"
                       style={{ justifyContent: "center" }}
                     >
@@ -696,49 +696,49 @@ function Home() {
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/engineering" className="card6-link">
                       ME/M'Tech
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/medical" className="card6-link">
                       BSC.Nursing
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/management" className="card6-link">
                       BBA/BBM
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/management" className="card6-link">
                       BCA
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/commerce" className="card6-link">
                       B.Com
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/commerce" className="card6-link">
                       B.Sc
                     </a>
                   </div>
                 </li>
                 <li className="card6">
                   <div className="card6-link-wrapper">
-                    <a href="" className="card6-link">
+                    <a href="/arts" className="card6-link">
                       BA
                     </a>
                   </div>
@@ -2882,224 +2882,224 @@ function Home() {
               <ul className="cards006">
                 {/* ... your list of items ... */}
                 <ul className="cards006">
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a
-                href=""
-                className="card006-link"
-                style={{ justifyContent: "center", width: '120px', marginLeft: '20px', marginRight: '10px' }}
-              >
-                Uttar Pradesh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a
-                href=""
-                className="card006-link"
-                style={{ justifyContent: "center", marginRight: '10px' }}
-              >
-                Panjab
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper" >
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Uttara Khand
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Madhya Pradesh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                MahaRashtra
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Rajasthan
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Tamil-Nadu
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Delhi NCR
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Andhra Pradesh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-              Haryana
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Gujrat
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Karnataka
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               West Bangal
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Himanchal Pradesh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Telangana
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Kerala
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Bihar
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               JharKhand
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Orissa
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Chandigarh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-              Chhatisgarh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Arunachal Pradesh
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Puducherry
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Assam
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-              Jammu & Kashmir
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Meghalaya
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-            Goa
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Manipur
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                Sikkim
-              </a>
-            </div>
-          </li>
-          <li className="card006">
-            <div className="card006-link-wrapper">
-              <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-               Andaman and Nicobar-Island
-              </a>
-            </div>
-          </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a
+                      href=""
+                      className="card006-link"
+                      style={{ justifyContent: "center", width: '120px', marginLeft: '20px', marginRight: '10px' }}
+                    >
+                      Uttar Pradesh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a
+                      href=""
+                      className="card006-link"
+                      style={{ justifyContent: "center", marginRight: '10px' }}
+                    >
+                      Panjab
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper" >
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Uttara Khand
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Madhya Pradesh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      MahaRashtra
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Rajasthan
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Tamil-Nadu
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Delhi NCR
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Andhra Pradesh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Haryana
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Gujrat
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Karnataka
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    West Bangal
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Himanchal Pradesh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Telangana
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Kerala
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Bihar
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    JharKhand
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Orissa
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Chandigarh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Chhatisgarh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Arunachal Pradesh
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Puducherry
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Assam
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Jammu & Kashmir
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Meghalaya
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                  Goa
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Manipur
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                      Sikkim
+                    </a>
+                  </div>
+                </li>
+                <li className="card006">
+                  <div className="card006-link-wrapper">
+                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
+                    Andaman and Nicobar-Island
+                    </a>
+                  </div>
+                </li>
                 </ul>
               </ul>
             </div>
@@ -4007,6 +4007,7 @@ function Home() {
                       data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4042,8 +4043,9 @@ function Home() {
                             data-ga-module="homepage"
                             data-ga-section="Top Universities/Colleges"
                             data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
-                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
-                            href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary" 
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
+                          style={{textDecoration: 'none'}}
                           >
                             MBA/PGDM
                           </a>
@@ -4209,6 +4211,7 @@ function Home() {
                       data-ga-href="university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4411,6 +4414,7 @@ function Home() {
                       data-ga-href="university/25777-chandigarh-university-cu-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25777-chandigarh-university-cu-chandigarh"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4613,6 +4617,7 @@ function Home() {
                       data-ga-href="college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4816,6 +4821,7 @@ function Home() {
                       data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5018,6 +5024,7 @@ function Home() {
                       data-ga-href="university/55884-parul-university-vadodara"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/55884-parul-university-vadodara"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5219,6 +5226,7 @@ function Home() {
                       data-ga-href="university/25787-lovely-professional-university-lpu-jalandhar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25787-lovely-professional-university-lpu-jalandhar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5421,6 +5429,7 @@ function Home() {
                       data-ga-href="university/17255-asbm-university-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/17255-asbm-university-bhubaneswar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5599,6 +5608,7 @@ function Home() {
           </li>
         </ul>
         <br />
+
         <ul className="cards7">
           <li className="card7">
             <div>
@@ -5625,6 +5635,7 @@ function Home() {
                       data-ga-href="university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5828,6 +5839,7 @@ function Home() {
                       data-ga-href="university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6029,6 +6041,7 @@ function Home() {
                       data-ga-href="university/25494-indian-institute-of-management-iima-ahmedabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25494-indian-institute-of-management-iima-ahmedabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6229,6 +6242,7 @@ function Home() {
                       data-ga-href="university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6432,6 +6446,7 @@ function Home() {
                       data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6634,6 +6649,7 @@ function Home() {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6834,6 +6850,7 @@ function Home() {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7037,6 +7054,7 @@ function Home() {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7384,490 +7402,109 @@ function Home() {
             dir="ltr"
           >
             <div className="button1-row" >
-              <button className="button1">Bachelore</button>
-              <button className="button1">Masters</button>
-              <button className="button1">Doctorate</button>
-              <button className="button1">Diploma</button>
-              <button className="button1">Certification</button>
+              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Bachelors</button>
+              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Masters</button>
+              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Doctorate</button>
+              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Diploma</button>
+              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Certification</button>
             </div>
             <br />
            
             <ul className="cards8">
-            <li className="card8">
-              <div className="custom-card">
-                {/* Rest of the card content */}
-                <div className="jsx-4093795240 overflow-grid-item px-1">
-              <div className="jsx-4093795240 selected-box position-relative h-100 selected-box-sm-box rounded-lg">
-                <div className="jsx-4093795240 d-inline-flex align-items-center justify-content-center selected-box-badge mb-2">
-                  Full Time
-                </div>
-                <a
-                  data-csm-track="true"
-                  data-csm-title="B.Com General"
-                  data-event-type="link_click"
-                  data-section_name="Explore Courses"
-                  data-csm-href="https://collegedunia.com/"
-                  data-ga-title="B.Com General"
-                  data-ga-track="true"
-                  data-ga-module="homepage"
-                  data-ga-section="Explore Courses"
-                  data-ga-href="courses/bachelor-of-commerce-bcom"
-                  className="jsx-4093795240 selected-box-title line-clamp-2 selected-box-title-md mb-12 color-base hover-color-primary"
-                  href="/courses/bachelor-of-commerce-bcom"
-                >
-                  <span>B.Com General</span>
-                </a>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Duration
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      3 Years
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Total Avg. Fees
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      61.95 K
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Colleges
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      6481
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 fluid-height-footer-divider" />
-                <div className="jsx-4093795240 fluid-height-footer">
-                  <hr className="jsx-4093795240 mt-2 mb-2" />
-                  <a
-                    data-csm-track="true"
-                    data-csm-title="Course Overview"
-                    data-event-type="link_click"
-                    data-section_name="Explore Courses"
-                    data-csm-href="https://collegedunia.com/"
-                    data-ga-title="Course Overview"
-                    data-ga-track="true"
-                    data-ga-module="homepage"
-                    data-ga-section="Explore Courses"
-                    data-ga-href="courses/bachelor-of-commerce-bcom"
-                    className="jsx-4093795240 d-flex font-weight-semi font-weight-medium color-base selected-box-line align-items-center justify-content-between hover-color-primary"
-                    href="/courses/bachelor-of-commerce-bcom"
-                  >
-                    <span>Course Overview</span>
-                    <svg
-                      fill="#666"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="451.846"
-                      height="451.847"
-                      viewBox="0 0 451.846 451.847"
-                      xmlSpace="preserve"
-                      style={{ width: 10, height: 10 }}
-                    >
-                      <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                    </svg>
-                  </a>
-                </div>
-              </div>
+            <div className="card" style={{ width: '18rem' }}>
+      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
+        <p className="card-text" style={{ textAlign: 'center' }}>
+          FULL TIME
+        </p>
+        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.COM GENERAL</h5>
+      </div>
+      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 62.07k</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 6491</li>
+      </ul>
+      <div className="card-body">
+        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
+          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
+        </a>
+      </div>
             </div>
-              </div>
-            </li>
 
-            <li className="card8">
-            <div>
-            <div className="jsx-4093795240 overflow-grid-item px-1">
-              <div className="jsx-4093795240 selected-box position-relative h-100 selected-box-sm-box rounded-lg">
-                <div className="jsx-4093795240 d-inline-flex align-items-center justify-content-center selected-box-badge mb-2">
-                  Full Time
-                </div>
-                <a
-                  data-csm-track="true"
-                  data-csm-title="B.Ed General"
-                  data-event-type="link_click"
-                  data-section_name="Explore Courses"
-                  data-csm-href="https://collegedunia.com/"
-                  data-ga-title="B.Ed General"
-                  data-ga-track="true"
-                  data-ga-module="homepage"
-                  data-ga-section="Explore Courses"
-                  data-ga-href="courses/bachelor-of-education-bed"
-                  className="jsx-4093795240 selected-box-title line-clamp-2 selected-box-title-md mb-12 color-base hover-color-primary"
-                  href="/courses/bachelor-of-education-bed"
-                >
-                  <span>B.Ed General</span>
-                </a>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Duration
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      2 Years
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Total Avg. Fees
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      81.82 K
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 row">
-                  <div className="jsx-4093795240 col">
-                    <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                      Colleges
-                    </p>
-                  </div>
-                  <div className="jsx-4093795240 col-auto text-right">
-                    <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                      5433
-                    </p>
-                  </div>
-                </div>
-                <div className="jsx-4093795240 fluid-height-footer-divider" />
-                <div className="jsx-4093795240 fluid-height-footer">
-                  <hr className="jsx-4093795240 mt-2 mb-2" />
-                  <a
-                    data-csm-track="true"
-                    data-csm-title="Course Overview"
-                    data-event-type="link_click"
-                    data-section_name="Explore Courses"
-                    data-csm-href="https://collegedunia.com/"
-                    data-ga-title="Course Overview"
-                    data-ga-track="true"
-                    data-ga-module="homepage"
-                    data-ga-section="Explore Courses"
-                    data-ga-href="courses/bachelor-of-education-bed"
-                    className="jsx-4093795240 d-flex font-weight-semi font-weight-medium color-base selected-box-line align-items-center justify-content-between hover-color-primary"
-                    href="/courses/bachelor-of-education-bed"
-                  >
-                    <span>Course Overview</span>
-                    <svg
-                      fill="#666"
-                      xmlns="http://www.w3.org/2000/svg"
-                      width="451.846"
-                      height="451.847"
-                      viewBox="0 0 451.846 451.847"
-                      xmlSpace="preserve"
-                      style={{ width: 10, height: 10 }}
-                    >
-                      <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                    </svg>
-                  </a>
-                </div>
-              </div>
+            <div className="card" style={{ width: '18rem' }}>
+            <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
+              <p className="card-text" style={{ textAlign: 'center' }}>
+                FULL TIME
+              </p>
+              <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.Ed GENERAL</h5>
             </div>
-          </div>
-            </li>
+            <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
+              <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 2 Years</li>
+              <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 81.79k</li>
+              <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 5436</li>
+            </ul>
+            <div className="card-body">
+              <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
+                <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
+              </a>
+            </div>
+            </div>
 
-            <li className="card8">
-            <div>
-                  <div className="jsx-4093795240 overflow-grid-item px-1">
-                    <div className="jsx-4093795240 selected-box position-relative h-100 selected-box-sm-box rounded-lg">
-                      <div className="jsx-4093795240 d-inline-flex align-items-center justify-content-center selected-box-badge mb-2">
-                        Full Time
-                      </div>
-                      <a
-                        data-csm-track="true"
-                        data-csm-title="BCA General"
-                        data-event-type="link_click"
-                        data-section_name="Explore Courses"
-                        data-csm-href="https://collegedunia.com/"
-                        data-ga-title="BCA General"
-                        data-ga-track="true"
-                        data-ga-module="homepage"
-                        data-ga-section="Explore Courses"
-                        data-ga-href="courses/bachelor-of-computer-applications-bca"
-                        className="jsx-4093795240 selected-box-title line-clamp-2 selected-box-title-md mb-12 color-base hover-color-primary"
-                        href="/courses/bachelor-of-computer-applications-bca"
-                      >
-                        <span>BCA General</span>
-                      </a>
-                      <div className="jsx-4093795240 row">
-                        <div className="jsx-4093795240 col">
-                          <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                            Duration
-                          </p>
-                        </div>
-                        <div className="jsx-4093795240 col-auto text-right">
-                          <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                            3 Years
-                          </p>
-                        </div>
-                      </div>
-                      <div className="jsx-4093795240 row">
-                        <div className="jsx-4093795240 col">
-                          <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                            Total Avg. Fees
-                          </p>
-                        </div>
-                        <div className="jsx-4093795240 col-auto text-right">
-                          <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                            1.32 L
-                          </p>
-                        </div>
-                      </div>
-                      <div className="jsx-4093795240 row">
-                        <div className="jsx-4093795240 col">
-                          <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                            Colleges
-                          </p>
-                        </div>
-                        <div className="jsx-4093795240 col-auto text-right">
-                          <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                            4870
-                          </p>
-                        </div>
-                      </div>
-                      <div className="jsx-4093795240 fluid-height-footer-divider" />
-                      <div className="jsx-4093795240 fluid-height-footer">
-                        <hr className="jsx-4093795240 mt-2 mb-2" />
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="Course Overview"
-                          data-event-type="link_click"
-                          data-section_name="Explore Courses"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Course Overview"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Explore Courses"
-                          data-ga-href="courses/bachelor-of-computer-applications-bca"
-                          className="jsx-4093795240 d-flex font-weight-semi font-weight-medium color-base selected-box-line align-items-center justify-content-between hover-color-primary"
-                          href="/courses/bachelor-of-computer-applications-bca"
-                        >
-                          <span>Course Overview</span>
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-          </li>
+            <div className="card" style={{ width: '18rem' }}>
+      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
+        <p className="card-text" style={{ textAlign: 'center' }}>
+          FULL TIME
+        </p>
+        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>BCA GENERAL</h5>
+      </div>
+      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 1.34L</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 4901</li>
+      </ul>
+      <div className="card-body">
+        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
+          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
+        </a>
+      </div>
+            </div>
 
-          <li className="card8">
-             <div>
-                    <div className="jsx-4093795240 overflow-grid-item px-1">
-                      <div className="jsx-4093795240 selected-box position-relative h-100 selected-box-sm-box rounded-lg">
-                        <div className="jsx-4093795240 d-inline-flex align-items-center justify-content-center selected-box-badge mb-2">
-                          Full Time
-                        </div>
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="BA General"
-                          data-event-type="link_click"
-                          data-section_name="Explore Courses"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="BA General"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Explore Courses"
-                          data-ga-href="courses/bachelor-of-arts-ba"
-                          className="jsx-4093795240 selected-box-title line-clamp-2 selected-box-title-md mb-12 color-base hover-color-primary"
-                          href="/courses/bachelor-of-arts-ba"
-                        >
-                          <span>BA General</span>
-                        </a>
-                        <div className="jsx-4093795240 row">
-                          <div className="jsx-4093795240 col">
-                            <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                              Duration
-                            </p>
-                          </div>
-                          <div className="jsx-4093795240 col-auto text-right">
-                            <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                              3 Years
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-4093795240 row">
-                          <div className="jsx-4093795240 col">
-                            <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                              Total Avg. Fees
-                            </p>
-                          </div>
-                          <div className="jsx-4093795240 col-auto text-right">
-                            <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                              41.45 K
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-4093795240 row">
-                          <div className="jsx-4093795240 col">
-                            <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                              Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-4093795240 col-auto text-right">
-                            <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                              3892
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-4093795240 fluid-height-footer-divider" />
-                        <div className="jsx-4093795240 fluid-height-footer">
-                          <hr className="jsx-4093795240 mt-2 mb-2" />
-                          <a
-                            data-csm-track="true"
-                            data-csm-title="Course Overview"
-                            data-event-type="link_click"
-                            data-section_name="Explore Courses"
-                            data-csm-href="https://collegedunia.com/"
-                            data-ga-title="Course Overview"
-                            data-ga-track="true"
-                            data-ga-module="homepage"
-                            data-ga-section="Explore Courses"
-                            data-ga-href="courses/bachelor-of-arts-ba"
-                            className="jsx-4093795240 d-flex font-weight-semi font-weight-medium color-base selected-box-line align-items-center justify-content-between hover-color-primary"
-                            href="/courses/bachelor-of-arts-ba"
-                          >
-                            <span>Course Overview</span>
-                            <svg
-                              fill="#666"
-                              xmlns="http://www.w3.org/2000/svg"
-                              width="451.846"
-                              height="451.847"
-                              viewBox="0 0 451.846 451.847"
-                              xmlSpace="preserve"
-                              style={{ width: 10, height: 10 }}
-                            >
-                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                            </svg>
-                          </a>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-            </li>
+            <div className="card" style={{ width: '18rem' }}>
+      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
+        <p className="card-text" style={{ textAlign: 'center' }}>
+          FULL TIME
+        </p>
+        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.A GENERAL</h5>
+      </div>
+      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 41.59k</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 3894</li>
+      </ul>
+      <div className="card-body">
+        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
+          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
+        </a>
+      </div>
+            </div>
  
-            <li className="card8">
-            <div>
-                 <div className="jsx-4093795240 overflow-grid-item px-1">
-                   <div className="jsx-4093795240 selected-box position-relative h-100 selected-box-sm-box rounded-lg">
-                     <div className="jsx-4093795240 d-inline-flex align-items-center justify-content-center selected-box-badge mb-2">
-                       Full Time
-                     </div>
-                     <a
-                       data-csm-track="true"
-                       data-csm-title="B.Tech Mechanical Engineering"
-                       data-event-type="link_click"
-                       data-section_name="Explore Courses"
-                       data-csm-href="https://collegedunia.com/"
-                       data-ga-title="B.Tech Mechanical Engineering"
-                       data-ga-track="true"
-                       data-ga-module="homepage"
-                       data-ga-section="Explore Courses"
-                       data-ga-href="courses/bachelor-of-technology-btech-mechanical-engineering"
-                       className="jsx-4093795240 selected-box-title line-clamp-2 selected-box-title-md mb-12 color-base hover-color-primary"
-                       href="/courses/bachelor-of-technology-btech-mechanical-engineering"
-                     >
-                       <span>B.Tech Mechanical</span>
-                     </a>
-                     <div className="jsx-4093795240 row">
-                       <div className="jsx-4093795240 col">
-                         <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                           Duration
-                         </p>
-                       </div>
-                       <div className="jsx-4093795240 col-auto text-right">
-                         <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                           4 Years
-                         </p>
-                       </div>
-                     </div>
-                     <div className="jsx-4093795240 row">
-                       <div className="jsx-4093795240 col">
-                         <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                           Total Avg. Fees
-                         </p>
-                       </div>
-                       <div className="jsx-4093795240 col-auto text-right">
-                         <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                           3.51 L
-                         </p>
-                       </div>
-                     </div>
-                     <div className="jsx-4093795240 row">
-                       <div className="jsx-4093795240 col">
-                         <p className="jsx-4093795240 selected-box-line mb-lg-3 mb-8p">
-                           Colleges
-                         </p>
-                       </div>
-                       <div className="jsx-4093795240 col-auto text-right">
-                         <p className="jsx-4093795240 selected-box-line font-weight-bold color-base mb-lg-3 mb-8p">
-                           3519
-                         </p>
-                       </div>
-                     </div>
-                     <div className="jsx-4093795240 fluid-height-footer-divider" />
-                     <div className="jsx-4093795240 fluid-height-footer">
-                       <hr className="jsx-4093795240 mt-2 mb-2" />
-                       <a
-                         data-csm-track="true"
-                         data-csm-title="Course Overview"
-                         data-event-type="link_click"
-                         data-section_name="Explore Courses"
-                         data-csm-href="https://collegedunia.com/"
-                         data-ga-title="Course Overview"
-                         data-ga-track="true"
-                         data-ga-module="homepage"
-                         data-ga-section="Explore Courses"
-                         data-ga-href="courses/bachelor-of-technology-btech-mechanical-engineering"
-                         className="jsx-4093795240 d-flex font-weight-semi font-weight-medium color-base selected-box-line align-items-center justify-content-between hover-color-primary"
-                         href="/courses/bachelor-of-technology-btech-mechanical-engineering"
-                       >
-                         <span>Course Overview</span>
-                         <svg
-                           fill="#666"
-                           xmlns="http://www.w3.org/2000/svg"
-                           width="451.846"
-                           height="451.847"
-                           viewBox="0 0 451.846 451.847"
-                           xmlSpace="preserve"
-                           style={{ width: 10, height: 10 }}
-                         >
-                           <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                         </svg>
-                       </a>
-                     </div>
-                   </div>
-                 </div>
-               </div>
-         </li>
+            <div className="card" style={{ width: '18rem' }}>
+      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
+        <p className="card-text" style={{ textAlign: 'center' }}>
+          FULL TIME
+        </p>
+        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B'TECH [ME]</h5>
+      </div>
+      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 4 Years</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 3.50L</li>
+        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 3522</li>
+      </ul>
+      <div className="card-body">
+        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
+          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
+        </a>
+      </div>
+            </div>
             {/* Other card items */}
           </ul>
           </div>
@@ -7876,7 +7513,7 @@ function Home() {
       <br />
 
       {/* Search from 30k course finder poster */}
-      <div
+      {/*<div
         className="course-finder-banner pointer py-9"
         style={{ textAlign: "center" }}
       >
@@ -7897,15 +7534,16 @@ function Home() {
           />
         </a>
       </div>
-      <br />
+      <br />*/}
 
       {/*Top Exams */}
       <div className="container1">
         <h2 className="text">Top Exams</h2>
         <br />
-        <div className="jsx-3399163233 jsx-600450678 container1">
+        <div className="jsx-3399163233 jsx-600450678 container1" style={{ overflowX: "auto" }}>
           <div
             className="slick-slider carousel-control fluid-height-carousel slick-initialized"
+            
             dir="ltr"
           >
             <div className="slick-list">
@@ -7924,7 +7562,8 @@ function Home() {
                   aria-hidden="false"
                   style={{ outline: "none", width: 296 }}
                 >
-                  <div>
+               
+                  <div >
                     <div className="jsx-600450678 ">
                       <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
                         <a
@@ -8063,6 +7702,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={1}
                   className="slick-slide slick-active"
@@ -8209,6 +7849,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={2}
                   className="slick-slide slick-active"
@@ -8355,6 +7996,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={3}
                   className="slick-slide slick-active"
@@ -8501,6 +8143,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={4}
                   className="slick-slide"
@@ -8647,6 +8290,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={5}
                   className="slick-slide"
@@ -8793,6 +8437,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={6}
                   className="slick-slide"
@@ -8939,6 +8584,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={7}
                   className="slick-slide"
@@ -9085,6 +8731,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={8}
                   className="slick-slide"
@@ -9231,6 +8878,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+
                 <div
                   data-index={9}
                   className="slick-slide"
@@ -9377,6 +9025,7 @@ function Home() {
                     </div>
                   </div>
                 </div>
+                
               </div>
             </div>
           </div>

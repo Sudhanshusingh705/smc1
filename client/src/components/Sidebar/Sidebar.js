@@ -264,7 +264,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BE/B.Tech"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/engineering"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BE/B.Tech
@@ -285,7 +285,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Diploma in Engineering"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/engineering"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Diploma in Engineering
@@ -306,7 +306,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="ME/M.Tech"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/engineering"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               ME/M.Tech
@@ -356,7 +356,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MBA/PGDM"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/management"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MBA/PGDM
@@ -377,7 +377,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BBA/BBM"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/management"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BBA/BBM
@@ -398,7 +398,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Executive MBA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/management"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Executive MBA
@@ -448,7 +448,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Com"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/commerce"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Com
@@ -469,7 +469,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Com"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/commerce"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Com
@@ -527,7 +527,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/arts"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BA
@@ -548,7 +548,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/arts"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MA
@@ -569,7 +569,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BFA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/arts"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BFA
@@ -590,7 +590,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BSW"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/arts"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BSW
@@ -640,7 +640,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MBBS"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/medical"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MBBS
@@ -661,7 +661,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="PG Medical"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/medical"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               PG Medical
@@ -719,7 +719,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Des"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/design"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Des
@@ -740,7 +740,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Des"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/design"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Des
@@ -790,7 +790,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Sc"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/science"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Sc
@@ -811,7 +811,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Sc"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/science"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Sc
@@ -861,7 +861,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Pharm"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/pharmacy"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Pharm
@@ -882,7 +882,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Pharm"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/pharmacy"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Pharm
@@ -932,7 +932,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Sc (Nursing)"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/paramedical"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Sc (Nursing)
@@ -953,7 +953,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Sc (Nursing)"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/paramedical"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Sc (Nursing)
@@ -1003,7 +1003,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BCA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/computerapplication"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BCA
@@ -1024,7 +1024,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MCA"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/computerapplication"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MCA
@@ -1074,7 +1074,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Ed"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/education"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Ed
@@ -1095,7 +1095,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Ed"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/education"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Ed
@@ -1116,7 +1116,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.P.Ed"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/education"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.P.Ed
@@ -1166,7 +1166,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Sc (Agriculture)"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/agriculture"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Sc (Agriculture)
@@ -1187,7 +1187,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Sc (Agriculture)"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/agriculture"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Sc (Agriculture)
@@ -1241,7 +1241,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Bachelor of Animation"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/animation"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Bachelor of Animation
@@ -1262,7 +1262,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Diploma in Animation"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/animation"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Diploma in Animation
@@ -1283,7 +1283,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Certificate in Animation"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/animation"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Certificate in Animation
@@ -1341,7 +1341,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="B.Arch"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/architecture"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               B.Arch
@@ -1362,7 +1362,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="M.Arch"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/architecture"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               M.Arch
@@ -1412,7 +1412,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BHM"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/hotelmanagement"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BHM
@@ -1462,7 +1462,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="LLB"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/law"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               LLB
@@ -1483,7 +1483,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="LLM"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/law"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               LLM
@@ -1533,7 +1533,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BDS"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/dental"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BDS
@@ -1554,7 +1554,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MDS"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/dental"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MDS
@@ -1608,7 +1608,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Veterinary Sciences"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/veterinary"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Veterinary Sciences
@@ -1662,7 +1662,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BMM"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/masscommunication"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BMM
@@ -1683,7 +1683,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="MMC"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/masscommunication"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               MMC
@@ -1737,7 +1737,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="BBA (Aviation)"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/aviation"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               BBA (Aviation)
@@ -1791,7 +1791,7 @@ const Sidebar = () => {
                               data-csm-track="true"
                               data-csm-title="Vocational Courses"
                               data-event-type="popup_opened_change_goal"
-                              data-csm-href="https://collegedunia.com/bed-courses?city_id=125"
+                              data-csm-href="/vocationalcourse"
                               className="jsx-3136676245 exam_card w-100 text-left d-flex align-items-center justify-content-between"
                             >
                               Vocational Courses
