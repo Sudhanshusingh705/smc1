@@ -149,7 +149,7 @@ const NavBarWithImage = () => {
           {/*Logo*/}
           <li>
             <div className="logo-container">
-            <a href="#" onClick={handleLogo05Click}>
+            <a href="/home" onClick={handleLogo05Click}>
               <img src={logo05} alt="Logo" className="logo-image" />
               </a>
             </div>

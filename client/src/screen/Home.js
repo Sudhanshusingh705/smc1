@@ -1,5 +1,4 @@
-import React from "react";
-import { BsSearch } from "react-icons/bs";
+import React, { useState } from "react";
 import { FiArrowRightCircle } from "react-icons/fi";
 /*study goal*/
 import engineer from "../assets/icons/engineer.png";
@@ -9,74 +8,33 @@ import arts from "../assets/icons/art.png";
 import medical from "../assets/icons/medical.png";
 import design from "../assets/icons/design.png";
 /*top collections*/
-import tp01 from "../assets/topcollection/tp01.png";
-import tp2 from "../assets/topcollection/tp2.png";
-import tp3 from "../assets/topcollection/tp3.png";
-import tp4 from "../assets/topcollection/tp4.png";
-import tp5 from "../assets/topcollection/tp5.png";
-import tp6 from "../assets/topcollection/tp6.png";
-import tp7 from "../assets/topcollection/tp7.png";
-import tp8 from "../assets/topcollection/tp8.png";
-import tp9 from "../assets/topcollection/tp9.png";
-import tp10 from "../assets/topcollection/tp10.png";
-import tp11 from "../assets/topcollection/tp11.png";
-import tp12 from "../assets/topcollection/tp12.png";
-import tp13 from "../assets/topcollection/tp13.png";
-import tp14 from "../assets/topcollection/tp14.png";
-import tp15 from "../assets/topcollection/tp15.png";
-import tp16 from "../assets/topcollection/tp16.png";
-import cd11 from "../assets/topcollection/cd1.jpg";
-import cd12 from "../assets/topcollection/cd12.jpg";
-import cd13 from "../assets/topcollection/cd13.jpg";
 /*Explore Program*/
-import ranking from "../assets/exploreprogram/ranking.jpeg";
 
 /*Latets notifications*/
-import mcc from "../assets/latestnotificaton/mcc&joosa.jpg";
 import uttar from "../assets/latestnotificaton/Uttar.jpg";
 import clster from "../assets/latestnotificaton/clsterlogo.jpg";
 import iimlko from "../assets/latestnotificaton/iimlko.jpg";
-import mcclogo from "../assets/latestnotificaton/mcclogo.jpg";
 import mhtlogo from "../assets/latestnotificaton/mhtlogo.jpg";
 import tamil from "../assets/latestnotificaton/tamil.jpg";
 import ap from "../assets/latestnotificaton/ap.jpg";
 
 /*Top Universities*/
-import tp1 from "../assets/topuniversities/tp1.jpg";
 import "./Home.css";
 /* Hero */
-import hero2 from "../assets/hero/hero2.png";
-import hero3 from "../assets/hero/hero3.png";
-import hero4 from "../assets/hero/hero4.png";
-import hero5 from "../assets/hero/hero5.png";
-import hero6 from "../assets/hero/hero6.png";
-import hero7 from "../assets/hero/hero7.png";
-import hero8 from "../assets/hero/hero8.png";
 /*PF*/
-import pf1 from "../assets/pf/pf1.jpg";
-import pf2 from "../assets/pf/pf2.jpg";
-import pf3 from "../assets/pf/pf3.jpg";
 /*spacer */
-import avatar from "../assets/avatar.png";
-import { MDBCardImage, MDBCardLink } from "mdb-react-ui-kit";
+import { MDBCardImage} from "mdb-react-ui-kit";
 import {
-  MDBCarousel,
-  MDBCarouselItem,
   MDBCol,
   MDBContainer,
-  MDBIcon,
-  MDBNavbar,
 } from "mdb-react-ui-kit";
-import { MDBPaginationItem, MDBPaginationLink } from "mdb-react-ui-kit";
 import { MDBRow } from "mdb-react-ui-kit";
-import MDBAvatar from "mdb-react-ui-kit";
 
 import {
   MDBCard,
   MDBCardBody,
   MDBCardTitle,
   MDBCardText,
-  MDBCardHeader,
   MDBCardFooter,
   MDBBtn,
   MDBListGroup,
@@ -86,6 +44,7 @@ import {
 import "animate.css";
 
 import Sidebar from "../components/Sidebar/Sidebar";
+import CourseSidebar from "../components/TopcourseSidebar/CourseSidebar";
 
 const cardContainerStyle = {
   display: "flex",
@@ -98,15 +57,19 @@ const cardStyle = {
   padding: "-2px",
 };
 
+/*Top Collection */
+
 function Home() {
   return (
     <div>
     <Sidebar />
+    <br />
+    <CourseSidebar />
     
       {/*CAROUSEL*/}
 
       {/* Select Your Study Goal  Scrollup cards */}
-      <div className="container">
+      <div className="container" style={{marginTop: '-80px'}}>
         <h2 className="text">Select Your Study Goal</h2>
         <div
           class="card-top-collection container"
@@ -7254,156 +7217,7 @@ function Home() {
       <br />
 
       {/* Know your chances of Addmission*/}
-      {/*<section className="section-control-inner01 d-flex align-items-center">
-        <div className="d-lg-flex align-items-center col">
-          <h3
-            className="mb-0 mr-3 heading font-weight-bold"
-            style={{ color: "rgb(90,106,159)" }}
-          >
-            Know your chances of Admission
-          </h3>
-          <a
-            data-ga-title="Start Now"
-            data-ga-track="true"
-            data-ga-module="homepage"
-            data-ga-section="Know your chances of Admission"
-            data-ga-href="/college-predictor"
-            className="jsx-249750319 cta d-flex align-items-center justify-content-center font-weight-bold"
-            href="/college-predictor"
-          >
-            Start Now
-          </a>
-        </div>
-        <svg
-          width={133}
-          height={115}
-          viewBox="0 0 133 115"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-          className="ml-auto predictor-bar-illustration"
-        >
-          <g opacity="0.9" clipPath="url(#a)">
-            <path
-              d="M28.33 52.106c-.937.052-1.869.09-2.785.132-5.748.262-11.832 1.453-15.51 6.336-10 13.285 4.384 30.315 14.831 37.616 10.447 7.301 22.324 12.565 34.693 15.588 12.283 3.001 25.881 4.857 38.225 1.202 13.31-3.939 25.263-13.994 31.402-26.635 5.062-10.425 5.008-22.92.296-33.58-5.331-12.059-16.259-20.5-27.034-27.424-12.288-7.895-25.944-14.564-40.519-15.17-3.43-.143-6.943.069-10.15 1.301-3.208 1.232-6.101 3.607-7.367 6.818-1.921 4.875.184 10.288.952 15.474.74 4.939.022 10.482-3.513 13.994-3.453 3.437-8.553 4.084-13.52 4.348Z"
-              fill="#FEF4EB"
-            />
-            <path
-              d="M101.675 75.37a.094.094 0 0 1-.066-.028.095.095 0 0 1-.027-.065V42.43h-7.714v20.137a.093.093 0 0 1-.093.093.094.094 0 0 1-.092-.093V42.245h8.075v33.032a.091.091 0 0 1-.024.062.09.09 0 0 1-.059.03Z"
-              fill="#212121"
-            />
-            <path
-              d="M119.255 100.196a.09.09 0 0 1-.065-.027.094.094 0 0 1-.027-.066V52.028h-17.488a.09.09 0 0 1-.065-.027.093.093 0 0 1 .065-.159h17.673v48.261c0 .025-.01.049-.027.066a.091.091 0 0 1-.066.027Z"
-              fill="#212121"
-            />
-            <path
-              d="M115.471 56.422h-10.022a.092.092 0 0 1-.064-.028.09.09 0 0 1-.028-.065.092.092 0 0 1 .092-.093h10.022a.092.092 0 0 1 .092.093.09.09 0 0 1-.027.066.091.091 0 0 1-.065.027ZM115.471 62.66h-10.022a.092.092 0 0 1-.064-.028.09.09 0 0 1-.028-.065.092.092 0 0 1 .092-.093h10.022a.092.092 0 0 1 .092.093.092.092 0 0 1-.092.093ZM46.108 63.38a.092.092 0 0 1-.092-.094V51.842h9.959v7.736a.095.095 0 0 1-.093.092.092.092 0 0 1-.092-.093v-7.55H46.2v11.269a.093.093 0 0 1-.093.083Z"
-              fill="#212121"
-            />
-            <path
-              d="M37.834 84.066a.092.092 0 0 1-.092-.093v-20.78H52.74c.024 0 .048.01.065.028a.093.093 0 0 1-.065.158H37.927v20.594a.093.093 0 0 1-.093.093ZM30.687 100.897a.094.094 0 0 1-.065-.027.096.096 0 0 1-.027-.066V57.186l-9.722 3.269v32.537a.095.095 0 0 1-.093.093.092.092 0 0 1-.092-.093V60.321l10.092-3.393V100.8a.093.093 0 0 1-.093.097Z"
-              fill="#212121"
-            />
-            <path
-              d="M35.529 96.591s2.507 10.83 9.69 10.83c6.166 0 14.704-14.098 14.704-14.098L35.53 96.592Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M75.1 14.588c0-.613.341-7.083 10.168-7.696 0 0-4.806.682-5.623 2.861 0 0 3.253-2.724 5.964-1.906 2.71.818 4.4 5.448 4.468 7.018.068 1.57-1.294 6.606-2.982 7.083-.61.205-1.355.136-2.034.07.507.737.96 1.51 1.357 2.314 4.132 7.968.542 17.435-2.773 16.62-2.168-.478-3.457 3.2-3.457 3.2l-20.6-17.839c-.14-.01 7.11-16.015 15.513-11.725Z"
-              fill="#0B101A"
-            />
-            <path
-              d="M62.092 68.736a25.304 25.304 0 0 0 8.74 3.746c13.484 3.133 18.634-8.31 20.6-16.21-1.83-1.09-3.592-1.3-4.54-1.43-.944-.132-1.894-.2-2.846-.205-1.492-1.158-3.795-5.926-4.27-13.35l-.608.205-10.64 2.929s.474 3.406.74 6.605c.204 2.522.204 4.906-.272 5.517a12.65 12.65 0 0 1-1.355.273 66.72 66.72 0 0 0-5.55 11.92Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M68.529 44.352s.473 3.406.74 6.607c6.03-.613 8.808-6.403 9.893-9.536L68.53 44.352Z"
-              fill="#212121"
-            />
-            <path
-              d="M68.4 49.46s13.892-3.609 11.52-12.264S77.752 22.28 68.806 24.19c-8.945 1.91-9.764 5.727-9.696 8.79.067 3.132 5.624 17.232 9.29 16.48Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M58.232 28.075c1.423-3.202 3.185-3.066 4.337-2.52 6.437-6.268 12.94-1.43 12.94-1.43 2.644 5.925 8.064 8.24 8.064 8.24s-2.1 2.248-8.267 2.384c-1.897 0-3.793-.818-5.555-1.975a32.262 32.262 0 0 0 7.385 5.243c-7.792-1.3-13.214-10.22-13.824-11.169-.608 1.022-1.828 3.133-1.897 4.831-.068 2.384.814 7.015-.541 7.22-.07.073-4.814-6.056-2.642-10.825Z"
-              fill="#0B101A"
-            />
-            <path
-              d="M64.395 56.068s23.31-5.653 33.407 2.724l-5.084 70.906-45.533-11.039s1.294-4.495 10.027-16.413c8.733-11.918 4.946-29.424 7.183-46.178Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M100.985 79.019c-1.151 8.514-5.623 19.003-7.25 24.589 0 0 2.71 19.547.137 24.86a2.452 2.452 0 0 1-1.085 1.224c-9.488 4.155-46.484.138-48.043-11.849-.541-4.359 14.094-19.685 14.974-21.523.338-.743.74-3.27-1.017-8.445-2.44 7.559-15.855 5.38-15.855 5.38 1.558-2.725 5.488-21.455 9.892-29.969C56.065 56.885 64.867 56 64.867 56s3.66 5.858 12.537 5.04c8.877-.817 10.502-6.267 10.502-6.267s7.86 1.022 10.299 2.997c.342.342 4.209 10.08 2.78 21.25Z"
-              fill="#48639E"
-            />
-            <path
-              d="M93.735 103.608s2.71 19.547.136 24.86c-6.912-3.475-15.924-11.034-13.214-22.818 3.999-17.095 20.335-26.698 20.335-26.698-1.166 8.581-5.63 19.07-7.257 24.656Z"
-              fill="#48639E"
-            />
-            <path
-              d="m64.868 80.519 15.858 25.608H53.69L38.58 81.063l26.288-.544Z"
-              fill="#212121"
-            />
-            <path
-              d="m79.844 104.832.272-.884L65.14 79.701l-.272.818 14.976 24.313Z"
-              fill="#fff"
-            />
-            <path
-              d="m65.14 79.701-25.41.749-1.15.613 26.288-.544.272-.818Z"
-              fill="#fff"
-            />
-            <path
-              d="M38.579 81.063 24.349 73.3l16.6 26.289 12.74 6.538-15.11-25.064Z"
-              fill="#212121"
-            />
-            <path
-              d="M114.061 98.975c-1.559.682-5.422 5.313-6.84 5.79-6.3 2.111-33.067-3.541-33.067-3.541l.814-4.7s26.291.68 29.208-.068c.542-.136 3.389-4.63 4.472-5.244l5.413 7.763Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M74.965 96.591s-3.185-2.588-5.285-1.975c-2.168.613-5.285 3.345-6.437 3.95-1.151.606-4.337 2.929-2.71 4.36 1.625 1.362 6.64.204 8.605-.885 1.966-1.089 5.082-.682 5.082-.682l.745-4.768Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M70.29 94.48s-3.863-.477-4.878-.408c-1.085 0-.74.273-.203 1.09.61.816 2.575 1.158 2.71 1.43.068.273 2.371-2.111 2.371-2.111Z"
-              fill="#FFAA7B"
-            />
-            <path
-              d="M87.84 54.705s11.452 1.362 14.568 6.266c3.999 6.199 13.349 30.99 13.078 37.256 0 0-6.84 11.706-30.425 9.876 0 0-2.439-8.719 2.508-11.578 0 0 12.06-2.18 13.484-3.407l-4.067-16.89-9.147-21.523Z"
-              fill="#48639E"
-            />
-            <path
-              d="M42.237 90.462c-.338-1.43-3.523-.545-4.54.273-.32.272-.595.594-.813.953 0-.271-.069-.476-.069-.68-.066-.682-.88-1.908-1.014-.955-.204.886-.544 4.768-.544 4.768-.067 3.066 1.965 4.359 3.185 3.344 1.289-1.027 4.202-6.273 3.795-7.704Z"
-              fill="#FFB78F"
-            />
-            <path
-              d="M67.163 45.153c-.274 0-.457-.013-.483-.015a.185.185 0 0 1-.172-.199.186.186 0 0 1 .198-.173c.026 0 2.474.171 3.492-.817a.184.184 0 0 1 .263 0 .186.186 0 0 1 0 .262c-.856.836-2.485.942-3.298.942ZM35.377 90.917a.184.184 0 0 1-.166-.102l-1.803-3.624a.187.187 0 0 1 .084-.249.184.184 0 0 1 .247.084l1.803 3.623a.187.187 0 0 1-.083.25.185.185 0 0 1-.082.018ZM37.343 90.917a.203.203 0 0 1-.049 0 .182.182 0 0 1-.121-.09.186.186 0 0 1-.015-.15l.99-3.774a.185.185 0 0 1 .357.095l-.99 3.774a.186.186 0 0 1-.172.145ZM38.83 91.978a.185.185 0 0 1-.174-.246.185.185 0 0 1 .07-.092l3.003-2.113a.184.184 0 0 1 .288.184.186.186 0 0 1-.077.12l-3.002 2.11a.184.184 0 0 1-.108.037ZM112.027 16.85a10.611 10.611 0 0 1-4.974-1.301c-3.086-1.654-5.177-4.57-5.452-7.61-.325-3.576 2.242-7.06 5.845-7.93a.096.096 0 0 1 .07.012c.02.013.035.033.041.057a.094.094 0 0 1-.068.113c-3.512.848-6.021 4.244-5.705 7.732.272 2.973 2.324 5.838 5.361 7.462 2.438 1.3 5.132 1.635 7.395.901a7.213 7.213 0 0 0 3.628-2.846c.973-1.47 1.252-3.07.788-4.508-.555-1.695-1.717-2.601-3.206-2.503-2.116.147-3.712 2.098-4.03 3.902a.094.094 0 0 1-.107.076.093.093 0 0 1-.074-.107c.37-2.135 2.219-3.916 4.199-4.053 1.578-.11 2.819.85 3.394 2.631.48 1.487.184 3.159-.808 4.668a7.42 7.42 0 0 1-3.727 2.92 8.23 8.23 0 0 1-2.57.383ZM13.22 75.37a.092.092 0 0 1-.09-.075c-.528-2.555-1.71-4.305-3.513-5.203-3.882-1.923-9.428.744-9.476.762a.092.092 0 0 1-.129-.114.093.093 0 0 1 .047-.053c.058-.026 5.674-2.724 9.639-.762 1.856.924 3.072 2.728 3.612 5.33a.092.092 0 0 1-.013.07.093.093 0 0 1-.059.04l-.018.005Z"
-              fill="#212121"
-            />
-            <path
-              d="M78.798 14.588c0-.613.34-7.083 10.168-7.696 0 0-4.807.682-5.624 2.861 0 0 3.254-2.724 5.964-1.906 2.71.818 4.4 5.448 4.468 7.018.069 1.57-1.294 6.606-2.982 7.083-.61.205-1.355.136-2.033.07.507.737.96 1.51 1.357 2.314l-11.318-9.744Z"
-              fill="#0B101A"
-            />
-            <path
-              d="m96.787 94.48-6.853 1.444.038.182 6.853-1.444-.038-.182ZM89.147 108.443c-1.37.016-2.74-.067-4.099-.249h-.064l-.439-2.262.185-.035.414 2.133c3.513.522 9.04.021 9.096.015l.016.186c-.04-.008-2.455.212-5.11.212ZM60.557 76.95l-1.284 2.887.169.076 1.284-2.887-.169-.076ZM98.206 80.886l-.18.043 1.303 5.413.18-.044-1.303-5.412Z"
-              fill="#fff"
-            />
-            <path
-              d="M28.702 46.234c-.63 0-1.258-.034-1.884-.1h-.051l-2.274-4.698a.093.093 0 0 1 .042-.124.093.093 0 0 1 .124.043l2.23 4.591c5.061.511 8.158-1.167 9.868-2.668a9.627 9.627 0 0 0 2.518-3.397l-1.932-3.973a.093.093 0 0 1 .042-.124.092.092 0 0 1 .124.043l1.969 4.052-.013.037c-.028.07-2.409 6.316-10.763 6.318Z"
-              fill="#212121"
-            />
-            <path
-              d="m32.536 41.622-11.987-.185 7.519-8.65 11.992.197-7.524 8.638Zm-11.591-.371 11.508.186 7.2-8.284-11.51-.186-7.198 8.284ZM111.34 37.28h-.012a2.955 2.955 0 0 1-1.782-1.182 2.982 2.982 0 0 1 .478-3.975 2.952 2.952 0 0 1 2.013-.72c.088 0 .176.004.264.013a4.456 4.456 0 0 1 1.636-2.132 4.42 4.42 0 0 1 5.106.03 4.456 4.456 0 0 1 1.61 2.152c.196-.041.396-.063.597-.064a2.948 2.948 0 0 1 2.012.718 2.986 2.986 0 0 1 .486 3.972 2.956 2.956 0 0 1-1.779 1.186h-.022l-10.607.002Zm.697-5.692a2.765 2.765 0 0 0-1.891.67 2.793 2.793 0 0 0 1.216 4.84h10.572a2.77 2.77 0 0 0 1.661-1.117 2.797 2.797 0 0 0-.462-3.718 2.764 2.764 0 0 0-1.883-.671 2.83 2.83 0 0 0-.638.076l-.083.02-.026-.081a4.26 4.26 0 0 0-1.529-2.123 4.229 4.229 0 0 0-4.963-.036 4.268 4.268 0 0 0-1.559 2.101l-.024.07h-.074a2.812 2.812 0 0 0-.317-.03Z"
-              fill="#212121"
-            />
-          </g>
-          <defs>
-            <clipPath id="a">
-              <path fill="#fff" d="M0 0h133v115H0z" />
-            </clipPath>
-          </defs>
-        </svg>
-      </section>
-      <br />*/}
+      
 
       {/* Top Study Places */}
       <div className="container">

@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import "./Sidebar.css";
+import "./CourseSidebar.css";
 
-const Sidebar = () => {
+const CourseSidebar = () => {
   const [modalVisible, setModalVisible] = useState(false);
 
   const toggleModal = () => {
@@ -12,10 +12,11 @@ const Sidebar = () => {
     <div>
       <button
         className="toggle-button btn btn-outline-dark"
-        style={{marginLeft: '13px'}}
+        style={{marginLeft: '337px'}}
         onClick={toggleModal}
+       
       >
-        {modalVisible ? "Close" : "Select Goal"}
+        {modalVisible ? "Close" : "Select Course"}
       </button>
 
       {modalVisible && (
@@ -27,7 +28,7 @@ const Sidebar = () => {
                   <div className="jsx-2003058024 d-flex align-items-center cd-main-header">
                     <div className="jsx-2003058024 container d-flex align-items-center">
                       <div className="jsx-2003058024 pr-3">
-                        <div className="jsx-2003058024 d-flex align-items-center justify-content-center">
+                       {/* <div className="jsx-2003058024 d-flex align-items-center justify-content-center">
                           <h2 className="jsx-2003058024 heading font-weight-bold mb-0">
                             You have selected{" "}
                             <span className="jsx-2003058024 text-primary">
@@ -38,7 +39,7 @@ const Sidebar = () => {
                               New Delhi
                             </span>
                           </h2>
-                        </div>
+                        </div>*/}
                       </div>
                     </div>
                   </div>
@@ -47,170 +48,170 @@ const Sidebar = () => {
                       <ul className="jsx-2003058024 list">
                         <li className="jsx-2003058024">
                           <a
-                            href="/agriculture"
+                            href="/courses/agricultures"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Agriculture
+                            Agriculture (5)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/animation"
+                            href="/courses/animations"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Animation
+                            Animation (1)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/architecture"
+                            href="/courses/architectures"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Architecture
+                            Architecture (6)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/arts"
+                            href="/courses/art"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Arts
+                            Arts (167)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="aviation"
+                            href="/courses/aviations"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Aviation
+                            Aviation (4)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="commerce"
+                            href="/courses/commerces"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Commerce{" "}
+                            Commerce (69)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/computerapplication"
+                            href="/courses/computers"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Computer Application
+                            Computer (25)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/dental"
+                            href="/courses/dentals"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Dental
+                            Dental (9)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/design"
+                            href="/courses/designs"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Design
+                            Design (10)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="education"
+                            href="/courses/educations"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Education
+                            Education (25)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/engineering"
+                            href="/courses/engineerings"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Engineering
+                            Engineering (132)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/hotelmanagement"
+                            href="/courses/hotelmanagements"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Hotel Management
+                            Hotel Management (7)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/law"
+                            href="/courses/laws"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Law
+                            Law (16)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/management"
+                            href="/courses/managements"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Management
+                            Management (183)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/masscommunication"
+                            href="/courses/masscommunications"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Mass Communication
+                            Mass Communication (8)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/medical"
+                            href="/courses/medicals"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Medical
+                            Medical (66)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/paramedical"
+                            href="/courses/paramedicals"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Para Medical
+                            Para Medical (20)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/phamasy"
+                            href="/courses/pharmacys"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Pharmacy
+                            Pharmacy (14)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/science"
+                            href="/courses/sciences"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Science
+                            Science (202)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/veterinary"
+                            href="/courses/veterinarys"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Veterinary Science
+                            Veterinary Science (4)
                           </a>
                         </li>
                         <li className="jsx-2003058024">
                           <a
-                            href="/vocationalcourse"
+                            href="/courses/vocationalcourses"
                             style={{ color: "black", textDecoration: "none" }}
                           >
-                            Vocational Courses
+                            Vocational Courses (2)
                           </a>
                         </li>
                       </ul>
@@ -1822,4 +1823,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default CourseSidebar;

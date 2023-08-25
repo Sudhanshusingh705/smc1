@@ -10,6 +10,7 @@ const Topcollege = () => {
       { name: 'College 3', state: 'State 1', city: 'City 3', stream: 'Stream 1', course: 'Course 3', programMode: 'Program Mode 1', ownership: 'Ownership 1', examAccepted: 'Exam Accepted 1', courseType: 'Course Type 3', totalFees: 'Total Fees 3' },
       { name: 'College 4', state: 'State 2', city: 'City 4', stream: 'Stream 2', course: 'Course 2', programMode: 'Program Mode 2', ownership: 'Ownership 2', examAccepted: 'Exam Accepted 3', courseType: 'Course Type 2', totalFees: 'Total Fees 4' },
       { name: 'College 5', state: 'State 3', city: 'City 5', stream: 'Stream 1', course: 'Course 1', programMode: 'Program Mode 1', ownership: 'Ownership 1', examAccepted: 'Exam Accepted 2', courseType: 'Course Type 1', totalFees: 'Total Fees 5' },
+      { name: 'College 6', state: 'State 3', city: 'City 5', stream: 'Stream 1', course: 'Course 1', programMode: 'Program Mode 1', ownership: 'Ownership 1', examAccepted: 'Exam Accepted 2', courseType: 'Course Type 1', totalFees: 'Total Fees 5' },
       // Continue adding more college data entries
   ]);
   const [visibleColleges, setVisibleColleges] = useState(3);
@@ -455,16 +456,40 @@ const Topcollege = () => {
         {/* Top colleges list */}
         <h2>Top Colleges</h2>
         <div className="row">
-          {filteredColleges.slice(0, visibleColleges).map(college => (
-            <div className="col-md-4 mb-3" key={college.name}>
-              <div className="card">
-                <div className="card-body">
-                  <h5 className="card-title">{college.name}</h5>
-                  <p className="card-text">{college.location}</p>
-                </div>
-              </div>
+    {filteredColleges
+      .filter(
+        (college) =>
+          (selectedState === 'All' || college.state === selectedState) &&
+          (selectedCity === 'All' || college.city === selectedCity) &&
+          (selectedStream === 'All' || college.stream === selectedStream) &&
+          (selectedCourse === 'All' || college.course === selectedCourse) && 
+          (selectedOwnership === 'All' || college.ownership === selectedOwnership) && 
+          (selectedCourseType === 'All' || college.courseType === selectedCourseType) && 
+          (selectedAffilatedBy === 'All' || college.affilatedBy === selectedAffilatedBy)
+      )
+      .slice(0, visibleColleges)
+      .map((college) => (
+        <div className="col-md-4 mb-3" key={college.name}>
+          <div className="card">
+            <div className="card-body">
+              <h5 className="card-title">{college.name}</h5>
+              <p className="card-text">
+                <strong>Location:</strong> {college.city}, {college.state}
+                <br />
+                <strong>Stream:</strong> {college.stream}
+                <br />
+                <strong>Course:</strong> {college.course}
+                <br />
+                <strong>Ownership:</strong> {college.ownership}
+                <br />
+                <strong>Course Type:</strong> {college.courseType}
+                <br />
+                <strong>Affiliated By:</strong> {college.affilatedBy}
+              </p>
             </div>
-          ))}
+          </div>
+        </div>
+      ))}
         </div>
         {visibleColleges < filteredColleges.length && (
           <button className="btn btn-primary" onClick={loadMoreColleges}>
