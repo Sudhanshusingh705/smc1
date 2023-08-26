@@ -10,6 +10,9 @@ import design from "../assets/icons/design.png";
 /*top collections*/
 /*Explore Program*/
 
+import smb from "../assets/topuniversities/smb.png";
+import smb1 from "../assets/topuniversities/smb1.png";
+
 /*Latets notifications*/
 import uttar from "../assets/latestnotificaton/Uttar.jpg";
 import clster from "../assets/latestnotificaton/clsterlogo.jpg";
@@ -23,11 +26,8 @@ import "./Home.css";
 /* Hero */
 /*PF*/
 /*spacer */
-import { MDBCardImage} from "mdb-react-ui-kit";
-import {
-  MDBCol,
-  MDBContainer,
-} from "mdb-react-ui-kit";
+import { MDBCardImage } from "mdb-react-ui-kit";
+import { MDBCol, MDBContainer } from "mdb-react-ui-kit";
 import { MDBRow } from "mdb-react-ui-kit";
 
 import {
@@ -62,14 +62,14 @@ const cardStyle = {
 function Home() {
   return (
     <div>
-    <Sidebar />
-    <br />
-    <CourseSidebar />
-    
+      <Sidebar />
+      <br />
+      <CourseSidebar />
+
       {/*CAROUSEL*/}
 
       {/* Select Your Study Goal  Scrollup cards */}
-      <div className="container" style={{marginTop: '-80px'}}>
+      <div className="container" style={{ marginTop: "-80px" }}>
         <h2 className="text">Select Your Study Goal</h2>
         <div
           class="card-top-collection container"
@@ -80,7 +80,7 @@ function Home() {
           //     "url(	https://searchmycolleges.com/wp-content/uploads/2023/05/bg-1.jpg )",
           // }}
         >
-         {/* <a href="#" className="previous round">
+          {/* <a href="#" className="previous round">
             ‹
           </a>
           <a href="#" className="next round">
@@ -99,13 +99,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">BE/B'Tech</p>
+                  <p className="hoverable-paragraph" href="/engineering">
+                    BE/B'Tech
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">ME/M.Tech</p>
+                  <p className="hoverable-paragraph" href="/engineering">
+                    ME/M.Tech
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">Diploma in Engineering</p>
+                  <p className="hoverable-paragraph" href="/engineering">
+                    Diploma in Engineering
+                  </p>
                 </div>
               </div>
             </li>
@@ -122,13 +128,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">MBA/PGDM</p>
+                  <p className="hoverable-paragraph" href="/management">
+                    MBA/PGDM
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">BBA/BBM</p>
+                  <p className="hoverable-paragraph" href="/management">
+                    BBA/BBM
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">Executive MBA</p>
+                  <p className="hoverable-paragraph" href="/management">
+                    Executive MBA
+                  </p>
                 </div>
               </div>
             </li>
@@ -145,13 +157,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">B.COM</p>
+                  <p className="hoverable-paragraph" href="/commerce">
+                    B.COM
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">M.COM</p>
+                  <p className="hoverable-paragraph" href="/commerce">
+                    M.COM
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">MBA</p>
+                  <p className="hoverable-paragraph" href="/commerce">
+                    MBA
+                  </p>
                 </div>
               </div>
             </li>
@@ -168,13 +186,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">BA</p>
+                  <p className="hoverable-paragraph" href="/arts">
+                    BA
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">MA</p>
+                  <p className="hoverable-paragraph" href="/arts">
+                    MA
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">BFA</p>
+                  <p className="hoverable-paragraph" href="/arts">
+                    BFA
+                  </p>
                 </div>
               </div>
             </li>
@@ -191,13 +215,19 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">MBBS</p>
+                  <p className="hoverable-paragraph" href="/medical">
+                    MBBS
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">B.Pharma</p>
+                  <p className="hoverable-paragraph" href="/medical">
+                    B.Pharma
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">B.Sc Nursing</p>
+                  <p className="hoverable-paragraph" href="/medical">
+                    B.Sc Nursing
+                  </p>
                 </div>
               </div>
             </li>
@@ -214,25 +244,45 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">B.Des</p>
+                  <p className="hoverable-paragraph" href="/design">
+                    B.Des
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">M.Des</p>
+                  <p className="hoverable-paragraph" href="/design">
+                    M.Des
+                  </p>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">BFA</p>
+                  <p className="hoverable-paragraph" href="/design">
+                    BFA
+                  </p>
                 </div>
               </div>
             </li>
 
             <li className="card00">
-            <h3 className="card00-title text-center" style={{ textAlign: "center", cursor: 'pointer' }}>
-              <a className="hoverable-paragraph" href="/sidebar" style={{ color: 'black', textDecoration: 'none' }}>
-                See All
-              </a>
-              <FiArrowRightCircle style={{ verticalAlign: "middle", marginLeft: "5px", height: '90px', width: '40px' }} />
-            </h3>
-          </li>
+              <h3
+                className="card00-title text-center"
+                style={{ textAlign: "center", cursor: "pointer" }}
+              >
+                <a
+                  className="hoverable-paragraph"
+                  href="/sidebar"
+                  style={{ color: "black", textDecoration: "none" }}
+                >
+                  See All
+                </a>
+                <FiArrowRightCircle
+                  style={{
+                    verticalAlign: "middle",
+                    marginLeft: "5px",
+                    height: "90px",
+                    width: "40px",
+                  }}
+                />
+              </h3>
+            </li>
           </ul>
         </div>
       </div>
@@ -2864,262 +2914,459 @@ function Home() {
         <h2 className="text">Top 10 Colleges </h2>
 
         <div className="p-4">
-        <div className="button2-row">
-          <div
-            className="container"
-            style={{
-              cursor: "pointer",
-              backgroundColor: "#F8F8F8",
-              // borderRadius: "10px", 
-              backgroundImage:
-                "url(	https://searchmycolleges.com/wp-content/uploads/2023/05/bg-1.jpg )",
-            }}
-          >
-          
-          <div className="p-4">
           <div className="button2-row">
-            <div className="scroll-container">
-              <ul className="cards006">
-                {/* ... your list of items ... */}
-                <ul className="cards006">
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a
-                      href=""
-                      className="card006-link"
-                      style={{ justifyContent: "center", width: '120px', marginLeft: '20px', marginRight: '10px' }}
-                    >
-                      Uttar Pradesh
-                    </a>
+            <div
+              className="container"
+              style={{
+                cursor: "pointer",
+                backgroundColor: "#F8F8F8",
+                // borderRadius: "10px",
+                backgroundImage:
+                  "url(	https://searchmycolleges.com/wp-content/uploads/2023/05/bg-1.jpg )",
+              }}
+            >
+              <div className="p-4">
+                <div className="button2-row">
+                  <div className="scroll-container">
+                    <ul className="cards006">
+                      {/* ... your list of items ... */}
+                      <ul className="cards006">
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                width: "120px",
+                                marginLeft: "20px",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Uttar Pradesh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Panjab
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Uttara Khand
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Madhya Pradesh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              MahaRashtra
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Rajasthan
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Tamil-Nadu
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Delhi NCR
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Andhra Pradesh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Haryana
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Gujrat
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Karnataka
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              West Bangal
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Himanchal Pradesh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Telangana
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Kerala
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Bihar
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              JharKhand
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Orissa
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Chandigarh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Chhatisgarh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Arunachal Pradesh
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Puducherry
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Assam
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Jammu & Kashmir
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Meghalaya
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Goa
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Manipur
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Sikkim
+                            </a>
+                          </div>
+                        </li>
+                        <li className="card006">
+                          <div className="card006-link-wrapper">
+                            <a
+                              href=""
+                              className="card006-link"
+                              style={{
+                                justifyContent: "center",
+                                marginRight: "10px",
+                              }}
+                            >
+                              Andaman and Nicobar-Island
+                            </a>
+                          </div>
+                        </li>
+                      </ul>
+                    </ul>
                   </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a
-                      href=""
-                      className="card006-link"
-                      style={{ justifyContent: "center", marginRight: '10px' }}
-                    >
-                      Panjab
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper" >
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Uttara Khand
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Madhya Pradesh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      MahaRashtra
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Rajasthan
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Tamil-Nadu
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Delhi NCR
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Andhra Pradesh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Haryana
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Gujrat
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Karnataka
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    West Bangal
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Himanchal Pradesh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Telangana
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Kerala
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Bihar
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    JharKhand
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Orissa
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Chandigarh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Chhatisgarh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Arunachal Pradesh
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Puducherry
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Assam
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Jammu & Kashmir
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Meghalaya
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                  Goa
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Manipur
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                      Sikkim
-                    </a>
-                  </div>
-                </li>
-                <li className="card006">
-                  <div className="card006-link-wrapper">
-                    <a href="" className="card006-link" style={{ justifyContent: "center", marginRight: '10px' }}>
-                    Andaman and Nicobar-Island
-                    </a>
-                  </div>
-                </li>
-                </ul>
-              </ul>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-
-
-
-
-
-
-          </div>
-        </div>
-      </div>
         <br />
 
         <div>
           <table
             className="table align-middle mb-0 bg-white"
-            style={{ border: "1px solid black", }}
+            style={{ border: "1px solid black" }}
           >
             <thead className="bg-light">
               <tr>
@@ -4007,7 +4254,7 @@ function Home() {
                       data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4043,9 +4290,9 @@ function Home() {
                             data-ga-module="homepage"
                             data-ga-section="Top Universities/Colleges"
                             data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
-                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary" 
-                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
-                          style={{textDecoration: 'none'}}
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
+                            style={{ textDecoration: "none" }}
                           >
                             MBA/PGDM
                           </a>
@@ -4211,7 +4458,7 @@ function Home() {
                       data-ga-href="university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4414,7 +4661,7 @@ function Home() {
                       data-ga-href="university/25777-chandigarh-university-cu-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25777-chandigarh-university-cu-chandigarh"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4617,7 +4864,7 @@ function Home() {
                       data-ga-href="college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4821,7 +5068,7 @@ function Home() {
                       data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5024,7 +5271,7 @@ function Home() {
                       data-ga-href="university/55884-parul-university-vadodara"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/55884-parul-university-vadodara"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5226,7 +5473,7 @@ function Home() {
                       data-ga-href="university/25787-lovely-professional-university-lpu-jalandhar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25787-lovely-professional-university-lpu-jalandhar"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5429,7 +5676,7 @@ function Home() {
                       data-ga-href="university/17255-asbm-university-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/17255-asbm-university-bhubaneswar"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5635,7 +5882,7 @@ function Home() {
                       data-ga-href="university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5839,7 +6086,7 @@ function Home() {
                       data-ga-href="university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6041,7 +6288,7 @@ function Home() {
                       data-ga-href="university/25494-indian-institute-of-management-iima-ahmedabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25494-indian-institute-of-management-iima-ahmedabad"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6242,7 +6489,7 @@ function Home() {
                       data-ga-href="university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6446,7 +6693,7 @@ function Home() {
                       data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6649,7 +6896,7 @@ function Home() {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6850,7 +7097,7 @@ function Home() {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7054,7 +7301,7 @@ function Home() {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
-                      style={{textDecoration: 'none'}}
+                      style={{ textDecoration: "none" }}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7235,7 +7482,29 @@ function Home() {
       <br />
 
       {/* Know your chances of Addmission*/}
-      
+      <section className="section-control-inner001">
+  <div className="content">
+    <h3 className="mb-0 heading font-weight-bold" style={{ color: "rgb(90,106,159)" }}>
+      Know your chances of Admission
+    </h3>
+    <a
+      data-ga-title="Start Now"
+      data-ga-track="true"
+      data-ga-module="homepage"
+      data-ga-section="Know your chances of Admission"
+      data-ga-href="/college-predictor"
+      className="jsx-249750319 cta font-weight-bold"
+      href="/college-predictor"
+      style={{marginLeft: '421px', marginTop: '-15px'}}
+    >
+      Start Now
+    </a>
+  </div>
+  <div className="image-container">
+    <img className="image" src={smb} alt="smb1" />
+  </div>
+      </section>
+      <br />
 
       {/* Top Study Places */}
       <div className="container">
@@ -7385,8 +7654,29 @@ function Home() {
       <br />
 
       {/* Subscribe for regular alerts */}
-     
-
+      <section className="section-control-inner002">
+      <div className="content">
+        <h3 className="mb-0 heading font-weight-bold" style={{ color: "rgb(90,106,159)" }}>
+          Subscribe for regular Alert
+        </h3>
+        <a
+          data-ga-title="Start Now"
+          data-ga-track="true"
+          data-ga-module="homepage"
+          data-ga-section="Subscribe for regular Alert"
+          data-ga-href="/college-predictor"
+          className="jsx-249750319 cta font-weight-bold"
+          href="/college-predictor"
+          style={{marginLeft: '421px', marginTop: '-15px'}}
+        >
+          Start Now
+        </a>
+      </div>
+      <div className="image-container">
+        <img className="image" src={smb1} alt="smb1" />
+      </div>
+          </section>
+          <br />
       {/* Explore Courses */}
       <section className="jsx-3399163233 jsx-4093795240 section-control mb-0 bg-white ">
         <div
@@ -7401,119 +7691,364 @@ function Home() {
             className="slick-slider carousel-control fluid-height-carousel slick-initialized"
             dir="ltr"
           >
-            <div className="button1-row" >
-              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Bachelors</button>
-              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Masters</button>
-              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Doctorate</button>
-              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Diploma</button>
-              <button className="button1" style={{backgroundColor: '#ff7900', color: 'white'}}>Certification</button>
+            <div className="button1-row">
+              <button
+                className="button1"
+                style={{ backgroundColor: "#ff7900", color: "white" }}
+              >
+                Bachelors
+              </button>
+              <button
+                className="button1"
+                style={{ backgroundColor: "#ff7900", color: "white" }}
+              >
+                Masters
+              </button>
+              <button
+                className="button1"
+                style={{ backgroundColor: "#ff7900", color: "white" }}
+              >
+                Doctorate
+              </button>
+              <button
+                className="button1"
+                style={{ backgroundColor: "#ff7900", color: "white" }}
+              >
+                Diploma
+              </button>
+              <button
+                className="button1"
+                style={{ backgroundColor: "#ff7900", color: "white" }}
+              >
+                Certification
+              </button>
             </div>
             <br />
-           
+
             <ul className="cards8">
-            <div className="card" style={{ width: '18rem' }}>
-      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
-        <p className="card-text" style={{ textAlign: 'center' }}>
-          FULL TIME
-        </p>
-        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.COM GENERAL</h5>
-      </div>
-      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 62.07k</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 6491</li>
-      </ul>
-      <div className="card-body">
-        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
-          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
-        </a>
-      </div>
-            </div>
+              <div className="card" style={{ width: "18rem" }}>
+                <div
+                  className="card-body"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "start",
+                  }}
+                >
+                  <p className="card-text" style={{ textAlign: "center" }}>
+                    FULL TIME
+                  </p>
+                  <h5
+                    className="card-title"
+                    style={{ fontWeight: "bold", marginLeft: "-50px" }}
+                  >
+                    B.COM GENERAL
+                  </h5>
+                </div>
+                <ul
+                  className="list-group list-group-flush"
+                  style={{ listStyle: "none" }}
+                >
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Duration: 3 Years
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Total Avg.fees: 62.07k
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    college: 6491
+                  </li>
+                </ul>
+                <div className="card-body">
+                  <a
+                    href="#"
+                    className="card-link"
+                    style={{ textDecoration: "none" }}
+                  >
+                    <div
+                      className="box"
+                      style={{
+                        border: "1px solid black",
+                        padding: "5px",
+                        backgroundColor: "#ff7900",
+                        color: "white",
+                      }}
+                    >
+                      Course Overview
+                    </div>
+                  </a>
+                </div>
+              </div>
 
-            <div className="card" style={{ width: '18rem' }}>
-            <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
-              <p className="card-text" style={{ textAlign: 'center' }}>
-                FULL TIME
-              </p>
-              <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.Ed GENERAL</h5>
-            </div>
-            <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
-              <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 2 Years</li>
-              <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 81.79k</li>
-              <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 5436</li>
+              <div className="card" style={{ width: "18rem" }}>
+                <div
+                  className="card-body"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "start",
+                  }}
+                >
+                  <p className="card-text" style={{ textAlign: "center" }}>
+                    FULL TIME
+                  </p>
+                  <h5
+                    className="card-title"
+                    style={{ fontWeight: "bold", marginLeft: "-50px" }}
+                  >
+                    B.Ed GENERAL
+                  </h5>
+                </div>
+                <ul
+                  className="list-group list-group-flush"
+                  style={{ listStyle: "none" }}
+                >
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Duration: 2 Years
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Total Avg.fees: 81.79k
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    college: 5436
+                  </li>
+                </ul>
+                <div className="card-body">
+                  <a
+                    href="#"
+                    className="card-link"
+                    style={{ textDecoration: "none" }}
+                  >
+                    <div
+                      className="box"
+                      style={{
+                        border: "1px solid black",
+                        padding: "5px",
+                        backgroundColor: "#ff7900",
+                        color: "white",
+                      }}
+                    >
+                      Course Overview
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div className="card" style={{ width: "18rem" }}>
+                <div
+                  className="card-body"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "start",
+                  }}
+                >
+                  <p className="card-text" style={{ textAlign: "center" }}>
+                    FULL TIME
+                  </p>
+                  <h5
+                    className="card-title"
+                    style={{ fontWeight: "bold", marginLeft: "-50px" }}
+                  >
+                    BCA GENERAL
+                  </h5>
+                </div>
+                <ul
+                  className="list-group list-group-flush"
+                  style={{ listStyle: "none" }}
+                >
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Duration: 3 Years
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Total Avg.fees: 1.34L
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    college: 4901
+                  </li>
+                </ul>
+                <div className="card-body">
+                  <a
+                    href="#"
+                    className="card-link"
+                    style={{ textDecoration: "none" }}
+                  >
+                    <div
+                      className="box"
+                      style={{
+                        border: "1px solid black",
+                        padding: "5px",
+                        backgroundColor: "#ff7900",
+                        color: "white",
+                      }}
+                    >
+                      Course Overview
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div className="card" style={{ width: "18rem" }}>
+                <div
+                  className="card-body"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "start",
+                  }}
+                >
+                  <p className="card-text" style={{ textAlign: "center" }}>
+                    FULL TIME
+                  </p>
+                  <h5
+                    className="card-title"
+                    style={{ fontWeight: "bold", marginLeft: "-50px" }}
+                  >
+                    B.A GENERAL
+                  </h5>
+                </div>
+                <ul
+                  className="list-group list-group-flush"
+                  style={{ listStyle: "none" }}
+                >
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Duration: 3 Years
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Total Avg.fees: 41.59k
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    college: 3894
+                  </li>
+                </ul>
+                <div className="card-body">
+                  <a
+                    href="#"
+                    className="card-link"
+                    style={{ textDecoration: "none" }}
+                  >
+                    <div
+                      className="box"
+                      style={{
+                        border: "1px solid black",
+                        padding: "5px",
+                        backgroundColor: "#ff7900",
+                        color: "white",
+                      }}
+                    >
+                      Course Overview
+                    </div>
+                  </a>
+                </div>
+              </div>
+
+              <div className="card" style={{ width: "18rem" }}>
+                <div
+                  className="card-body"
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    alignItems: "start",
+                  }}
+                >
+                  <p className="card-text" style={{ textAlign: "center" }}>
+                    FULL TIME
+                  </p>
+                  <h5
+                    className="card-title"
+                    style={{ fontWeight: "bold", marginLeft: "-50px" }}
+                  >
+                    B'TECH [ME]
+                  </h5>
+                </div>
+                <ul
+                  className="list-group list-group-flush"
+                  style={{ listStyle: "none" }}
+                >
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Duration: 4 Years
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    Total Avg.fees: 3.50L
+                  </li>
+                  <li
+                    className="list-group-item"
+                    style={{ fontWeight: "bold" }}
+                  >
+                    college: 3522
+                  </li>
+                </ul>
+                <div className="card-body">
+                  <a
+                    href="#"
+                    className="card-link"
+                    style={{ textDecoration: "none" }}
+                  >
+                    <div
+                      className="box"
+                      style={{
+                        border: "1px solid black",
+                        padding: "5px",
+                        backgroundColor: "#ff7900",
+                        color: "white",
+                      }}
+                    >
+                      Course Overview
+                    </div>
+                  </a>
+                </div>
+              </div>
+              {/* Other card items */}
             </ul>
-            <div className="card-body">
-              <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
-                <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
-              </a>
-            </div>
-            </div>
-
-            <div className="card" style={{ width: '18rem' }}>
-      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
-        <p className="card-text" style={{ textAlign: 'center' }}>
-          FULL TIME
-        </p>
-        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>BCA GENERAL</h5>
-      </div>
-      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 1.34L</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 4901</li>
-      </ul>
-      <div className="card-body">
-        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
-          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
-        </a>
-      </div>
-            </div>
-
-            <div className="card" style={{ width: '18rem' }}>
-      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
-        <p className="card-text" style={{ textAlign: 'center' }}>
-          FULL TIME
-        </p>
-        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B.A GENERAL</h5>
-      </div>
-      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 3 Years</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 41.59k</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 3894</li>
-      </ul>
-      <div className="card-body">
-        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
-          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
-        </a>
-      </div>
-            </div>
- 
-            <div className="card" style={{ width: '18rem' }}>
-      <div className="card-body" style={{ display: 'flex', flexDirection: 'column', alignItems: 'start' }}>
-        <p className="card-text" style={{ textAlign: 'center' }}>
-          FULL TIME
-        </p>
-        <h5 className="card-title" style={{ fontWeight: 'bold', marginLeft: '-50px' }}>B'TECH [ME]</h5>
-      </div>
-      <ul className="list-group list-group-flush" style={{ listStyle: 'none' }}>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Duration: 4 Years</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>Total Avg.fees: 3.50L</li>
-        <li className="list-group-item" style={{ fontWeight: 'bold' }}>college: 3522</li>
-      </ul>
-      <div className="card-body">
-        <a href="#" className="card-link" style={{ textDecoration: 'none' }}>
-          <div className="box" style={{ border: '1px solid black', padding: '5px', backgroundColor: '#ff7900', color: 'white' }}>Course Overview</div>
-        </a>
-      </div>
-            </div>
-            {/* Other card items */}
-          </ul>
           </div>
         </div>
       </section>
       <br />
 
       {/* Search from 30k course finder poster */}
-      {/*<div
+      <div
         className="course-finder-banner pointer py-9"
         style={{ textAlign: "center" }}
       >
@@ -7534,1507 +8069,1498 @@ function Home() {
           />
         </a>
       </div>
-      <br />*/}
+      <br />
 
       {/*Top Exams */}
       <div className="container1">
         <h2 className="text">Top Exams</h2>
         <br />
-        <div className="jsx-3399163233 jsx-600450678 container1" style={{ overflowX: "auto" }}>
+        <div
+          className="jsx-3399163233 jsx-600450678 container1"
+          style={{ overflowX: "auto" }}
+        >
           <div
             className="slick-slider carousel-control fluid-height-carousel slick-initialized"
-            
             dir="ltr"
           >
-            <div className="slick-list">
+            <ul className="cards12">
               <div
-                className="slick-track"
-                style={{
-                  width: 2960,
-                  opacity: 1,
-                  transform: "translate3d(0px, 0px, 0px)",
-                }}
+                data-index={0}
+                className="slick-slide slick-active slick-current"
+                tabIndex={-1}
+                aria-hidden="false"
+                style={{ outline: "none", width: 296 }}
               >
-                <div
-                  data-index={0}
-                  className="slick-slide slick-active slick-current"
-                  tabIndex={-1}
-                  aria-hidden="false"
-                  style={{ outline: "none", width: 296 }}
-                >
-               
-                  <div >
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="NEET"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="NEET"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/neet"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/neet"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/NTA- Logo.png?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/NTA- Logo.png?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Offline Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              NEET
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              819
-                            </p>
-                          </div>
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="NEET"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="NEET"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/neet"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/neet"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/NTA- Logo.png?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/NTA- Logo.png?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
                         </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Offline Exam
                           </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              May 04, 2024
-                            </p>
-                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            NEET
+                          </h3>
                         </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
                         </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/neet/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/neet/application-process"
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            819
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            May 04, 2024
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/neet/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/neet/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
                             >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/neet"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/neet"
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/neet"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/neet"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
                             >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-
-                <div
-                  data-index={1}
-                  className="slick-slide slick-active"
-                  tabIndex={-1}
-                  aria-hidden="false"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="JEE Main"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="JEE Main"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/jee-main"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/jee-main"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/2019-01-09.png?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/2019-01-09.png?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              JEE Main
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              1683
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              January 23, 2024
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/jee-main/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/jee-main/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/jee-main"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/jee-main"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={2}
-                  className="slick-slide slick-active"
-                  tabIndex={-1}
-                  aria-hidden="false"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="CAT"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="CAT"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/cat"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/cat"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/CAT logo.jpg?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/CAT logo.jpg?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              CAT
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              1434
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              November 25, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/cat/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/cat/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/cat"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/cat"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={3}
-                  className="slick-slide slick-active"
-                  tabIndex={-1}
-                  aria-hidden="false"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="JEE Advanced"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="JEE Advanced"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/jee-advanced"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/jee-advanced"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/gatellogo.png?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/gatellogo.png?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              JEE Advanced
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              45
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              June 03, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/jee-advanced/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/jee-advanced/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/jee-advanced"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/jee-advanced"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={4}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="GATE"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="GATE"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/gate"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/gate"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/iit kanpur logo.jpg?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/iit kanpur logo.jpg?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              GATE
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              1364
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              January 02, 2024
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/gate/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/gate/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/gate"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/gate"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={5}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="NMAT"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="NMAT"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/nmat"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/nmat"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/Capture.JPG?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/Capture.JPG?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              NMAT
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              117
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              November 30, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/nmat/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/nmat/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/nmat"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/nmat"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={6}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="MAT"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="MAT"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/mat"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/mat"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/MAT Exam Logo.jpg?h=44&w=44&mode=stretch"
-                              src="https://images.collegedunia.com/public/college_data/images/logos/MAT Exam Logo.jpg?h=44&w=44&mode=stretch"
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online + Offline Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              MAT
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              1298
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              September 02, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/mat/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/mat/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/mat"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/mat"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={7}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="XAT"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="XAT"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/xat"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/xat"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/XAT_0.jpg?h=44&w=44&mode=stretch"
-                              src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle clgdn_lazyload"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              XAT
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              834
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              January 06, 2024
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/xat/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/xat/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/xat"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/xat"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={8}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="BITSAT"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="BITSAT"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/bitsat"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/bitsat"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/BITS Pilani Logo.png?h=44&w=44&mode=stretch"
-                              src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle clgdn_lazyload"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              BITSAT
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              5
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              June 17, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/bitsat/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/bitsat/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/bitsat"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/bitsat"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-                <div
-                  data-index={9}
-                  className="slick-slide"
-                  tabIndex={-1}
-                  aria-hidden="true"
-                  style={{ outline: "none", width: 296 }}
-                >
-                  <div>
-                    <div className="jsx-600450678 ">
-                      <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="IIT JAM"
-                          data-event-type="link_click"
-                          data-section_name="Top Exams"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="IIT JAM"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Exams"
-                          data-ga-href="exams/iit-jam"
-                          className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
-                          href="/exams/iit-jam"
-                        >
-                          <div className="jsx-600450678 exam-img mr-3">
-                            <img
-                              data-src="https://images.collegedunia.com/public/college_data/images/logos/IIT Kharagur Logo.png?h=44&w=44&mode=stretch"
-                              src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
-                              alt=""
-                              height="44px"
-                              className="jsx-2173310127 rounded-circle clgdn_lazyload"
-                            />
-                          </div>
-                          <div className="jsx-600450678">
-                            <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
-                              Online Exam
-                            </div>
-                            <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
-                              IIT JAM
-                            </h3>
-                          </div>
-                        </a>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Participating Colleges
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              50
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col pr-1">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Date
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right pl-1">
-                            <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              {" "}
-                              February 11, 2023
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 row">
-                          <div className="jsx-600450678 col">
-                            <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
-                              Exam Level
-                            </p>
-                          </div>
-                          <div className="jsx-600450678 col-auto text-right">
-                            <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
-                              national
-                            </p>
-                          </div>
-                        </div>
-                        <div className="jsx-600450678 fluid-height-footer-divider double" />
-                        <div className="jsx-600450678 fluid-height-footer double">
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Application Process"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Application Process"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/iit-jam/application-process"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/iit-jam/application-process"
-                            >
-                              Application Process
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                          <div className="jsx-600450678">
-                            <hr className="jsx-600450678 mt-2 mb-2" />
-                            <a
-                              data-csm-track="true"
-                              data-csm-title="Exam Info"
-                              data-event-type="link_click"
-                              data-section_name="Top Exams"
-                              data-csm-href="https://collegedunia.com/"
-                              data-ga-title="Exam Info"
-                              data-ga-track="true"
-                              data-ga-module="homepage"
-                              data-ga-section="Top Exams"
-                              data-ga-href="exams/iit-jam"
-                              className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
-                              href="/exams/iit-jam"
-                            >
-                              Exam Info
-                              <svg
-                                fill="#666"
-                                xmlns="http://www.w3.org/2000/svg"
-                                width="451.846"
-                                height="451.847"
-                                viewBox="0 0 451.846 451.847"
-                                xmlSpace="preserve"
-                                style={{ width: 10, height: 10 }}
-                              >
-                                <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                              </svg>
-                            </a>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                
               </div>
-            </div>
+
+              <div
+                data-index={1}
+                className="slick-slide slick-active"
+                tabIndex={-1}
+                aria-hidden="false"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="JEE Main"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="JEE Main"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/jee-main"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/jee-main"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/2019-01-09.png?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/2019-01-09.png?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            JEE Main
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            1683
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            January 23, 2024
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/jee-main/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/jee-main/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/jee-main"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/jee-main"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={2}
+                className="slick-slide slick-active"
+                tabIndex={-1}
+                aria-hidden="false"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="CAT"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="CAT"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/cat"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/cat"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/CAT logo.jpg?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/CAT logo.jpg?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            CAT
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            1434
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            November 25, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/cat/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/cat/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/cat"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/cat"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={3}
+                className="slick-slide slick-active"
+                tabIndex={-1}
+                aria-hidden="false"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="JEE Advanced"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="JEE Advanced"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/jee-advanced"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/jee-advanced"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/gatellogo.png?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/gatellogo.png?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            JEE-Ad
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            45
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            June 03, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/jee-advanced/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/jee-advanced/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/jee-advanced"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/jee-advanced"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={4}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="GATE"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="GATE"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/gate"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/gate"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/iit kanpur logo.jpg?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/iit kanpur logo.jpg?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            GATE
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            1364
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            January 02, 2024
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/gate/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/gate/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/gate"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/gate"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={5}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="NMAT"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="NMAT"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/nmat"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/nmat"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/Capture.JPG?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/Capture.JPG?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            NMAT
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            117
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            November 30, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/nmat/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/nmat/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/nmat"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/nmat"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={6}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="MAT"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="MAT"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/mat"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/mat"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/MAT Exam Logo.jpg?h=44&w=44&mode=stretch"
+                            src="https://images.collegedunia.com/public/college_data/images/logos/MAT Exam Logo.jpg?h=44&w=44&mode=stretch"
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle ls-is-cached lazyloaded"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online + Offline Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            MAT
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            1298
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            September 02, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/mat/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/mat/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/mat"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/mat"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={7}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="XAT"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="XAT"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/xat"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/xat"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/XAT_0.jpg?h=44&w=44&mode=stretch"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle clgdn_lazyload"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            XAT
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            834
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            January 06, 2024
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/xat/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/xat/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/xat"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/xat"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={8}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="BITSAT"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="BITSAT"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/bitsat"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/bitsat"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/BITS Pilani Logo.png?h=44&w=44&mode=stretch"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle clgdn_lazyload"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            BITSAT
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            5
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            June 17, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/bitsat/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/bitsat/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/bitsat"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/bitsat"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div
+                data-index={9}
+                className="slick-slide"
+                tabIndex={-1}
+                aria-hidden="true"
+                style={{ outline: "none", width: 296 }}
+              >
+                <div>
+                  <div className="jsx-600450678 ">
+                    <div className="jsx-600450678 selected1-box position-relative h-100 selected1-box-sm-185 bg-white rounded-lg">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="IIT JAM"
+                        data-event-type="link_click"
+                        data-section_name="Top Exams"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="IIT JAM"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Exams"
+                        data-ga-href="exams/iit-jam"
+                        className="jsx-600450678 d-flex align-items-center mb-lg-1 mb-12"
+                        href="/exams/iit-jam"
+                      >
+                        <div className="jsx-600450678 exam-img mr-3">
+                          <img
+                            data-src="https://images.collegedunia.com/public/college_data/images/logos/IIT Kharagur Logo.png?h=44&w=44&mode=stretch"
+                            src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw=="
+                            alt=""
+                            height="44px"
+                            className="jsx-2173310127 rounded-circle clgdn_lazyload"
+                          />
+                        </div>
+                        <div className="jsx-600450678">
+                          <div className="jsx-600450678 d-inline-flex align-items-center justify-content-center selected1-box-badge mb-1">
+                            Online Exam
+                          </div>
+                          <h3 className="jsx-600450678 color-base hover-color-primary selected1-box-title selected1-box-title-md mb-0">
+                            IIT JAM
+                          </h3>
+                        </div>
+                      </a>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Participating Colleges
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            50
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col pr-1">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Date
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right pl-1">
+                          <p className="jsx-600450678 selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            {" "}
+                            February 11, 2023
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 row">
+                        <div className="jsx-600450678 col">
+                          <p className="jsx-600450678 selected1-box-line mb-8p mb-lg-1">
+                            Exam Level
+                          </p>
+                        </div>
+                        <div className="jsx-600450678 col-auto text-right">
+                          <p className="jsx-600450678 text-capitalize selected1-box-line font-weight-bold color-base mb-lg-3 mb-8p mb-lg-1">
+                            national
+                          </p>
+                        </div>
+                      </div>
+                      <div className="jsx-600450678 fluid-height-footer-divider double" />
+                      <div className="jsx-600450678 fluid-height-footer double">
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Application Process"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Application Process"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/iit-jam/application-process"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/iit-jam/application-process"
+                          >
+                            Application Process
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                        <div className="jsx-600450678">
+                          <hr className="jsx-600450678 mt-2 mb-2" />
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="Exam Info"
+                            data-event-type="link_click"
+                            data-section_name="Top Exams"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="Exam Info"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Exams"
+                            data-ga-href="exams/iit-jam"
+                            className="jsx-600450678 d-flex font-weight-semi color-base selected1-box-line align-items-center justify-content-between hover-color-primary"
+                            href="/exams/iit-jam"
+                          >
+                            Exam Info
+                            <svg
+                              fill="#666"
+                              xmlns="http://www.w3.org/2000/svg"
+                              width="451.846"
+                              height="451.847"
+                              viewBox="0 0 451.846 451.847"
+                              xmlSpace="preserve"
+                              style={{ width: 10, height: 10 }}
+                            >
+                              <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                            </svg>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </ul>
           </div>
         </div>
       </div>
       <br />
 
       {/* Study Abroad */}
-      <div className="container2">
+      <div className="container2" style={{marginLeft: '63px'}}>
         <h2 className="text">Study Abroad</h2>
         <br />
 
@@ -12285,7 +12811,7 @@ function Home() {
               Top Courses
             </h2>
             <MDBContainer>
-              <MDBRow className="row-cols-2 row-cols-lg-5 g-2 g-lg-3">
+              <MDBRow className="row-cols-2 row-cols-lg-5 g-2 g-lg-3" style={{ margin: "-2px 17px" }}>
                 <MDBCol>
                   <div className="jsx-2656711077 pills-item">
                     <a
@@ -12322,7 +12848,7 @@ function Home() {
                   </div>
                 </MDBCol>
                 <MDBCol>
-                  <div className="p-3">
+                  <div className="p-3" style={{ padding: "8px" }}>
                     <div className="button-container">
                       <a
                         data-csm-track="true"
@@ -12366,7 +12892,7 @@ function Home() {
                         data-csm-title="B.Sc"
                         data-event-type="link_click"
                         data-section_name="Top Courses"
-                        data-csm-href="https://collegedunia.com/"
+                        data-csm-href="/courses/bsc"
                         data-ga-title="B.Sc"
                         data-ga-track="true"
                         data-ga-module="homepage"
@@ -13166,7 +13692,6 @@ function Home() {
           </div>
         </div>
       </section>
-
     </div>
   );
 }

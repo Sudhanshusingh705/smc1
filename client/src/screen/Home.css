@@ -119,25 +119,6 @@ h2 {
 div {
   display: block;
 }
-/*PREVIOUS NAD NEXT BUTTON*/
-a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-.previous {
-  background-color: #e08a11;
-  color: black;
-}
-
-.next {
-  background-color: #e08a11;
-  color: white;
-}
-
-.round {
-  border-radius: 50%;
-}
 
 /*text hover*/
 a {
@@ -176,10 +157,6 @@ a {
   background-size: cover;
 }
 
-/* .cards00::-webkit-scrollbar-thumb { */
-  /* background: var(--darkorange); */
-/* } */
-
 .card00 .card00-title {
   font-size: 25px;
 }
@@ -198,10 +175,8 @@ a {
   display: inline-block;
   text-decoration: none;
   color: white;
-  /* background: var(--orange); */
   padding: 6px 12px;
   border-radius: 8px;
-  /* transition: background 0.2s; */
 }
 
 .cards00::-webkit-scrollbar {
@@ -334,27 +309,12 @@ body {
   transition: background-color 0.2s ease-in-out;
 }
 
-/* .read-more-button:hover { */
-/* background-color: #0056b3;  */
-/* } */
-
 /* 5 Cards in each row */
 .card-top-collection {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
 }
-
-/* .img-overlay{ */
-/* width: 100%; */
-/* height: 100%; */
-/* max-width: 227.2px; */
-/* background: linear-gradient(180deg,#eef4f9 0%,rgba(252, 246, 246, 0.4) 42.8%,rgba(0,0,0,0.9) 100%); */
-/* position: absolute; */
-/* z-index: 1; */
-/* top: 0px; */
-/* left: 0px; */
-/* } */
 
 .card-top {
   flex: 0 0 calc(20% - 20px);
@@ -365,18 +325,9 @@ body {
   padding-top: 5px;
   padding-bottom: 5px;
   border-radius: 10px;
-  /* box-shado  w: 0 15px 25px rgba(129, 124, 124, 0.2); */
-  /* border: 2px solid rgba(255, 254, 254, 0.2); */
-  /* box-sizing: border-box; */
-  /* width: 50%; */
-  /* height: 80%; */
-  /* max-width: 227.2px; */
   max-height: fit-content;
   max-height: fit-content;
-
-  /* background: linear-gradient(180deg,rgba(242, 144, 224, 0) 0%,rgba(0,0,0,0.4) 42.8%,rgba(0,0,0,0.9) 100%); */
   position: absolute;
-  /* z-index: 1; */
   top: 0px;
   left: 0px;
 }
@@ -393,7 +344,6 @@ body {
   left: 0;
   width: 100%;
   height: 30%; /* Adjust this value to control the height of the overlay */
-  /* background-color: rgba(0, 0, 0, 0.5);*/
 }
 
 .card-top img {
@@ -649,12 +599,6 @@ body {
   margin-top: 251px;
 }
 
-/* .avatar img { */
-/* width: 100%; */
-/* height: 100%; */
-/* object-fit: cover; */
-/* } */
-
 /* To place the heading at the top-left corner */
 .MDBCardTitle {
   position: absolute;
@@ -877,82 +821,6 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* @media (min-width: 992px) { */
-/* } */
-/*  */
-/* /~  dummmy  ~/ */
-/* .section-control-inner.jsx-249750319 { */
-  /* background: #fce9d2; */
-  /* border-bottom: 1 solid #f8f8f8; */
-  /* border-radius: 90px; */
-/* } */
-/* .align-items-center { */
-  /* -webkit-box-align: center; */
-  /* -ms-flex-align: center; */
-  /* align-items: center; */
-/* } */
-/* .d-flex { */
-  /* display: flex; */
-/* } */
-/*  */
-/* *, */
-/* *::before, */
-/* *::after { */
-  /* box-sizing: border-box; */
-/* } */
-/*  */
-/* body { */
-  /* margin: 0; */
-  /* font-size: 0.875rem; */
-  /* font-weight: 400; */
-  /* line-height: 1.3; */
-  /* color: #333; */
-  /* text-align: left; */
-  /* background-color: #fff; */
-  /* min-width: 1300px; */
-  /* overflow-x: auto !important; */
-/* } */
-/*  */
-/* html { */
-  /* -webkit-text-size-adjust: 100%; */
-  /* -webkit-tap-highlight-color: rgba(0, 0, 0, 0); */
-/* } */
-/*  */
-/* /~ Add these styles to increase the size of the box ~/ */
-/* .section-control-inner.jsx-249750319 { */
-  /* height: 118px; /~ Increase the height as desired ~/ */
-  /* padding: 52px; */
-  /* margin: 240px; */
-  /* margin-top: auto; */
-  /* margin-bottom: auto; /~ Add some padding to create space inside the box ~/ */
-/* } */
-/*  */
-/* /~ Center the button horizontally ~/ */
-/* .cta { */
-  /* display: block; */
-  /* margin: 0 auto; */
-/* } */
-/*  */
-/* /~ Adjust the font size and other styles to make the text and button fit better ~/ */
-/* .heading { */
-  /* font-size: 1.5rem; */
-  /* margin-bottom: 10px; */
-/* } */
-/*  */
-/* /~ Optional: You can add additional styling to the button if needed ~/ */
-/* .cta { */
-  /* padding: 15px 62px; */
-  /* border-radius: 4px; */
-  /* background-color: #ff7900; */
-  /* color: #333; */
-  /* text-decoration: none; */
-  /* font-weight: bold; */
-/* } */
-/*  */
-/* .cta:hover { */
-  /* background-color: #ffcd80; */
-/* } */
-/*  */
 /*Top Study Places*/
 
 :root {
@@ -1011,7 +879,6 @@ body {
 
 .card4:hover {
   color: var(--white);
-  /* background: var(--orange); */
 }
 
 .card4 .card4-title {
@@ -1031,7 +898,6 @@ body {
   display: inline-block;
   text-decoration: none;
   color: white;
-  /* background: var(--orange); */
   padding: 6px 12px;
   border-radius: 8px;
   transition: background 0.2s;
@@ -1071,8 +937,6 @@ body {
   }
 }
 
-/* */
-
 /* Add this CSS to center the image and remove text styles */
 .card4 {
   position: relative;
@@ -1093,8 +957,6 @@ body {
 .card4-content {
   display: none; /* Hide the text area */
 }
-
-/* Rest of your existing CSS styles for the card */
 
 /*Explore Program*/
 :root {
@@ -1300,7 +1162,6 @@ body {
   flex-direction: column;
   padding: 20px;
   background: transparent;
-  /* background: var(--white); */
   border-radius: 12px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
   scroll-snap-align: start;
@@ -1387,7 +1248,6 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-/*------------------- */
 /* Apply styles to the container to fix the row layout */
 
 /* Style the individual cards (select-box) */
@@ -1405,7 +1265,6 @@ html {
   font-size: 32px;
 }
 
-/*---------------------*/
 .button1-row {
   display: flex;
 }
@@ -1420,7 +1279,6 @@ html {
   cursor: pointer;
 }
 
-/*-------------*/
 .button2-row {
   display: flex;
   flex-direction: row;
@@ -1442,7 +1300,92 @@ html {
 }
 
 /* ----------TOP EXAMS----------- */
+/*NEW CODE CSS */
+.cards12 {
+  display: grid;
+  grid-auto-columns: 100%;
+  grid-column-gap: 10px;
+  grid-auto-flow: column;
+  padding: 25px 0px;
+  list-style: none;
+  overflow-x: scroll;
+  -ms-scroll-snap-type: x mandatory;
+  scroll-snap-type: x mandatory;
+}
 
+.card12 {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  background: var(--white);
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 15%);
+  scroll-snap-align: start;
+  transition: all 0.2s;
+}
+
+.card12 .card12-title {
+  font-size: 20px;
+}
+
+.card12 .card12-content {
+  margin: 20px 0;
+  max-width: 85%;
+}
+
+.card12 .card12-link-wrapper {
+  margin-top: auto;
+}
+
+.card12 .card12-link {
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  background: var(--orange);
+  padding: 6px 12px;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+
+.cards12::-webkit-scrollbar {
+  height: 12px;
+}
+
+.cards12::-webkit-scrollbar-thumb,
+.cards12::-webkit-scrollbar-track {
+  border-radius: 92px;
+}
+
+.cards12::-webkit-scrollbar-thumb {
+  background: var(--darkorange);
+}
+
+.cards12::-webkit-scrollbar-track {
+  background: var(--thumb);
+}
+
+@media (min-width: 500px) {
+  .cards12 {
+    grid-auto-columns: calc(50% - 10px);
+    grid-column-gap: 20px;
+  }
+}
+
+@media (min-width: 700px) {
+  .cards12 {
+    grid-auto-columns: calc(calc(100% / 3) - 20px);
+    grid-column-gap: 30px;
+  }
+}
+
+@media (min-width: 1100px) {
+  .cards12 {
+    grid-auto-columns: calc(25% - 30px);
+    grid-column-gap: 40px;
+  }
+}
+
+/**/
 .container1 {
   width: 100%;
   padding-right: 15px;
@@ -1920,6 +1863,10 @@ h2 {
   margin-bottom: 1em;
 }
 
+.card4 {
+  /* width: 150px; Adjust the width to your desired value */
+  height: auto; /* Let the height adjust automatically based on content */
+}
 .cards4 {
   display: grid;
   grid-auto-columns: 100%;
@@ -2293,9 +2240,7 @@ button:not(:disabled),
   color: #fff;
   outline: none;
 }
-/* button, [type=button], [type=reset], [type=submit] { */
-/* -webkit-appearance: button; */
-/* } */
+
 button,
 select {
   text-transform: none;
@@ -2394,8 +2339,6 @@ select {
   text-align: start;
   box-sizing: border-box;
   align-items: center;
-  /* white-space-collapse: preserve; */
-  /* text-wrap: nowrap; */
   -webkit-rtl-ordering: logical;
   background-color: field;
   cursor: default;
@@ -2412,18 +2355,11 @@ body {
 }
 
 .navbar {
-  /* background-color: rgba(0, 0, 0, 0.5); Add transparency to the navbar */
   position: absolute;
   top: -600px;
   left: 0;
   width: 100%;
 }
-
-/* .rightnav-container { */
-/* display: flex; */
-/* justify-content: flex-end; */
-/*  */
-/* } */
 
 .subnavbar {
   position: absolute;
@@ -2465,12 +2401,6 @@ body {
   width: 100%;
   height: 198%;
 }
-/* .rightnavbar{ */
-/* position: absolute; */
-/* top:-500px; */
-/* left: 0; */
-/* width: 100%; */
-/* } */
 
 .navbar ul {
   list-style-type: none;
@@ -2727,8 +2657,6 @@ form.example::after {
 }
 
 .buttons-container button {
-  /* margin-bottom: 10px; */
-  /* margin-left: 700px; */
   margin: 8px 0;
   padding: 9px 36px;
   border-radius: 10px;
@@ -2741,9 +2669,6 @@ form.example::after {
 /* Home.css or your custom CSS file */
 .logo-container {
   margin-right: 15px;
-  /* position: absolute; */
-  /* bottom: 50px; */
-  /* left: 20px; */
 }
 
 .logo-image {
@@ -2762,10 +2687,6 @@ form.example::after {
   display: flex;
   align-items: center;
 }
-
-/* .example input[type="text"] { */
-/* /~ Add styles as needed for the search input ~/ */
-/* } */
 
 .example button {
   margin-left: 630px;
@@ -4159,9 +4080,6 @@ button:not(:disabled),
 .bg-transparent {
   background-color: transparent;
 }
-/* button, [type=button], [type=reset], [type=submit] { */
-/* -webkit-appearance: button; */
-/* } */
 button,
 select {
   text-transform: none;
@@ -4934,9 +4852,6 @@ div {
   }
 }
 
-
-
-
 /*TOP 10 COLLEGES BUTTONS CSS*/
 /* YourComponent.css */
 
@@ -4980,15 +4895,13 @@ div {
 
 .scroll-container::-webkit-scrollbar {
   height: 13px;
-  width: 2px; 
+  width: 2px;
 }
 
 .scroll-container::-webkit-scrollbar-thumb {
-  background-color: #Fd9940; 
-  border-radius: 2px; 
+  background-color: #fd9940;
+  border-radius: 2px;
 }
-
-
 
 /*EXPLORE COURSES CARDS SIZE DESCRESE*/
 /* Custom styling for the card */
@@ -5022,4 +4935,122 @@ div {
   /* Other styles */
 }
 
-/* Adjust other elements as needed */
+/*KNOW YOUR CHANCE OF ADDMISSION*/
+.section-control-inner001 {
+  background: #fce9d2;
+  border-bottom: 1px solid #f8f8f8;
+  border-radius: 50px;
+  height: 134px; /* Set the desired height */
+  width: 958px;
+  margin: 0 auto; /* Center the section horizontally */
+  display: flex;
+  justify-content: space-between; /* Distribute space between content and image */
+  align-items: center;
+  padding: 20px;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  max-width: 100px; /* Adjust the image size as needed */
+}
+
+.content {
+  text-align: left;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-left: -28px;
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 30px; /* Adjust the button padding */
+  border-radius: 4px;
+  background-color: #ff7900;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-right: -345px; /* Adjust the negative margin */
+}
+
+.cta:hover {
+  background-color: #ffcd80;
+}
+
+/*SUBSRIBE FOR REGULAR ALERT*/
+.section-control-inner002 {
+  background: #fce9d2;
+  border-bottom: 1px solid #f8f8f8;
+  border-radius: 50px;
+  height: 134px; /* Set the desired height */
+  width: 958px;
+  margin: 0 auto; /* Center the section horizontally */
+  display: flex;
+  justify-content: space-between; /* Distribute space between content and image */
+  align-items: center;
+  padding: 20px;
+}
+
+.image-container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  max-width: 100px; /* Adjust the image size as needed */
+}
+
+.content {
+  text-align: left;
+}
+
+.heading {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  margin-top: 30px;
+  margin-left: -28px;
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 30px; /* Adjust the button padding */
+  border-radius: 4px;
+  background-color: #ff7900;
+  color: #333;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+  margin-right: -345px; /* Adjust the negative margin */
+}
+
+.cta:hover {
+  background-color: #ffcd80;
+}
+
+/*search 30k course finder*/
+.course-finder-banner {
+  text-align: center;
+  padding: 20px;
+  height: 134px; /* Set the desired height */
+  width: 958px;
+}
+
+.course-finder-banner a {
+  display: block;
+  text-decoration: none;
+}
+
+.course-finder-banner img {
+  height: 134px; /* Set the desired height */
+  width: 970px;
+  margin-left: 170px;
+  border-radius: 50px;
+}
