@@ -72,139 +72,106 @@ function Home() {
       <div className="container" style={{ marginTop: "-80px" }}>
         <h2 className="text">Select Your Study Goal</h2>
         <div
-          class="card-top-collection container"
-          // style={{
-          //   cursor: "pointer",
-          //   backgroundColor: "#F8F8F8",
-          //   backgroundImage:
-          //     "url(	https://searchmycolleges.com/wp-content/uploads/2023/05/bg-1.jpg )",
-          // }}
-        >
-          {/* <a href="#" className="previous round">
-            ‹
-          </a>
-          <a href="#" className="next round">
-            ›
-          </a>*/}
-          <ul className="cards00" style={{ background: "#F5F8F9" }}>
-            <li className="card00">
-              <div>
-                <div className="nowrap">
-                  <div className="circular-image colomn">
-                    <img src={engineer} height={40} alt="" />
-                  </div>
-                  <div className="colomn padding-card">
-                    <h3 className="card00-title">Engineering</h3>
-                    <p>6105 Colleges</p>
-                  </div>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">
-                    BE/B'Tech
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">
-                    ME/M.Tech
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/engineering">
-                    Diploma in Engineering
-                  </p>
-                </div>
+          class="card-top-collection container">
+          <ul className="cards00" style={{ background: "#F5F8F9"}}>
+          <li className="card00">
+          <div>
+            <div className="nowrap">
+              <div className="circular-image colomn">
+                <img src={engineer} height={40} alt="" />
               </div>
-            </li>
+              <div className="colomn padding-card">
+                <h3 className="card00-title">Engineering</h3>
+                <p>6105 Colleges</p>
+              </div>
+            </div>
+            <div className="card00-content">
+              <a className="hoverable-paragraph" href="/engineering" style={{textDecoration: 'none', color: 'black'}}>BE/B'Tech</a>
+            </div>
+            <div className="card00-content">
+              <a className="hoverable-paragraph" href="/engineering" style={{textDecoration: 'none', color: 'black'}}>ME/M.Tech</a>
+            </div>
+            <div className="card00-content">
+              <a className="hoverable-paragraph" href="/engineering" style={{textDecoration: 'none', color: 'black'}}>Diploma in Engineering</a>
+            </div>
+          </div>
+        </li>
+        
 
             <li className="card00">
-              <div>
-                <div className="nowrap">
-                  <div className="circular-image colomn">
-                    <img src={management} height={50} alt="" />
-                  </div>
-                  <div className="colomn padding-card">
-                    <h3 className="card00-title">Management</h3>
-                    <p>6105 Colleges</p>
-                  </div>
+            <div>
+              <div className="nowrap">
+                <div className="circular-image colomn">
+                  <img src={management} height={50} alt="" />
                 </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">
-                    MBA/PGDM
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">
-                    BBA/BBM
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/management">
-                    Executive MBA
-                  </p>
+                <div className="colomn padding-card">
+                  <h3 className="card00-title">Management</h3>
+                  <p>6105 Colleges</p>
                 </div>
               </div>
-            </li>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/management" style={{textDecoration: 'none', color: 'black'}}>MBA/PGDM</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/management" style={{textDecoration: 'none', color: 'black'}}>BBA/BBM</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/management" style={{textDecoration: 'none', color: 'black'}}>Executive MBA</a>
+              </div>
+            </div>
+          </li>
+
 
             <li className="card00">
-              <div>
-                <div className="nowrap">
-                  <div className="circular-image colomn">
-                    <img src={commerce} height={50} alt="" />
-                  </div>
-                  <div className="colomn padding-card">
-                    <h3 className="card00-title">Commerce</h3>
-                    <p>4731 Colleges</p>
-                  </div>
+            <div>
+              <div className="nowrap">
+                <div className="circular-image colomn">
+                  <img src={commerce} height={50} alt="" />
                 </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">
-                    B.COM
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">
-                    M.COM
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/commerce">
-                    MBA
-                  </p>
+                <div className="colomn padding-card">
+                  <h3 className="card00-title">Commerce</h3>
+                  <p>4731 Colleges</p>
                 </div>
               </div>
-            </li>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/commerce" style={{textDecoration: 'none', color: 'black'}}>B.COM</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/commerce" style={{textDecoration: 'none', color: 'black'}}>M.COM</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/commerce" style={{textDecoration: 'none', color: 'black'}}>MBA</a>
+              </div>
+            </div>
+          </li>
+
 
             <li className="card00">
-              <div>
-                <div className="nowrap">
-                  <div className="circular-image colomn">
-                    <img src={arts} height={50} alt="" />
-                  </div>
-                  <div className="colomn padding-card">
-                    <h3 className="card00-title">Arts</h3>
-                    <p>5318 Colleges</p>
-                  </div>
+            <div>
+              <div className="nowrap">
+                <div className="circular-image colomn">
+                  <img src={arts} height={50} alt="" />
                 </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">
-                    BA
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">
-                    MA
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/arts">
-                    BFA
-                  </p>
+                <div className="colomn padding-card">
+                  <h3 className="card00-title">Arts</h3>
+                  <p>5318 Colleges</p>
                 </div>
               </div>
-            </li>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/arts" style={{textDecoration: 'none', color: 'black'}}>BA</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/arts" style={{textDecoration: 'none', color: 'black'}}>MA</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/arts" style={{textDecoration: 'none', color: 'black'}}>BFA</a>
+              </div>
+            </div>
+          </li>
+
 
             <li className="card00">
-              <div>
+            <div>
                 <div className="nowrap">
                   <div className="circular-image colomn">
                     <img src={medical} height={50} alt="" />
@@ -215,52 +182,40 @@ function Home() {
                   </div>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">
-                    MBBS
-                  </p>
+                  <a className="hoverable-paragraph" href="/medical" style={{textDecoration: 'none', color: 'black'}}>MBBS</a>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">
-                    B.Pharma
-                  </p>
+                  <a className="hoverable-paragraph" href="/medical" style={{textDecoration: 'none', color: 'black'}}>B.Pharma</a>
                 </div>
                 <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/medical">
-                    B.Sc Nursing
-                  </p>
+                  <a className="hoverable-paragraph" href="/medical" style={{textDecoration: 'none', color: 'black'}}>B.Sc Nursing</a>
                 </div>
-              </div>
+            </div>
             </li>
+
 
             <li className="card00">
-              <div>
-                <div className="nowrap">
-                  <div className="circular-image colomn">
-                    <img src={design} height={50} alt="" />
-                  </div>
-                  <div className="colomn padding-card">
-                    <h3 className="card00-title">Design</h3>
-                    <p>1283 Colleges</p>
-                  </div>
+            <div>
+              <div className="nowrap">
+                <div className="circular-image colomn">
+                  <img src={design} height={50} alt="" />
                 </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">
-                    B.Des
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">
-                    M.Des
-                  </p>
-                </div>
-                <div className="card00-content">
-                  <p className="hoverable-paragraph" href="/design">
-                    BFA
-                  </p>
+                <div className="colomn padding-card">
+                  <h3 className="card00-title">Design</h3>
+                  <p>1283 Colleges</p>
                 </div>
               </div>
-            </li>
-
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/design" style={{textDecoration: 'none', color: 'black'}}>B.Des</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/design" style={{textDecoration: 'none', color: 'black'}}>M.Des</a>
+              </div>
+              <div className="card00-content">
+                <a className="hoverable-paragraph" href="/design" style={{textDecoration: 'none', color: 'black'}}>BFA</a>
+              </div>
+            </div>
+          </li>
             <li className="card00">
               <h3
                 className="card00-title text-center"

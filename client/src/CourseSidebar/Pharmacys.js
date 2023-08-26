@@ -3,6 +3,11 @@ import "./Pharmacys.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 
 const Pharmacys = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
     <h2

@@ -3,6 +3,11 @@ import "./MassCommunications.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 
 const MassCommunications = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
     <h2

@@ -3,6 +3,11 @@ import "./Medicals.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 
 const Medicals = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
     <h2

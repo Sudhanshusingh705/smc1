@@ -3,6 +3,11 @@ import "./Laws.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 
 const Laws = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
       <h2

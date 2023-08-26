@@ -2,6 +2,11 @@ import React, { useState } from "react";
 import "./Architectures.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 const Architectures = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
       <h2

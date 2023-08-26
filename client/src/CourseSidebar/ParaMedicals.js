@@ -3,6 +3,11 @@ import "./ParaMedicals.css";
 import "../components/TopcourseSidebar/CourseSidebar.css";
 
 const ParaMedicals = () => {
+  const [showContent, setShowContent] = useState(false);
+
+  const toggleContent = () => {
+    setShowContent(!showContent);
+  };
   return (
     <div>
     <h2
