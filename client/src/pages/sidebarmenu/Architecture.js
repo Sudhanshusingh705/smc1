@@ -3001,7 +3001,7 @@ const Architecture = () => {
                         data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore"
-                        style={{ textDecoration: 'none' }}
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -3012,11 +3012,11 @@ const Architecture = () => {
                             className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
                           />
                           <div className="jsx-485886256 snap-card-media-body">
-                            <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              IIM Bangalore - Indian Institute of Management 
+                            <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium" style={{textDecoration:'none'}}>
+                              IIT Kharagpur 
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Bangalore, Karnataka | AICTE, UGC
+                              Kharagpur, West Bengal
                             </p>
                           </div>
                         </div>
@@ -3039,13 +3039,14 @@ const Architecture = () => {
                               data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
+                              
                             >
-                              MBA/PGDM
+                             Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              24.50 Lacs
+                              10.60 LPA
                             </span>
                             &nbsp;Total Fees
                           </p>
@@ -3080,11 +3081,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial Express, Ranked 11 out
-                              of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                              Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                              Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                              out of 2000 CWUR
+                             IIT Kharagpur can be best known for its great academic...
                             </span>
                           </div>
                         </li>
@@ -3204,6 +3201,7 @@ const Architecture = () => {
                           data-ga-href="university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
                           className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                           href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
+                          style={{textDecoration: 'none'}}
                         >
                           <div className="jsx-485886256 mb-auto snap-card-media">
                             <img
@@ -3215,10 +3213,10 @@ const Architecture = () => {
                             />
                             <div className="jsx-485886256 snap-card-media-body">
                               <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                                IIT Madras - Indian Institute of Technology - [IITM]
+                                IIT Roorkee
                               </p>
                               <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                                Chennai, Tamil Nadu | AICTE
+                              Roorkee, Uttrakhand
                               </p>
                             </div>
                           </div>
@@ -3242,12 +3240,12 @@ const Architecture = () => {
                                 className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                                 href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                               >
-                                BE/B.Tech
+                                Architecture
                               </a>
                             </p>
                             <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                               <span className="jsx-485886256 color-blue-light font-weight-bold">
-                                2.10 Lacs
+                               4 LPA
                               </span>
                               &nbsp;First Year Fees
                             </p>
@@ -3282,11 +3280,7 @@ const Architecture = () => {
                           <li className="jsx-485886256 mb-1">
                             <div className="jsx-485886256 snap-card-overflow">
                               <span className="jsx-485886256 select-box-list-link text-nowrap">
-                                Ranked 1 out of 50 Financial Express, Ranked 11 out
-                                of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                                Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                                out of 2000 CWUR
+                              Academic Schedule at Indian Institute of Technology&nb...
                               </span>
                             </div>
                           </li>
@@ -3406,6 +3400,7 @@ const Architecture = () => {
                         data-ga-href="university/25777-chandigarh-university-cu-chandigarh"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25777-chandigarh-university-cu-chandigarh"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -3417,10 +3412,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              Chandigarh University - [CU]
+                              JAMLA MILLIA ISLAMIA (JMI)
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Chandigarh, Chandigarh | NCTE, AICTE
+                              Delhi, Delhi NCR 
                             </p>
                           </div>
                         </div>
@@ -3444,12 +3439,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25777-chandigarh-university-cu-chandigarh/bachelor-of-engineering-be-civil-engineering-1936"
                             >
-                              BE/B.Tech
+                             Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              1.96 Lacs
+                             45,750
                             </span>
                             &nbsp;First Year Fees
                           </p>
@@ -3484,11 +3479,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial Express,Ranked 11 out
-                              of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                              Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                              Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                              out of 2000 CWUR
+                            The faculty is very good at Jamia Millia Islamia Unive...
                             </span>
                           </div>
                         </li>
@@ -3608,6 +3599,7 @@ const Architecture = () => {
                         data-ga-href="college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -3619,11 +3611,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              Lexicon MILE - Management Institute of Leadership
-                              and Excellence
+                              JADAVPUR University
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Pune, Maharashtra | AICTE
+                              Kolkata, West Bengal
                             </p>
                           </div>
                         </div>
@@ -3647,12 +3638,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
                             >
-                              MBA/PGDM
+                              Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              8.90 Lacs
+                              54,000
                             </span>
                             &nbsp;Total Fees
                           </p>
@@ -3687,11 +3678,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial ,Ranked 11 out of 312
-                              NIRF Innovation, Ranked 1001 out of 1799 THE, Ranked
-                              384 out of 1400 QS, Ranked 8 out of 15 Outlook,
-                              Ranked 1106 out of 2000 US News, Ranked 937 out of
-                              2000 CWUR
+                            Jadavpur University Academics is full of relevant Subjects. The..
                             </span>
                           </div>
                         </li>
@@ -3814,6 +3801,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -3825,10 +3813,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        AMU 
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Aligarh, Uttar Pradesh
                       </p>
                     </div>
                   </div>
@@ -3852,12 +3840,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                      Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        13.47 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -3892,11 +3880,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      Good experience being in the college......
                       </span>
                     </div>
                   </li>
@@ -4016,6 +4000,7 @@ const Architecture = () => {
                       data-ga-href="university/55884-parul-university-vadodara"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/55884-parul-university-vadodara"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4027,10 +4012,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Parul University
+                            Vellore Institute of Technology
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Vadodara, Gujarat | AICTE, COA
+                            Vellore, Tamil Ndau
                           </p>
                         </div>
                       </div>
@@ -4054,12 +4039,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/55884-parul-university-vadodara/courses-fees?slug=bachelor-of-science-bsc&course_type=Full-Time"
                           >
-                            B.Sc
+                           Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            1.02 Lacs
+                            14.25 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -4094,10 +4079,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 44 out of 146 Indiatoday, Ranked 40 out of
-                            110 Outlook, Ranked 62 out of 101 TOI, Ranked 151
-                            out of 200 NIRF, Ranked 80 out of 171 IIRF, Ranked
-                            11 out of 312 NIRF Innovation
+                            
                           </span>
                         </div>
                       </li>
@@ -4217,6 +4199,7 @@ const Architecture = () => {
                       data-ga-href="university/25787-lovely-professional-university-lpu-jalandhar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25787-lovely-professional-university-lpu-jalandhar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4228,10 +4211,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lovely Professional University - [LPU]
+                            NIT Trichy
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Jalandhar, Punjab | NCTE, COA
+                            Trichuarppallli, Tamil Nadu
                           </p>
                         </div>
                       </div>
@@ -4255,12 +4238,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25787-lovely-professional-university-lpu-jalandhar/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.40 Lacs
+                            4.47 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -4295,11 +4278,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1 out of 50 Financial Express,Ranked 11 out
-                            of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                            Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          In this college professors are like what you’ll find in any o...
                           </span>
                         </div>
                       </li>
@@ -4419,6 +4398,7 @@ const Architecture = () => {
                       data-ga-href="university/17255-asbm-university-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/17255-asbm-university-bhubaneswar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -4430,10 +4410,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            ASBM University
+                            Anna University 
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Bhubaneswar, Orissa | AICTE, UGC
+                            Chennai, Tamil Nadu
                           </p>
                         </div>
                       </div>
@@ -4457,12 +4437,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/17255-asbm-university-bhubaneswar/courses-fees?slug=bachelor-of-business-administration-bba-hons&course_type=Full-Time"
                           >
-                            BBA/BBM
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            66.75 K
+                            2.14 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -4497,11 +4477,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1 out of 50 Financial Express,Ranked 11 out
-                            of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                            Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Subjects are very relevant to the course at Anna Unive...
                           </span>
                         </div>
                       </li>
@@ -4624,6 +4600,7 @@ const Architecture = () => {
                   data-ga-href="university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
+                  style={{textDecoration: 'none'}}          
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -4635,11 +4612,11 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        IIT Guwahati - Indian Institute of Technology -
-                        [IITG]
+                        IIT Varanasi (BHU)
+                       
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Guwahati, Assam | AICTE, UGC
+                        Varanasi, Uttar Pradesh
                       </p>
                     </div>
                   </div>
@@ -4663,12 +4640,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                       >
-                        BE/B.Tech
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.57 Lacs
+                        3.33 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -4703,11 +4680,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 7 out of 34 The Week, Ranked 9 out of 200
-                        NIRF, Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      IIT (BHU) Varanasi offers four-year instructional prog...
                       </span>
                     </div>
                   </li>
@@ -4827,6 +4800,7 @@ const Architecture = () => {
                         data-ga-href="university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -4838,11 +4812,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              All India Institute of Medical Sciences - [AIIMS] -
-                              [IITM]
+                              KIIT University
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              New Delhi, Delhi NCR | MCI, UGC
+                              Bhubaneswar, Odisha
                             </p>
                           </div>
                         </div>
@@ -4866,12 +4839,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                             >
-                              M.Sc (Medicine)
+                             Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              1.47 K
+                              11.09 LPA
                             </span>
                             &nbsp;First Year Fees
                           </p>
@@ -4906,9 +4879,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 6 out of 200 NIRF, Ranked 826 out of 2000 US
-                              News, Ranked 899 out of 2000 CWUR, Ranked 11 out of
-                              1000 ARWU
+                            Scholarships are provided to scholars. They are also presented ...
                             </span>
                           </div>
                         </li>
@@ -5028,6 +4999,7 @@ const Architecture = () => {
                       data-ga-href="university/25494-indian-institute-of-management-iima-ahmedabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25494-indian-institute-of-management-iima-ahmedabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5039,10 +5011,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Institute of Management - [IIMA]
+                            NIT Rourkela
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Ahmedabad, Gujarat | UGC
+                            Rourkela, Odisha
                           </p>
                         </div>
                       </div>
@@ -5066,12 +5038,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25494-indian-institute-of-management-iima-ahmedabad/post-graduate-programme-in-management-pgpm-1861"
                           >
-                            MBA/PGDM
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            24.61 Lacs
+                            6.25 LPA
                           </span>
                           &nbsp;Total Fees
                         </p>
@@ -5106,9 +5078,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 2 out of 50 Financial Express, Ranked 421 out
-                            of 2000 CWUR Ranked 8 out of 15 Outlook, Ranked 1106
-                            out of 2000 US News, Ranked 937 out of 2000 CWUR
+                          EVERYDAY THERE ARE FOUR THEORY CLASSES AND ONE PRACTIC...
                           </span>
                         </div>
                       </li>
@@ -5228,6 +5198,7 @@ const Architecture = () => {
                       data-ga-href="university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5239,11 +5210,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Post Graduate Institute of Medical Education &amp;
-                            Research - [PGIMER]
+                            Kerala University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Chandigarh, Chandigarh | INC, MCI
+                           Thiruvananthapuram, Kerala 
                           </p>
                         </div>
                       </div>
@@ -5267,12 +5237,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Medicine)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            6.44 K
+                           71,825
                           </span>
                           &nbsp;Total Fees
                         </p>
@@ -5307,11 +5277,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1060 out of 2000 US News, Ranked 1092 out of
-                            2000 CWUR, Ranked 1001 out of 1799 THE, Ranked 384
-                            out of 1400 QS, Ranked 8 out of 15 Outlook, Ranked
-                            1106 out of 2000 US News, Ranked 937 out of 2000
-                            CWUR
+                          Classes start at 9.30 A.M and goes on till 4.30 P.M. W...
                           </span>
                         </div>
                       </li>
@@ -5434,6 +5400,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -5445,10 +5412,12 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        
+                        IIEST Shibpur - 
+                        Indian Institute of Engineering Science and Technology
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Howrah, West Bengal
                       </p>
                     </div>
                   </div>
@@ -5472,12 +5441,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                       Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                       3.13 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -5512,11 +5481,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      IIEST Shibpur(erstwhile B.E. College, Shibpur) is an univers...
                       </span>
                     </div>
                   </li>
@@ -5636,6 +5601,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5647,10 +5613,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            Andhra University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Visakhapatnam, Andhra Pradesh
                           </p>
                         </div>
                       </div>
@@ -5674,12 +5640,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            7.97 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -5714,9 +5680,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                          The quality of teaching is good at Andhra Univers...
                           </span>
                         </div>
                       </li>
@@ -5836,6 +5800,7 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -5847,11 +5812,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            SRM University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Kanchipuram, Tamil Nadu
                           </p>
                         </div>
                       </div>
@@ -5875,12 +5839,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            7.88 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -5915,11 +5879,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          Academics are good at SRM University - [SRM], Kan..
                           </span>
                         </div>
                       </li>
@@ -6039,6 +5999,7 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6050,10 +6011,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                            VNIT Nagpur
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Nagpur, Maharashtra
                           </p>
                         </div>
                       </div>
@@ -6082,7 +6043,7 @@ const Architecture = () => {
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            6.85 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -6117,10 +6078,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Visvesaraya National Institute of Technology prov...
                           </span>
                         </div>
                       </li>
@@ -6280,13 +6238,15 @@ const Architecture = () => {
                         data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                        style={{textDecoration: 'none'}}
                       >
-                        BBA/BBM
+                        Sathyabama University
+                        Chennai, Tamil Nadu
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        7.03 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -6321,11 +6281,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      The quality and method of teaching is very poor in&nbs..
                       </span>
                     </div>
                   </li>
@@ -6445,6 +6401,7 @@ const Architecture = () => {
                       data-ga-href="university/55884-parul-university-vadodara"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/55884-parul-university-vadodara"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6456,10 +6413,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Parul University
+                            Gujrat University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Vadodara, Gujarat | AICTE, COA
+                           Gujarat, Ahemdabad
                           </p>
                         </div>
                       </div>
@@ -6483,12 +6440,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/55884-parul-university-vadodara/courses-fees?slug=bachelor-of-science-bsc&course_type=Full-Time"
                           >
-                            B.Sc
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            1.02 Lacs
+                            7.20 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -6523,10 +6480,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 44 out of 146 Indiatoday, Ranked 40 out of
-                            110 Outlook, Ranked 62 out of 101 TOI, Ranked 151
-                            out of 200 NIRF, Ranked 80 out of 171 IIRF, Ranked
-                            11 out of 312 NIRF Innovation
+                          The academic schedule is good at Gujarat University, A... 
                           </span>
                         </div>
                       </li>
@@ -6646,6 +6600,7 @@ const Architecture = () => {
                       data-ga-href="university/25787-lovely-professional-university-lpu-jalandhar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25787-lovely-professional-university-lpu-jalandhar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6657,10 +6612,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lovely Professional University - [LPU]
+                            MNIT Jaipur
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Jalandhar, Punjab | NCTE, COA
+                            Jaipur, Rajasthan
                           </p>
                         </div>
                       </div>
@@ -6684,12 +6639,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25787-lovely-professional-university-lpu-jalandhar/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.40 Lacs
+                            5.40 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -6724,11 +6679,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1 out of 50 Financial Express,Ranked 11 out
-                            of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                            Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Some of the professors are good at Malviya Nation..
                           </span>
                         </div>
                       </li>
@@ -6848,6 +6799,7 @@ const Architecture = () => {
                       data-ga-href="university/17255-asbm-university-bhubaneswar"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/17255-asbm-university-bhubaneswar"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -6859,10 +6811,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            ASBM University
+                            Kalasalingam University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Bhubaneswar, Orissa | AICTE, UGC
+                            Krishnakoli, Tamil Nadu
                           </p>
                         </div>
                       </div>
@@ -6886,12 +6838,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/17255-asbm-university-bhubaneswar/courses-fees?slug=bachelor-of-business-administration-bba-hons&course_type=Full-Time"
                           >
-                            BBA/BBM
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            66.75 K
+                            6 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -6926,11 +6878,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1 out of 50 Financial Express,Ranked 11 out
-                            of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                            Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          During my stint ( 2010-14) for the first two years ,there we...
                           </span>
                         </div>
                       </li>
@@ -7053,6 +7001,7 @@ const Architecture = () => {
                   data-ga-href="university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -7064,11 +7013,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        IIT Guwahati - Indian Institute of Technology -
-                        [IITG]
+                        Bharath University
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Guwahati, Assam | AICTE, UGC
+                        Chennai, Tamil Nadu
                       </p>
                     </div>
                   </div>
@@ -7092,12 +7040,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/university/25396-iit-guwahati-indian-institute-of-technology-iitg-guwahati/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                       >
-                        BE/B.Tech
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.57 Lacs
+                        5.58 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -7132,11 +7080,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 7 out of 34 The Week, Ranked 9 out of 200
-                        NIRF, Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      University is distinctive - a residential Collegiate University..
                       </span>
                     </div>
                   </li>
@@ -7256,6 +7200,7 @@ const Architecture = () => {
                         data-ga-href="university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -7267,11 +7212,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              All India Institute of Medical Sciences - [AIIMS] -
-                              [IITM]
+                              GNDU
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              New Delhi, Delhi NCR | MCI, UGC
+                              Amritsar, Punjab
                             </p>
                           </div>
                         </div>
@@ -7295,12 +7239,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25446-all-india-institute-of-medical-sciences-aiims-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                             >
-                              M.Sc (Medicine)
+                              Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              1.47 K
+                              2.80 LPA
                             </span>
                             &nbsp;First Year Fees
                           </p>
@@ -7335,9 +7279,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 6 out of 200 NIRF, Ranked 826 out of 2000 US
-                              News, Ranked 899 out of 2000 CWUR, Ranked 11 out of
-                              1000 ARWU
+                            Guru Nanak Dev University library has a subscription t...
                             </span>
                           </div>
                         </li>
@@ -7457,6 +7399,7 @@ const Architecture = () => {
                       data-ga-href="university/25494-indian-institute-of-management-iima-ahmedabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25494-indian-institute-of-management-iima-ahmedabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7468,10 +7411,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Institute of Management - [IIMA]
+                            NEHU Shillong
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Ahmedabad, Gujarat | UGC
+                          Shillong, Meghalaya
                           </p>
                         </div>
                       </div>
@@ -7495,12 +7438,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25494-indian-institute-of-management-iima-ahmedabad/post-graduate-programme-in-management-pgpm-1861"
                           >
-                            MBA/PGDM
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            24.61 Lacs
+                            8,400
                           </span>
                           &nbsp;Total Fees
                         </p>
@@ -7535,9 +7478,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 2 out of 50 Financial Express, Ranked 421 out
-                            of 2000 CWUR Ranked 8 out of 15 Outlook, Ranked 1106
-                            out of 2000 US News, Ranked 937 out of 2000 CWUR
+                          It has primarily a summer based schedule (due to...
                           </span>
                         </div>
                       </li>
@@ -7657,6 +7598,7 @@ const Architecture = () => {
                       data-ga-href="university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -7668,11 +7610,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Post Graduate Institute of Medical Education &amp;
-                            Research - [PGIMER]
+                            Mumbai University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Chandigarh, Chandigarh | INC, MCI
+                            Mumbai, Maharashtra
                           </p>
                         </div>
                       </div>
@@ -7696,12 +7637,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/10842-post-graduate-institute-of-medical-education-and-research-pgimer-chandigarh/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Medicine)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            6.44 K
+                           59,512
                           </span>
                           &nbsp;Total Fees
                         </p>
@@ -7736,11 +7677,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1060 out of 2000 US News, Ranked 1092 out of
-                            2000 CWUR, Ranked 1001 out of 1799 THE, Ranked 384
-                            out of 1400 QS, Ranked 8 out of 15 Outlook, Ranked
-                            1106 out of 2000 US News, Ranked 937 out of 2000
-                            CWUR
+                          University of Mumbai is one of the most fun colleges to be i... 
                           </span>
                         </div>
                       </li>
@@ -7863,6 +7800,7 @@ const Architecture = () => {
                         data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -7874,10 +7812,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium" style={{textDecoration:'none'}}>
-                              IIM Bangalore - Indian Institute of Management 
+                              IPU 
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Bangalore, Karnataka | AICTE, UGC
+                              Delhi, Delhi NCR
                             </p>
                           </div>
                         </div>
@@ -7901,12 +7839,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
                             >
-                              MBA/PGDM
+                              Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              24.50 Lacs
+                              7,500
                             </span>
                             &nbsp;Total Fees
                           </p>
@@ -7941,11 +7879,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial Express, Ranked 11 out
-                              of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                              Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                              Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                              out of 2000 CWUR
+                            The quality and method of teaching are good at Gu...
                             </span>
                           </div>
                         </li>
@@ -8065,6 +7999,7 @@ const Architecture = () => {
                           data-ga-href="university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
                           className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                           href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai"
+                          style={{textDecoration: 'none'}}
                         >
                           <div className="jsx-485886256 mb-auto snap-card-media">
                             <img
@@ -8076,10 +8011,10 @@ const Architecture = () => {
                             />
                             <div className="jsx-485886256 snap-card-media-body">
                               <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                                IIT Madras - Indian Institute of Technology - [IITM]
+                                BIT Mesra
                               </p>
                               <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                                Chennai, Tamil Nadu | AICTE
+                                Ranchi, Jharkhand
                               </p>
                             </div>
                           </div>
@@ -8103,12 +8038,12 @@ const Architecture = () => {
                                 className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                                 href="/university/25881-iit-madras-indian-institute-of-technology-iitm-chennai/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                               >
-                                BE/B.Tech
+                              Architecture
                               </a>
                             </p>
                             <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                               <span className="jsx-485886256 color-blue-light font-weight-bold">
-                                2.10 Lacs
+                                12.38 LPA
                               </span>
                               &nbsp;First Year Fees
                             </p>
@@ -8143,11 +8078,7 @@ const Architecture = () => {
                           <li className="jsx-485886256 mb-1">
                             <div className="jsx-485886256 snap-card-overflow">
                               <span className="jsx-485886256 select-box-list-link text-nowrap">
-                                Ranked 1 out of 50 Financial Express, Ranked 11 out
-                                of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                                Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                                Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                                out of 2000 CWUR
+                              The faculty is mostly average in Birla Institute of Te... 
                               </span>
                             </div>
                           </li>
@@ -8267,6 +8198,7 @@ const Architecture = () => {
                         data-ga-href="university/25777-chandigarh-university-cu-chandigarh"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/university/25777-chandigarh-university-cu-chandigarh"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -8278,10 +8210,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              Chandigarh University - [CU]
+                              BMS College of Engineering - [BMSCE]
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Chandigarh, Chandigarh | NCTE, AICTE
+                              Banglore, Karnataka
                             </p>
                           </div>
                         </div>
@@ -8305,12 +8237,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25777-chandigarh-university-cu-chandigarh/bachelor-of-engineering-be-civil-engineering-1936"
                             >
-                              BE/B.Tech
+                              Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              1.96 Lacs
+                              1.62 LPA
                             </span>
                             &nbsp;First Year Fees
                           </p>
@@ -8345,11 +8277,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial Express,Ranked 11 out
-                              of 312 NIRF Innovation, Ranked 1001 out of 1799 THE,
-                              Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                              Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                              out of 2000 CWUR
+                            The faculty are very highly qualified. Most of the faculty are ...
                             </span>
                           </div>
                         </li>
@@ -8469,6 +8397,7 @@ const Architecture = () => {
                         data-ga-href="college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
                         className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                         href="/college/45303-lexicon-mile-management-institute-of-leadership-and-excellence-pune"
+                        style={{textDecoration: 'none'}}
                       >
                         <div className="jsx-485886256 mb-auto snap-card-media">
                           <img
@@ -8480,11 +8409,10 @@ const Architecture = () => {
                           />
                           <div className="jsx-485886256 snap-card-media-body">
                             <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                              Lexicon MILE - Management Institute of Leadership
-                              and Excellence
+                              Ramaiah Institute of Technology
                             </p>
                             <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                              Pune, Maharashtra | AICTE
+                              Banglore, Karnataka
                             </p>
                           </div>
                         </div>
@@ -8508,12 +8436,12 @@ const Architecture = () => {
                               className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                               href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/post-graduate-programme-in-management-pgpm-1861"
                             >
-                              MBA/PGDM
+                              Architecture
                             </a>
                           </p>
                           <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                             <span className="jsx-485886256 color-blue-light font-weight-bold">
-                              8.90 Lacs
+                            74,750
                             </span>
                             &nbsp;Total Fees
                           </p>
@@ -8548,11 +8476,7 @@ const Architecture = () => {
                         <li className="jsx-485886256 mb-1">
                           <div className="jsx-485886256 snap-card-overflow">
                             <span className="jsx-485886256 select-box-list-link text-nowrap">
-                              Ranked 1 out of 50 Financial ,Ranked 11 out of 312
-                              NIRF Innovation, Ranked 1001 out of 1799 THE, Ranked
-                              384 out of 1400 QS, Ranked 8 out of 15 Outlook,
-                              Ranked 1106 out of 2000 US News, Ranked 937 out of
-                              2000 CWUR
+                            Faculty in MSRIT varies as per department - Mechanical...
                             </span>
                           </div>
                         </li>
@@ -8675,6 +8599,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -8686,10 +8611,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        NIT Bhopal
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Bhopal, Madhya Pradesh
                       </p>
                     </div>
                   </div>
@@ -8713,12 +8638,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        4.54 Lacs
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -8753,11 +8678,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      The faculty is highly qualified & involved in dive...
                       </span>
                     </div>
                   </li>
@@ -8877,6 +8798,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -8888,10 +8810,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            Chitkara University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Patiala, Punjab
                           </p>
                         </div>
                       </div>
@@ -8915,12 +8837,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                          Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            8.10 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -8955,9 +8877,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                          Chitkara University, the best university in Punjab is a governm...
                           </span>
                         </div>
                       </li>
@@ -9077,6 +8997,7 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -9088,11 +9009,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            Thiagarajar College of Engineering
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Madurai, Tamil Nadu 
                           </p>
                         </div>
                       </div>
@@ -9116,12 +9036,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            3.77 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -9156,11 +9076,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          The college has a very good set of faculty and peer group, a...
                           </span>
                         </div>
                       </li>
@@ -9280,6 +9196,7 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -9291,10 +9208,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                            Nirma University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Ahemdabad, Gujrat
                           </p>
                         </div>
                       </div>
@@ -9318,12 +9235,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            8 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -9358,10 +9275,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Eligibility criteria for Nirma University are 12t...
                           </span>
                         </div>
                       </li>
@@ -9484,6 +9398,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -9495,10 +9410,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        MRIIRS
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Faridabad, Haryana
                       </p>
                     </div>
                   </div>
@@ -9522,12 +9437,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        10.78 Lacs
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -9562,11 +9477,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      bad faculty,they do not take classes. no study at all....
                       </span>
                     </div>
                   </li>
@@ -9686,6 +9597,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -9697,10 +9609,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            The Oxford College of Engineering
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Banglore, Karnataka
                           </p>
                         </div>
                       </div>
@@ -9724,12 +9636,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            2.25 K
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -9764,9 +9676,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                          The class timing is from 9 am to 4 pm at The Oxford Co...
                           </span>
                         </div>
                       </li>
@@ -9886,6 +9796,7 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -9897,11 +9808,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            MSU Baroda
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Baroda, Gujarat
                           </p>
                         </div>
                       </div>
@@ -9925,12 +9835,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            1.06 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -9965,11 +9875,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          MSU is the state University with a residential, unitary charact...
                           </span>
                         </div>
                       </li>
@@ -10089,6 +9995,7 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -10100,10 +10007,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                            Siddaganga Institute of Technology
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                           Tumkur Karnataka
                           </p>
                         </div>
                       </div>
@@ -10127,12 +10034,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Agriculture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            56,250
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -10167,10 +10074,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Our college is good for academics, technical training,...
                           </span>
                         </div>
                       </li>
@@ -10293,6 +10197,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -10304,10 +10209,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        Sathybama Institute
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Chennani TamilNadu
                       </p>
                     </div>
                   </div>
@@ -10331,12 +10236,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        6.65 Lacs
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -10371,11 +10276,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      Entrance Examination is JEE MAIN. Management Seat. Actual Pr..
                       </span>
                     </div>
                   </li>
@@ -10495,6 +10396,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -10506,10 +10408,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            B.S. Abdur Rahman Crescent Institute of Science...
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Chennai, Tamil Nadu
                           </p>
                         </div>
                       </div>
@@ -10533,12 +10435,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                           Agriculture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            12.50 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -10573,9 +10475,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                          The admission to BCom and BSc (math, statistics, economics) ...
                           </span>
                         </div>
                       </li>
@@ -10695,6 +10595,7 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -10706,11 +10607,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            Woxsen School of Business
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Hyderabad, Telangana 
                           </p>
                         </div>
                       </div>
@@ -10734,12 +10634,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            11.75 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -10774,11 +10674,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          The eligibility criteria are the aptitude exam, then m...
                           </span>
                         </div>
                       </li>
@@ -10898,6 +10794,7 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -10909,10 +10806,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                            NIT Raipur
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Raipur, Chhattisgarh
                           </p>
                         </div>
                       </div>
@@ -10936,12 +10833,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            6.79 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -10976,10 +10873,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          National Institute of Technology Raipur has an active ...
                           </span>
                         </div>
                       </li>
@@ -11102,6 +10996,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -11113,10 +11008,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        NIT Hamirpur
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                      Hamirpur, Uttar Pradesh
                       </p>
                     </div>
                   </div>
@@ -11140,12 +11035,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        4.48 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -11180,11 +11075,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      National Institute of Technology Hamirpur has a state-...
                       </span>
                     </div>
                   </li>
@@ -11304,6 +11195,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -11315,10 +11207,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            SMVDU
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Katra, Jammu And Kashmir
                           </p>
                         </div>
                       </div>
@@ -11342,12 +11234,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            6 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -11382,9 +11274,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                          classes held from 8.30 to 4.30 depending on schedule.. Courses ...
                           </span>
                         </div>
                       </li>
@@ -11504,6 +11394,7 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -11515,11 +11406,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            G.S. Mandal's Marathwada Institute of Technology (MIT,...
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Aurangabad, Maharashtra
                           </p>
                         </div>
                       </div>
@@ -11543,12 +11433,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            3.40 Lacs
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -11583,11 +11473,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          The fees of course per year is Rs 78400. All ..
                           </span>
                         </div>
                       </li>
@@ -11707,6 +11593,7 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -11718,10 +11605,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                           Chitkara School of Planning and Architecture, Chandigarh
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Patiala, Punjab
                           </p>
                         </div>
                       </div>
@@ -11745,12 +11632,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                           7 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -11785,10 +11672,805 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                           </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          </ul>
+          <br />
+
+          <ul className="cards7">
+          <li className="card7">
+        <div>
+          <div className="jsx-485886256 ">
+            <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+              <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                <img
+                  data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                  src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
+                  alt=""
+                  height="145px"
+                  className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                />
+                <a
+                  data-csm-track="true"
+                  data-csm-title="KIIT School of Management - [KSOM]"
+                  data-event-type="link_click"
+                  data-section_name="Top Universities/Colleges"
+                  data-csm-href="https://collegedunia.com/"
+                  data-ga-title="KIIT School of Management - [KSOM]"
+                  data-ga-track="true"
+                  data-ga-module="homepage"
+                  data-ga-section="Top Universities/Colleges"
+                  data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                  href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
+                >
+                  <div className="jsx-485886256 mb-auto snap-card-media">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
+                      alt="KIIT School of Management - [KSOM]"
+                      height="40px"
+                      className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                    />
+                    <div className="jsx-485886256 snap-card-media-body">
+                      <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                        College of Engineering Trivandrum
+                      </p>
+                      <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                        Thiruvananthapuram, Kerala
+                      </p>
+                    </div>
+                  </div>
+                </a>
+              </div>
+              <div className="jsx-485886256 snap-card-body">
+                <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                  <div className="jsx-485886256">
+                    <p className="jsx-485886256 snap-card-body-title mb-1">
+                      <a
+                        data-csm-track="true"
+                        data-csm-title="BBA/BBM"
+                        data-event-type="link_click"
+                        data-section_name="Top Universities/Colleges"
+                        data-csm-href="https://collegedunia.com/"
+                        data-ga-title="BBA/BBM"
+                        data-ga-track="true"
+                        data-ga-module="homepage"
+                        data-ga-section="Top Universities/Colleges"
+                        data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                        className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                        href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
+                      >
+                       Architecture
+                      </a>
+                    </p>
+                    <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                      <span className="jsx-485886256 color-blue-light font-weight-bold">
+                        21,000 
+                      </span>
+                      &nbsp;First Year Fees
+                    </p>
+                  </div>
+                  <div className="jsx-485886256">
+                    <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="85.384"
+                        height="81.954"
+                        viewBox="6.92 9.412 85.384 81.954"
+                        xmlSpace="preserve"
+                        className="mr-1"
+                        style={{
+                          width: 15,
+                          height: 15,
+                          fill: "rgb(248, 193, 0)",
+                        }}
+                      >
+                        <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                      </svg>{" "}
+                      8.5/10
+                    </p>
+                    <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                      73 reviews
+                    </p>
+                  </div>
+                </div>
+              </div>
+              <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                  <li className="jsx-485886256 mb-1">
+                    <div className="jsx-485886256 snap-card-overflow">
+                      <span className="jsx-485886256 select-box-list-link text-nowrap">
+                      The quality of teaching is very good at College o...
+                      </span>
+                    </div>
+                  </li>
+                  <li className="jsx-485886256">
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="View All Courses and Fees"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="View All Courses and fees"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                      className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                      href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                    >
+                      View All Courses and fees{" "}
+                      <svg
+                        fill="#666"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="451.846"
+                        height="451.847"
+                        viewBox="0 0 451.846 451.847"
+                        xmlSpace="preserve"
+                        style={{ width: 10, height: 10 }}
+                      >
+                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                      </svg>
+                    </a>
+                  </li>
+                  <li className="jsx-485886256">
+                    <button
+                      type="button"
+                      data-csm-track="true"
+                      data-csm-title="Download Brochure"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="Download Brochure"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                    >
+                      Download Brochure{" "}
+                      <svg
+                        fill="#666"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="451.846"
+                        height="451.847"
+                        viewBox="0 0 451.846 451.847"
+                        xmlSpace="preserve"
+                        style={{ width: 10, height: 10 }}
+                      >
+                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                      </svg>
+                    </button>
+                  </li>
+                  <li className="jsx-485886256">
+                    <button
+                      type="button"
+                      data-csm-track="true"
+                      data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                      data-event-type="cc_popup_open"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="Compare"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                    >
+                      Compare{" "}
+                      <svg
+                        fill="#666"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="451.846"
+                        height="451.847"
+                        viewBox="0 0 451.846 451.847"
+                        xmlSpace="preserve"
+                        style={{ width: 10, height: 10 }}
+                      >
+                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                      </svg>
+                    </button>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+          </li>
+
+          <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="Indian Agricultural Research Institute - [IARI]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="Indian Agricultural Research Institute - [IARI]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
+                          alt="Indian Agricultural Research Institute - [IARI]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            NIT Patna 
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Patna, Bihar
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="M.Sc (Agriculture)"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="M.Sc (Agriculture)"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
+                          >
+                            Architecture
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            7.04 LPA
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.8/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          15 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                          The class schedule is very manageable. The courses offered a...
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
+                          alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            Mangalayatan Universitry
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Aligarh, Uttar Pradesh
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BE/B.Tech"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BE/B.Tech"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
+                          >
+                            Architecture
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            $ LPA
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.6/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          90 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                          My experience here in this college was awesome, teache..
+                          </span>
+                        </div>
+                      </li>
+                      <li className="jsx-485886256">
+                        <a
+                          data-csm-track="true"
+                          data-csm-title="View All Courses and Fees"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="View All Courses and fees"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
+                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
+                        >
+                          View All Courses and fees{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </a>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="Download Brochure"
+                          data-event-type="link_click"
+                          data-section_name="Top Universities/Colleges"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Download Brochure"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Download Brochure{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                      <li className="jsx-485886256">
+                        <button
+                          type="button"
+                          data-csm-track="true"
+                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
+                          data-event-type="cc_popup_open"
+                          data-csm-href="https://collegedunia.com/"
+                          data-ga-title="Compare"
+                          data-ga-track="true"
+                          data-ga-module="homepage"
+                          data-ga-section="Top Universities/Colleges"
+                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
+                        >
+                          Compare{" "}
+                          <svg
+                            fill="#666"
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="451.846"
+                            height="451.847"
+                            viewBox="0 0 451.846 451.847"
+                            xmlSpace="preserve"
+                            style={{ width: 10, height: 10 }}
+                          >
+                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
+                          </svg>
+                        </button>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+
+          <li className="card7">
+            <div>
+              <div className="jsx-485886256 ">
+                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
+                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
+                    <img
+                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                      src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
+                      alt=""
+                      height="145px"
+                      className="jsx-2283203247 snap-card-img lazyloaded"
+                    />
+                    <a
+                      data-csm-track="true"
+                      data-csm-title="Lady Shri Ram College for Women - [LSR]"
+                      data-event-type="link_click"
+                      data-section_name="Top Universities/Colleges"
+                      data-csm-href="https://collegedunia.com/"
+                      data-ga-title="Lady Shri Ram College for Women - [LSR]"
+                      data-ga-track="true"
+                      data-ga-module="homepage"
+                      data-ga-section="Top Universities/Colleges"
+                      data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
+                      href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
+                    >
+                      <div className="jsx-485886256 mb-auto snap-card-media">
+                        <img
+                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                          src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
+                          alt="Lady Shri Ram College for Women - [LSR]"
+                          height="40px"
+                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
+                        />
+                        <div className="jsx-485886256 snap-card-media-body">
+                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
+                            Dayananda Sagar College of Architecture
+                          </p>
+                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
+                            Banglore, Karnataka
+                          </p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body">
+                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-1">
+                          <a
+                            data-csm-track="true"
+                            data-csm-title="BA"
+                            data-event-type="link_click"
+                            data-section_name="Top Universities/Colleges"
+                            data-csm-href="https://collegedunia.com/"
+                            data-ga-title="BA"
+                            data-ga-track="true"
+                            data-ga-module="homepage"
+                            data-ga-section="Top Universities/Colleges"
+                            data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
+                            href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
+                          >
+                            Architecture
+                          </a>
+                        </p>
+                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
+                          <span className="jsx-485886256 color-blue-light font-weight-bold">
+                            
+                          </span>
+                          &nbsp;First Year Fees
+                        </p>
+                      </div>
+                      <div className="jsx-485886256">
+                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
+                          <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            width="85.384"
+                            height="81.954"
+                            viewBox="6.92 9.412 85.384 81.954"
+                            xmlSpace="preserve"
+                            className="mr-1"
+                            style={{
+                              width: 15,
+                              height: 15,
+                              fill: "rgb(248, 193, 0)",
+                            }}
+                          >
+                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
+                          </svg>{" "}
+                          8.5/10
+                        </p>
+                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
+                          107 reviews
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
+                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
+                      <li className="jsx-485886256 mb-1">
+                        <div className="jsx-485886256 snap-card-overflow">
+                          <span className="jsx-485886256 select-box-list-link text-nowrap">
+                            
                           </span>
                         </div>
                       </li>
@@ -11911,6 +12593,7 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -11922,10 +12605,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        Shaheed Bhagat Singh State Technical Campus 
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Firozpur, Punjab
                       </p>
                     </div>
                   </div>
@@ -11949,12 +12632,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        3 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -11989,11 +12672,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      We have 5 or 6 subjects including 2 to 4 labs every se...
                       </span>
                     </div>
                   </li>
@@ -12113,6 +12792,7 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -12124,10 +12804,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            SPA Delhi
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                             Delhi, Delhi NCR
                           </p>
                         </div>
                       </div>
@@ -12151,12 +12831,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                           Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -12191,9 +12871,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                            
                           </span>
                         </div>
                       </li>
@@ -12313,6 +12991,8 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
+
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -12324,11 +13004,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            School of Art And Architecture
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Gurgaon, Haryana
                           </p>
                         </div>
                       </div>
@@ -12357,7 +13036,7 @@ const Architecture = () => {
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                            13.35 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -12392,11 +13071,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          The faculty of the the college is amazing. We have visiting fac...
                           </span>
                         </div>
                       </li>
@@ -12516,6 +13191,8 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
+
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -12527,10 +13204,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                           Noida international University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Gautam Budh Nagar, Uttar Pradesh
                           </p>
                         </div>
                       </div>
@@ -12554,12 +13231,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            8.12 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -12594,10 +13271,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                          Best college of Delhi NCR. This college provide best p..
                           </span>
                         </div>
                       </li>
@@ -12720,6 +13394,8 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
+ 
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -12731,10 +13407,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        Sir J.J College of Architecture
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Mumbai, Maharashtra 
                       </p>
                     </div>
                   </div>
@@ -12758,12 +13434,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                       Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        27,500
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -12798,11 +13474,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      College timings are from 8:20 am to 3.00pm, lot of pro...
                       </span>
                     </div>
                   </li>
@@ -12922,6 +13594,8 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
+                      style={{textDecoration: 'none'}}
+
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -12933,10 +13607,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
+                            KRVIA
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
+                            Mumbai, Maharashtra
                           </p>
                         </div>
                       </div>
@@ -12960,12 +13634,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
                           >
-                            M.Sc (Agriculture)
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
+                            3.38 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -13000,9 +13674,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
+                            
                           </span>
                         </div>
                       </li>
@@ -13122,6 +13794,8 @@ const Architecture = () => {
                       data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
+                      style={{textDecoration: 'none'}}
+    
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -13133,11 +13807,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
+                            CMR University
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
+                            Banglore, Karnataka
                           </p>
                         </div>
                       </div>
@@ -13161,12 +13834,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
                           >
-                            BE/B.Tech
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
+                           12.50 LPA
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -13201,11 +13874,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
+                          Eligibility is min 60% marks in 12th grade to join CMR... 
                           </span>
                         </div>
                       </li>
@@ -13325,6 +13994,8 @@ const Architecture = () => {
                       data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
+                      style={{textDecoration: 'none'}}
+
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
@@ -13336,10 +14007,10 @@ const Architecture = () => {
                         />
                         <div className="jsx-485886256 snap-card-media-body">
                           <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
+                            D Y Patil College Of Engineering And Technology
                           </p>
                           <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
+                            Kolhapur, Maharashtra
                           </p>
                         </div>
                       </div>
@@ -13363,12 +14034,12 @@ const Architecture = () => {
                             className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                             href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
                           >
-                            BA
+                            Architecture
                           </a>
                         </p>
                         <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                           <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
+                            
                           </span>
                           &nbsp;First Year Fees
                         </p>
@@ -13403,10 +14074,7 @@ const Architecture = () => {
                       <li className="jsx-485886256 mb-1">
                         <div className="jsx-485886256 snap-card-overflow">
                           <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
+                            
                           </span>
                         </div>
                       </li>
@@ -13529,6 +14197,8 @@ const Architecture = () => {
                   data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
                   className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                   href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
+                  style={{textDecoration: 'none'}}
+
                 >
                   <div className="jsx-485886256 mb-auto snap-card-media">
                     <img
@@ -13540,10 +14210,10 @@ const Architecture = () => {
                     />
                     <div className="jsx-485886256 snap-card-media-body">
                       <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
+                        Jagannath University Jaipur
                       </p>
                       <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
+                        Jaipur, Rajasthan
                       </p>
                     </div>
                   </div>
@@ -13567,12 +14237,12 @@ const Architecture = () => {
                         className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
                         href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
                       >
-                        BBA/BBM
+                        Architecture
                       </a>
                     </p>
                     <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
                       <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
+                        2.90 LPA
                       </span>
                       &nbsp;First Year Fees
                     </p>
@@ -13607,11 +14277,7 @@ const Architecture = () => {
                   <li className="jsx-485886256 mb-1">
                     <div className="jsx-485886256 snap-card-overflow">
                       <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
+                      It provides best faculty and architecture facilities.... 
                       </span>
                     </div>
                   </li>
@@ -13731,815 +14397,8 @@ const Architecture = () => {
                       data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
                       className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
                       href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
-                    >
-                      <div className="jsx-485886256 mb-auto snap-card-media">
-                        <img
-                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
-                          src="https://images.collegedunia.com/public/college_data/images/logos/1491901587logo.png?h=40&w=40&mode=stretch"
-                          alt="Indian Agricultural Research Institute - [IARI]"
-                          height="40px"
-                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
-                        />
-                        <div className="jsx-485886256 snap-card-media-body">
-                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Indian Agricultural Research Institute - [IARI]
-                          </p>
-                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | ICAR, UGC
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body">
-                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-1">
-                          <a
-                            data-csm-track="true"
-                            data-csm-title="M.Sc (Agriculture)"
-                            data-event-type="link_click"
-                            data-section_name="Top Universities/Colleges"
-                            data-csm-href="https://collegedunia.com/"
-                            data-ga-title="M.Sc (Agriculture)"
-                            data-ga-track="true"
-                            data-ga-module="homepage"
-                            data-ga-section="Top Universities/Colleges"
-                            data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
-                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
-                            href="/university/25452-indian-agricultural-research-institute-iari-new-delhi/courses-fees?slug=master-of-science-msc&course_type=Full-Time"
-                          >
-                            M.Sc (Agriculture)
-                          </a>
-                        </p>
-                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
-                          <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            43.15 K
-                          </span>
-                          &nbsp;First Year Fees
-                        </p>
-                      </div>
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="85.384"
-                            height="81.954"
-                            viewBox="6.92 9.412 85.384 81.954"
-                            xmlSpace="preserve"
-                            className="mr-1"
-                            style={{
-                              width: 15,
-                              height: 15,
-                              fill: "rgb(248, 193, 0)",
-                            }}
-                          >
-                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
-                          </svg>{" "}
-                          8.8/10
-                        </p>
-                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
-                          15 reviews
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
-                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
-                      <li className="jsx-485886256 mb-1">
-                        <div className="jsx-485886256 snap-card-overflow">
-                          <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 1166 out of 2000 CWURk, Ranked 62 out of 101
-                            TOI, Ranked 151 out of 200 NIRF, Ranked 80 out of
-                            171 IIRF, Ranked 11 out of 312 NIRF Innovation
-                          </span>
-                        </div>
-                      </li>
-                      <li className="jsx-485886256">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="View All Courses and Fees"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="View All Courses and fees"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
-                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                        >
-                          View All Courses and fees{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </a>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="Download Brochure"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Download Brochure"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Download Brochure{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
-                          data-event-type="cc_popup_open"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Compare"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Compare{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
+                      style={{textDecoration: 'none'}}
 
-          <li className="card7">
-            <div>
-              <div className="jsx-485886256 ">
-                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
-                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
-                    <img
-                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
-                      src="https://images.collegedunia.com/public/college_data/images/appImage/1485941210cvr1.png?h=145&w=342&mode=stretch"
-                      alt=""
-                      height="145px"
-                      className="jsx-2283203247 snap-card-img lazyloaded"
-                    />
-                    <a
-                      data-csm-track="true"
-                      data-csm-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
-                      data-event-type="link_click"
-                      data-section_name="Top Universities/Colleges"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="IIT Hyderabad - Indian Institute of Technology - [IITH]"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
-                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
-                      href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad"
-                    >
-                      <div className="jsx-485886256 mb-auto snap-card-media">
-                        <img
-                          data-src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
-                          src="https://images.collegedunia.com/public/college_data/images/logos/166089612015088476701200pxIndianInstituteofTechnologyHyderabadlogo.png?h=40&w=40&mode=stretch"
-                          alt="IIT Hyderabad - Indian Institute of Technology - [IITH]"
-                          height="40px"
-                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
-                        />
-                        <div className="jsx-485886256 snap-card-media-body">
-                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            IIT Hyderabad - Indian Institute of Technology -
-                            [IITH]
-                          </p>
-                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            Hyderabad, Telangana | UGC
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body">
-                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-1">
-                          <a
-                            data-csm-track="true"
-                            data-csm-title="BE/B.Tech"
-                            data-event-type="link_click"
-                            data-section_name="Top Universities/Colleges"
-                            data-csm-href="https://collegedunia.com/"
-                            data-ga-title="BE/B.Tech"
-                            data-ga-track="true"
-                            data-ga-module="homepage"
-                            data-ga-section="Top Universities/Colleges"
-                            data-ga-href="university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
-                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
-                            href="/university/25356-iit-hyderabad-indian-institute-of-technology-iith-hyderabad/courses-fees?slug=bachelor-of-technology-btech&course_type=Full-Time"
-                          >
-                            BE/B.Tech
-                          </a>
-                        </p>
-                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
-                          <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            2.23 Lacs
-                          </span>
-                          &nbsp;First Year Fees
-                        </p>
-                      </div>
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="85.384"
-                            height="81.954"
-                            viewBox="6.92 9.412 85.384 81.954"
-                            xmlSpace="preserve"
-                            className="mr-1"
-                            style={{
-                              width: 15,
-                              height: 15,
-                              fill: "rgb(248, 193, 0)",
-                            }}
-                          >
-                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
-                          </svg>{" "}
-                          8.6/10
-                        </p>
-                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
-                          90 reviews
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
-                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
-                      <li className="jsx-485886256 mb-1">
-                        <div className="jsx-485886256 snap-card-overflow">
-                          <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 14 out of 200 NIRF, Ranked 3 out of 312 NIRF
-                            Innovation, Ranked 581 out of 1400 QS, Ranked 9 out
-                            of 15 Outlook, Ranked 875 out of 2000 US News,
-                            Ranked 1441 out of 2000 CWUR, Ranked 601 out of 1001
-                            THE
-                          </span>
-                        </div>
-                      </li>
-                      <li className="jsx-485886256">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="View All Courses and Fees"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="View All Courses and fees"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
-                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                        >
-                          View All Courses and fees{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </a>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="Download Brochure"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Download Brochure"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Download Brochure{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
-                          data-event-type="cc_popup_open"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Compare"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Compare{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
-
-          <li className="card7">
-            <div>
-              <div className="jsx-485886256 ">
-                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
-                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
-                    <img
-                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
-                      src="https://images.collegedunia.com/public/college_data/images/appImage/14918218951444135101LSRCNEW.jpg?h=145&w=342&mode=stretch"
-                      alt=""
-                      height="145px"
-                      className="jsx-2283203247 snap-card-img lazyloaded"
-                    />
-                    <a
-                      data-csm-track="true"
-                      data-csm-title="Lady Shri Ram College for Women - [LSR]"
-                      data-event-type="link_click"
-                      data-section_name="Top Universities/Colleges"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="Lady Shri Ram College for Women - [LSR]"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
-                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
-                      href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi"
-                    >
-                      <div className="jsx-485886256 mb-auto snap-card-media">
-                        <img
-                          data-src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
-                          src="https://images.collegedunia.com/public/college_data/images/logos/1559556886lsrlogo9.jpg?h=40&w=40&mode=stretch"
-                          alt="Lady Shri Ram College for Women - [LSR]"
-                          height="40px"
-                          className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo lazyloaded"
-                        />
-                        <div className="jsx-485886256 snap-card-media-body">
-                          <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                            Lady Shri Ram College for Women - [LSR]
-                          </p>
-                          <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                            New Delhi, Delhi NCR | UGC
-                          </p>
-                        </div>
-                      </div>
-                    </a>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body">
-                    <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-1">
-                          <a
-                            data-csm-track="true"
-                            data-csm-title="BA"
-                            data-event-type="link_click"
-                            data-section_name="Top Universities/Colleges"
-                            data-csm-href="https://collegedunia.com/"
-                            data-ga-title="BA"
-                            data-ga-track="true"
-                            data-ga-module="homepage"
-                            data-ga-section="Top Universities/Colleges"
-                            data-ga-href="college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
-                            className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
-                            href="/college/2525-lady-shri-ram-college-for-women-lsr-new-delhi/courses-fees?slug=bachelor-of-arts-ba-hons&course_type=Full-Time"
-                          >
-                            BA
-                          </a>
-                        </p>
-                        <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
-                          <span className="jsx-485886256 color-blue-light font-weight-bold">
-                            19.17 K
-                          </span>
-                          &nbsp;First Year Fees
-                        </p>
-                      </div>
-                      <div className="jsx-485886256">
-                        <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
-                          <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="85.384"
-                            height="81.954"
-                            viewBox="6.92 9.412 85.384 81.954"
-                            xmlSpace="preserve"
-                            className="mr-1"
-                            style={{
-                              width: 15,
-                              height: 15,
-                              fill: "rgb(248, 193, 0)",
-                            }}
-                          >
-                            <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
-                          </svg>{" "}
-                          8.5/10
-                        </p>
-                        <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
-                          107 reviews
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
-                    <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
-                      <li className="jsx-485886256 mb-1">
-                        <div className="jsx-485886256 snap-card-overflow">
-                          <span className="jsx-485886256 select-box-list-link text-nowrap">
-                            Ranked 9 out of 200 NIRF, Ranked 1001 out of 1799
-                            THE, Ranked 384 out of 1400 QS, Ranked 8 out of 15
-                            Outlook, Ranked 1106 out of 2000 US News, Ranked 937
-                            out of 2000 CWUR
-                          </span>
-                        </div>
-                      </li>
-                      <li className="jsx-485886256">
-                        <a
-                          data-csm-track="true"
-                          data-csm-title="View All Courses and Fees"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="View All Courses and fees"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                          className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
-                          href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                        >
-                          View All Courses and fees{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </a>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="Download Brochure"
-                          data-event-type="link_click"
-                          data-section_name="Top Universities/Colleges"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Download Brochure"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Download Brochure{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                      <li className="jsx-485886256">
-                        <button
-                          type="button"
-                          data-csm-track="true"
-                          data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
-                          data-event-type="cc_popup_open"
-                          data-csm-href="https://collegedunia.com/"
-                          data-ga-title="Compare"
-                          data-ga-track="true"
-                          data-ga-module="homepage"
-                          data-ga-section="Top Universities/Colleges"
-                          className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                        >
-                          Compare{" "}
-                          <svg
-                            fill="#666"
-                            xmlns="http://www.w3.org/2000/svg"
-                            width="451.846"
-                            height="451.847"
-                            viewBox="0 0 451.846 451.847"
-                            xmlSpace="preserve"
-                            style={{ width: 10, height: 10 }}
-                          >
-                            <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                          </svg>
-                        </button>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </li>
-          </ul>
-          <br />
-
-          <ul className="cards7">
-          <li className="card7">
-        <div>
-          <div className="jsx-485886256 ">
-            <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
-              <div className="jsx-485886256  snap-card-img-wrapper position-relative">
-                <img
-                  data-src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
-                  src="https://images.collegedunia.com/public/college_data/images/appImage/1606993784WorldClassCampusI.jpg?h=145&w=342&mode=stretch"
-                  alt=""
-                  height="145px"
-                  className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
-                />
-                <a
-                  data-csm-track="true"
-                  data-csm-title="KIIT School of Management - [KSOM]"
-                  data-event-type="link_click"
-                  data-section_name="Top Universities/Colleges"
-                  data-csm-href="https://collegedunia.com/"
-                  data-ga-title="KIIT School of Management - [KSOM]"
-                  data-ga-track="true"
-                  data-ga-module="homepage"
-                  data-ga-section="Top Universities/Colleges"
-                  data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar"
-                  className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
-                  href="/college/18279-kiit-school-of-management-ksom-bhubaneswar"
-                >
-                  <div className="jsx-485886256 mb-auto snap-card-media">
-                    <img
-                      data-src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
-                      src="https://images.collegedunia.com/public/college_data/images/logos/1620052681Untitled.png?h=40&w=40&mode=stretch"
-                      alt="KIIT School of Management - [KSOM]"
-                      height="40px"
-                      className="jsx-2384918447 d-block object-fit-contain bg-white snap-card-logo ls-is-cached lazyloaded"
-                    />
-                    <div className="jsx-485886256 snap-card-media-body">
-                      <p className="jsx-485886256 snap-card-img-title line-clamp-2 font-weight-lg-bold font-weight-medium">
-                        KIIT School of Management - [KSOM]
-                      </p>
-                      <p className="jsx-485886256 snap-card-img-line mb-0 d-flex align-items-center">
-                        Bhubaneswar, Orissa | AICTE, NBA
-                      </p>
-                    </div>
-                  </div>
-                </a>
-              </div>
-              <div className="jsx-485886256 snap-card-body">
-                <div className="jsx-485886256 d-flex justify-content-between mb-lg-12">
-                  <div className="jsx-485886256">
-                    <p className="jsx-485886256 snap-card-body-title mb-1">
-                      <a
-                        data-csm-track="true"
-                        data-csm-title="BBA/BBM"
-                        data-event-type="link_click"
-                        data-section_name="Top Universities/Colleges"
-                        data-csm-href="https://collegedunia.com/"
-                        data-ga-title="BBA/BBM"
-                        data-ga-track="true"
-                        data-ga-module="homepage"
-                        data-ga-section="Top Universities/Colleges"
-                        data-ga-href="college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
-                        className="jsx-485886256 snap-card-body-link color-base hover-color-primary"
-                        href="/college/18279-kiit-school-of-management-ksom-bhubaneswar/courses-fees?course_id=1209"
-                      >
-                        BBA/BBM
-                      </a>
-                    </p>
-                    <p className="jsx-485886256 snap-card-body-line color-gray-600 mb-0">
-                      <span className="jsx-485886256 color-blue-light font-weight-bold">
-                        2.80 Lacs
-                      </span>
-                      &nbsp;First Year Fees
-                    </p>
-                  </div>
-                  <div className="jsx-485886256">
-                    <p className="jsx-485886256 snap-card-body-title mb-0 d-flex align-items-center justify-content-end">
-                      <svg
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="85.384"
-                        height="81.954"
-                        viewBox="6.92 9.412 85.384 81.954"
-                        xmlSpace="preserve"
-                        className="mr-1"
-                        style={{
-                          width: 15,
-                          height: 15,
-                          fill: "rgb(248, 193, 0)",
-                        }}
-                      >
-                        <path d="M59.609 24.778c2.517 4.892 9.037 9.467 14.492 10.168l13.094 1.683c5.455.701 6.75 4.469 2.875 8.373l-9.301 9.369c-3.875 3.904-6.213 11.52-5.193 16.926l2.445 12.973c1.02 5.406-2.164 7.801-7.074 5.32l-11.784-5.949c-4.91-2.479-12.876-2.348-17.702.291l-11.582 6.336c-4.826 2.64-8.087.353-7.246-5.084l2.017-13.047c.841-5.437-1.745-12.972-5.747-16.746l-9.604-9.058c-4.002-3.774-2.833-7.582 2.597-8.462l13.031-2.113c5.43-.88 11.797-5.668 14.149-10.64l5.647-11.934c2.353-4.972 6.335-5.038 8.851-.146l6.035 11.74z" />
-                      </svg>{" "}
-                      8.5/10
-                    </p>
-                    <p className="jsx-485886256 text-right snap-card-body-line color-gray-600 mb-0 mt-1 text-nowrap">
-                      73 reviews
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="jsx-485886256 snap-card-body snap-card-body-sm mt-auto">
-                <ul className="jsx-485886256 list-unstyled select-box-list mb-0 border-top">
-                  <li className="jsx-485886256 mb-1">
-                    <div className="jsx-485886256 snap-card-overflow">
-                      <span className="jsx-485886256 select-box-list-link text-nowrap">
-                        Ranked 15 out of 120 Indiatoday, Ranked 2 out of 101
-                        TOI,Ranked 11 out of 312 NIRF Innovation, Ranked
-                        1001 out of 1799 THE, Ranked 384 out of 1400 QS,
-                        Ranked 8 out of 15 Outlook, Ranked 1106 out of 2000
-                        US News, Ranked 937 out of 2000 CWUR
-                      </span>
-                    </div>
-                  </li>
-                  <li className="jsx-485886256">
-                    <a
-                      data-csm-track="true"
-                      data-csm-title="View All Courses and Fees"
-                      data-event-type="link_click"
-                      data-section_name="Top Universities/Colleges"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="View All Courses and fees"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      data-ga-href="university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                      className="jsx-485886256 collage-card-btn text-truncate color-base font-weight-semi hover-color-primary"
-                      href="/university/25602-iim-bangalore-indian-institute-of-management-bangalore/courses-fees"
-                    >
-                      View All Courses and fees{" "}
-                      <svg
-                        fill="#666"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="451.846"
-                        height="451.847"
-                        viewBox="0 0 451.846 451.847"
-                        xmlSpace="preserve"
-                        style={{ width: 10, height: 10 }}
-                      >
-                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                      </svg>
-                    </a>
-                  </li>
-                  <li className="jsx-485886256">
-                    <button
-                      type="button"
-                      data-csm-track="true"
-                      data-csm-title="Download Brochure"
-                      data-event-type="link_click"
-                      data-section_name="Top Universities/Colleges"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="Download Brochure"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                    >
-                      Download Brochure{" "}
-                      <svg
-                        fill="#666"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="451.846"
-                        height="451.847"
-                        viewBox="0 0 451.846 451.847"
-                        xmlSpace="preserve"
-                        style={{ width: 10, height: 10 }}
-                      >
-                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                      </svg>
-                    </button>
-                  </li>
-                  <li className="jsx-485886256">
-                    <button
-                      type="button"
-                      data-csm-track="true"
-                      data-csm-title="25602-IIM Bangalore - Indian Institute of Management"
-                      data-event-type="cc_popup_open"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="Compare"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      className="jsx-485886256 collage-card-btn color-base w-100 border-0 bg-transparent font-weight-semi hover-color-primary"
-                    >
-                      Compare{" "}
-                      <svg
-                        fill="#666"
-                        xmlns="http://www.w3.org/2000/svg"
-                        width="451.846"
-                        height="451.847"
-                        viewBox="0 0 451.846 451.847"
-                        xmlSpace="preserve"
-                        style={{ width: 10, height: 10 }}
-                      >
-                        <path d="M345.441 248.292 151.154 442.573c-12.359 12.365-32.397 12.365-44.75 0-12.354-12.354-12.354-32.391 0-44.744L278.318 225.92 106.409 54.017c-12.354-12.359-12.354-32.394 0-44.748 12.354-12.359 32.391-12.359 44.75 0l194.287 194.284c6.177 6.18 9.262 14.271 9.262 22.366 0 8.099-3.091 16.196-9.267 22.373z" />
-                      </svg>
-                    </button>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-          </li>
-
-          <li className="card7">
-            <div>
-              <div className="jsx-485886256 ">
-                <div className="jsx-485886256 snap-card h-100 d-flex flex-column">
-                  <div className="jsx-485886256  snap-card-img-wrapper position-relative">
-                    <img
-                      data-src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
-                      src="https://images.collegedunia.com/public/college_data/images/appImage/1491901587cvr.png?h=145&w=342&mode=stretch"
-                      alt=""
-                      height="145px"
-                      className="jsx-2283203247 snap-card-img ls-is-cached lazyloaded"
-                    />
-                    <a
-                      data-csm-track="true"
-                      data-csm-title="Indian Agricultural Research Institute - [IARI]"
-                      data-event-type="link_click"
-                      data-section_name="Top Universities/Colleges"
-                      data-csm-href="https://collegedunia.com/"
-                      data-ga-title="Indian Agricultural Research Institute - [IARI]"
-                      data-ga-track="true"
-                      data-ga-module="homepage"
-                      data-ga-section="Top Universities/Colleges"
-                      data-ga-href="university/25452-indian-agricultural-research-institute-iari-new-delhi"
-                      className="jsx-485886256 snap-card-img-overlay d-flex flex-column"
-                      href="/university/25452-indian-agricultural-research-institute-iari-new-delhi"
                     >
                       <div className="jsx-485886256 mb-auto snap-card-media">
                         <img
