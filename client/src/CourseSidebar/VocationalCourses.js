@@ -123,7 +123,7 @@ const VocationalCourses = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                B.Voc [Bachelor of Vocational Studies]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -152,7 +152,7 @@ const VocationalCourses = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 6000 - 60,000 PA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -184,7 +184,7 @@ const VocationalCourses = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                M.Voc [Master of Vocation]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -213,10 +213,10 @@ const VocationalCourses = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 50,000 - 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">

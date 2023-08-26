@@ -118,7 +118,7 @@ const Veterinarys = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                B.V.Sc [Bachelor of Veterinary Science]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -147,10 +147,10 @@ const Veterinarys = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 10,000- 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 5 Years 6 Months</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -179,7 +179,7 @@ const Veterinarys = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                M.V.Sc [Master of Veterinary Science]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -208,10 +208,10 @@ const Veterinarys = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 20,000 - 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -240,7 +240,7 @@ const Veterinarys = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                Bachelor of Veterinary Sciences and Animal Husbandry [BVSc and AH]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -269,10 +269,10 @@ const Veterinarys = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 50,000 - 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 5 Years 6 Months</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -301,7 +301,7 @@ const Veterinarys = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                Diploma in Animal Husbandry
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -330,7 +330,7 @@ const Veterinarys = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 10,000 - 17,000 PA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -353,616 +353,7 @@ const Veterinarys = () => {
               </a>
             </div>
           </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>

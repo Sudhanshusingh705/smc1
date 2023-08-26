@@ -850,7 +850,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+              BDS [Bachelor of Dental Science]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -879,7 +879,68 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees:  50K - 4 LPA</small>
+              </p>
+              <p class="card-text">
+                <small class="text-muted">⌛Duration: 5 Years</small>
+              </p>
+            </div>
+            <div className="courseLinks">
+              <a
+                href="/bsc-animation-syllabus-subjects"
+                title="Syllabus &amp; Subjects"
+                style={{ textDecoration: "none" }}
+              >
+                Syllabus &amp; Subjects
+              </a>
+              <a
+                href="/bsc-animation-jobs-scope-salary"
+                title="Job, Scope &amp; Salary"
+                style={{ textDecoration: "none" }}
+              >
+                Job, Scope &amp; Salary
+              </a>
+            </div>
+          </div>
+          <div
+            className="card mb-3"
+            style={{ width: "fit-content", display: "flex" }}
+          >
+            <div className="card-body">
+              <h5
+                className="card-title"
+                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
+              >
+                MDS [Master of Dental Sciences]
+              </h5>
+              <div className="applyClg desktopOnly">
+                <button
+                  style={{
+                    marginLeft: "1070px",
+                    color: "blue",
+                    border: "groove",
+                  }}
+                  type="button"
+                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
+                  data-platform="web"
+                  data-entity="course_stream"
+                  data-entityid="193"
+                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
+                  data-ctatext="Apply Now"
+                  data-leadformtitle="REGISTER TO APPLY"
+                  data-subheadingtext="B.Sc Animation"
+                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
+                >
+                  Apply Now
+                </button>
+              </div>
+              <p class="card-text">
+                Government colleges have an average fee ranging from INR 10K, to
+                INR 75K per annum while private colleges have fees in the range,
+                INR 50K to INR 5 Lakhs Per Annum.
+              </p>
+              <p class="card-text">
+                <small class="text-muted">💰Avarage fees: 1.45 - 11.2 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -911,7 +972,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+              MD Dermatology Venereology & Leprology
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -940,7 +1001,7 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 42,000 - 12.3 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -972,7 +1033,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                MDS Conservative Dentistry & Endodontics
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1001,7 +1062,7 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 1.45 - 11.25 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -1033,7 +1094,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                MDS Oral & Maxillofacial Surgery
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1062,7 +1123,7 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 1.45 L - 11.25 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -1094,7 +1155,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                MDS Oral Medicine and Radiology
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1123,7 +1184,7 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 1.45 - 11.25 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -1155,7 +1216,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                MDS Prosthodontics
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1184,7 +1245,7 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 1.45 L - 11.25 LPA</small>
               </p>
               <p class="card-text">
                 <small class="text-muted">⌛Duration: 3 Years</small>
@@ -1216,7 +1277,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+               MDS Periodontics
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1245,10 +1306,10 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 10 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1277,7 +1338,7 @@ const Dentals = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                Diploma In Dental Hygienist
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1306,10 +1367,10 @@ const Dentals = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1329,128 +1390,7 @@ const Dentals = () => {
               </a>
             </div>
           </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
-          <div
-            className="card mb-3"
-            style={{ width: "fit-content", display: "flex" }}
-          >
-            <div className="card-body">
-              <h5
-                className="card-title"
-                style={{ marginLeft: "-48px", fontSize: "xx-large" }}
-              >
-                B.Sc Animation
-              </h5>
-              <div className="applyClg desktopOnly">
-                <button
-                  style={{
-                    marginLeft: "1070px",
-                    color: "blue",
-                    border: "groove",
-                  }}
-                  type="button"
-                  className="primaryBtn applyNow getLeadForm leadCourseCapture js-open-lead-form"
-                  data-platform="web"
-                  data-entity="course_stream"
-                  data-entityid="193"
-                  data-ctalocation="courses_category_web_bsc-animation_card_cta1"
-                  data-ctatext="Apply Now"
-                  data-leadformtitle="REGISTER TO APPLY"
-                  data-subheadingtext="B.Sc Animation"
-                  data-image="https://media.getmyuni.com/yas/images/gmu-icon.svg"
-                >
-                  Apply Now
-                </button>
-              </div>
-              <p class="card-text">
-                Government colleges have an average fee ranging from INR 10K, to
-                INR 75K per annum while private colleges have fees in the range,
-                INR 50K to INR 5 Lakhs Per Annum.
-              </p>
-              <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
-              </p>
-              <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
-              </p>
-            </div>
-            <div className="courseLinks">
-              <a
-                href="/bsc-animation-syllabus-subjects"
-                title="Syllabus &amp; Subjects"
-                style={{ textDecoration: "none" }}
-              >
-                Syllabus &amp; Subjects
-              </a>
-              <a
-                href="/bsc-animation-jobs-scope-salary"
-                title="Job, Scope &amp; Salary"
-                style={{ textDecoration: "none" }}
-              >
-                Job, Scope &amp; Salary
-              </a>
-            </div>
-          </div>
+          
         </div>
       </div>
     </div>

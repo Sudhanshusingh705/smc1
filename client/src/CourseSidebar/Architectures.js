@@ -1585,7 +1585,7 @@ const Architectures = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                B.Arch [Bachelor of Architecture]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1614,10 +1614,11 @@ const Architectures = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 2 - 6 LPA
+</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 5 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1647,7 +1648,7 @@ const Architectures = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                M.Arch [Master of Architecture]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1676,10 +1677,10 @@ const Architectures = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 60,000 to 2.6 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1709,7 +1710,7 @@ const Architectures = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+               M.Plan [Master of Planning]
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1738,10 +1739,10 @@ const Architectures = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 20,000 - 1 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1771,7 +1772,7 @@ const Architectures = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                B.Arch Interior Design
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1800,10 +1801,10 @@ const Architectures = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 25k to 1.5 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 5 Years</small>
               </p>
             </div>
             <div className="courseLinks">
@@ -1833,7 +1834,8 @@ const Architectures = () => {
                 className="card-title"
                 style={{ marginLeft: "-48px", fontSize: "xx-large" }}
               >
-                B.Sc Animation
+                Diploma in Interior Design
+
               </h5>
               <div className="applyClg desktopOnly">
                 <button
@@ -1862,10 +1864,10 @@ const Architectures = () => {
                 INR 50K to INR 5 Lakhs Per Annum.
               </p>
               <p class="card-text">
-                <small class="text-muted">💰Avarage fees: ---</small>
+                <small class="text-muted">💰Avarage fees: 20,000 - 2 LPA</small>
               </p>
               <p class="card-text">
-                <small class="text-muted">⌛Duration: 3 Years</small>
+                <small class="text-muted">⌛Duration: 2 Years</small>
               </p>
             </div>
             <div className="courseLinks">
