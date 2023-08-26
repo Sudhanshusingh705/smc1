@@ -268,7 +268,7 @@ function Home() {
               >
                 <a
                   className="hoverable-paragraph"
-                  href="/sidebar"
+                  href="/agriculture"
                   style={{ color: "black", textDecoration: "none" }}
                 >
                   See All

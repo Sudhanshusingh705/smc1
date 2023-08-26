@@ -12,7 +12,7 @@ const CourseSidebar = () => {
     <div>
       <button
         className="toggle-button btn btn-outline-dark"
-        style={{marginLeft: '337px'}}
+        style={{marginLeft: '337px', marginTop: '42px'}}
         onClick={toggleModal}
        
       >

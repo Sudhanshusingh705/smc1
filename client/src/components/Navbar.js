@@ -1,7 +1,11 @@
 import React, { useState } from "react";
 import hero4 from "../assets/hero/hero4.png"; // Import the CSS file for styling
 import logo05 from "../assets/logo/logo05.png";
-
+import hero3 from "../assets/hero/hero3.png";
+import hero5 from "../assets/hero/hero5.png";
+import hero6 from "../assets/hero/hero6.png";
+import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 import "../screen/Home.css";
 import "./Navbar.css";
@@ -9,7 +13,6 @@ import "./Navbar.css";
 const handleLogo05Click = () => {
   window.location.reload(); // Refresh the page
 };
-
 
 const NavBarWithImage = () => {
   const [dropdownOpen, setDropdownOpen] = useState();
@@ -20,26 +23,102 @@ const NavBarWithImage = () => {
 
   return (
     <div>
-      <div className="image-container" style={{ position: "relative" }}>
-        <img src={hero4} alt="Background Image" />
-        <div className="centered-content text-white">
-          <h2>Find Over 25000+ Colleges in India</h2>
+      <Carousel
+        autoPlay
+        infiniteLoop
+        showArrows={false}
+        showStatus={false}
+        showThumbs={false}
+        interval={5000} // Set the interval between slides
+      >
+        <div className="image-container" style={{ position: "relative" }}>
+          <img src={hero4} alt="Background Image" />
+          <div className="centered-content text-white">
+            <h2>Find Over 25000+ Colleges in India</h2>
 
-          <form className="example">
-            <input type="text" placeholder="Search.." name="search" />
-            <button type="submit"><i className="fa fa-search"></i></button>
-          </form>
+            <form className="example">
+              <input type="text" placeholder="Search.." name="search" />
+              <button type="submit">
+                <i className="fa fa-search"></i>
+              </button>
+            </form>
 
-          <div className="buttons-container">
-          <button className="ciit-counseling-button">Need Counselling</button>
+            <div className="buttons-container">
+              <button className="ciit-counseling-button">
+                Need Counselling
+              </button>
+            </div>
           </div>
         </div>
-      </div>
-      <div className="subnavbar justify-content-end" style={{ backgroundColor: "transparent" }}>
 
+        <div className="image-container" style={{ position: "relative" }}>
+          <img src={hero3} alt="Background Image" />
+          <div className="centered-content text-white">
+            <h2>Find Over 25000+ Colleges in India</h2>
+
+            <form className="example">
+              <input type="text" placeholder="Search.." name="search" />
+              <button type="submit">
+                <i className="fa fa-search"></i>
+              </button>
+            </form>
+
+            <div className="buttons-container">
+              <button className="ciit-counseling-button">
+                Need Counselling
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div className="image-container" style={{ position: "relative" }}>
+          <img src={hero5} alt="Background Image" />
+          <div className="centered-content text-white">
+            <h2>Find Over 25000+ Colleges in India</h2>
+
+            <form className="example">
+              <input type="text" placeholder="Search.." name="search" />
+              <button type="submit">
+                <i className="fa fa-search"></i>
+              </button>
+            </form>
+
+            <div className="buttons-container">
+              <button className="ciit-counseling-button">
+                Need Counselling
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <div className="image-container" style={{ position: "relative" }}>
+          <img src={hero6} alt="Background Image" />
+          <div className="centered-content text-white">
+            <h2>Find Over 25000+ Colleges in India</h2>
+
+            <form className="example">
+              <input type="text" placeholder="Search.." name="search" />
+              <button type="submit">
+                <i className="fa fa-search"></i>
+              </button>
+            </form>
+
+            <div className="buttons-container">
+              <button className="ciit-counseling-button">
+                Need Counselling
+              </button>
+            </div>
+          </div>
+        </div>
+      </Carousel>
+      <div
+        className="subnavbar justify-content-end"
+        style={{ backgroundColor: "transparent", marginTop: '55px' }}
+      >
         <ul>
           <div className="dropdown">
-            <button className="dropbtn">B.Tech
+            <button className="dropbtn">
+              B.Tech
               <i className="fa fa-caret-down"></i>
             </button>
             <div className="dropdown-content">
@@ -144,13 +223,13 @@ const NavBarWithImage = () => {
         </ul>
       </div>
 
-      <div className="navbar">
+      <div className="navbar" style={{marginTop: '-10px', marginLeft: '-31px'}}>
         <ul>
           {/*Logo*/}
           <li>
             <div className="logo-container">
-            <a href="/home" onClick={handleLogo05Click}>
-              <img src={logo05} alt="Logo" className="logo-image" />
+              <a href="/home" onClick={handleLogo05Click}>
+                <img src={logo05} alt="Logo" className="logo-image" />
               </a>
             </div>
           </li>
@@ -191,12 +270,8 @@ const NavBarWithImage = () => {
             <a href="/appdownload">📱Downloads</a>
           </li>
         </ul>
-
-        {/* <ul className="nav justify-content-end"> 
-  </ul> */}
       </div>
     </div>
-
   );
 };
 

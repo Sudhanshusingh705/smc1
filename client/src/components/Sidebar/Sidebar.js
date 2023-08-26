@@ -12,7 +12,7 @@ const Sidebar = () => {
     <div>
       <button
         className="toggle-button btn btn-outline-dark"
-        style={{marginLeft: '13px'}}
+        style={{marginLeft: '13px', marginTop: '41px'}}
         onClick={toggleModal}
       >
         {modalVisible ? "Close" : "Select Goal"}
